@@ -1,3 +1,55 @@
+@font-face {
+  font-family: 'Douglas-Burlington-Regular';
+  font-display: block;
+  font-style: normal;
+  font-named-instance: 'Display';
+  src: url('/fonts/Douglas-Burlington-Regular.otf') format('otf');
+}
+
+@font-face {
+  font-family: 'Audrey-Normal';
+  font-display: block;
+  font-style: normal;
+  src: url('/fonts/Audrey-Normal.otf') format('otf');
+}
+
+@font-face {
+  font-family: 'Audrey-Medium';
+  font-display: block;
+  font-style: medium;
+  src: url('/fonts/Audrey-Medium.otf') format('otf');
+}
+
+@font-face {
+  font-family: 'Audrey-Bold';
+  font-display: block;
+  font-style: bold;
+  src: url('/fonts/Audrey-Bold.otf') format('otf');
+}
+
+@layer base {
+  html {
+    font-family: 'Audrey-Normal', sans-serif;
+  }
+  h1 {
+    font-family: 'Douglas-Burlington-Regular', display;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+  }
+  h2 {
+    font-family: 'Douglas-Burlington-Regular';
+    letter-spacing: 0.05em;
+  }
+  h3 {
+    font-family: 'Audrey-Bold';
+    letter-spacing: 0.05em;
+  }
+  h4 {
+    font-family: 'Audrey-Medium';
+    letter-spacing: 0.05em;
+  }
+}
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;

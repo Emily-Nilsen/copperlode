@@ -25,8 +25,8 @@ export function FoodMenuSection() {
           </h1>
           <p className="mt-6 text-xl leading-8 text-gray-300">
             At Copperlode Brewery Co., we believe that great beer deserves great
-            food. That's why we offer a delicious menu of locally-sourced dishes
-            to pair perfectly with our craft beers.
+            food. That's why we offer a mouth-watering menu of locally-sourced
+            dishes to pair perfectly with our craft beers.
           </p>
           <p className="mt-6 text-lg leading-8 text-gray-300">
             From juicy burgers to fresh salads, our menu has something for

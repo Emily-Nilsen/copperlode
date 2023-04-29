@@ -48,6 +48,10 @@
     font-family: 'Audrey-Medium';
     letter-spacing: 0.05em;
   }
+  h5 {
+    font-family: 'cheddar-gothic-rough', sans-serif;
+    letter-spacing: 0.05em;
+  }
 }
 
 @tailwind base;

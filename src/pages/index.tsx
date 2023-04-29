@@ -9,7 +9,10 @@ import { OurBeersSection } from '@/components/OurBeersSection';
 import { FoodMenuSection } from '@/components/FoodMenuSection';
 import { AboutUsSection } from '@/components/AboutUsSection';
 import { SpacerBarley } from '@/components/SpacerBarley';
+import { ToursSection } from '@/components/ToursSection';
 import { SpacerWater } from '@/components/SpacerWater';
+import { SpacerHop } from '@/components/SpacerHop';
+import { VisitUsSection } from '@/components/VisitUsSection';
 import { BlogSection } from '@/components/BlogSection';
 import { Footer } from '@/components/Footer';
 
@@ -29,6 +32,11 @@ export default function Home() {
         <FoodMenuSection />
         <SpacerWater />
         <AboutUsSection />
+        <SpacerHop />
+        <ToursSection />
+        <SpacerBarley />
+        <VisitUsSection />
+        <SpacerWater />
         <BlogSection />
       </main>
       <Footer />

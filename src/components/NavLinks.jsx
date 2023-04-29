@@ -10,6 +10,7 @@ export function NavLinks() {
     ['Food Menu', '/food-menu'],
     ['About Us', '/about-us'],
     ['Brewery Tours', '/brewery-tours'],
+    ['Visit Us', '#visit-us'],
     ['Blog', '/blog'],
   ].map(([label, href], index) => (
     <Link
@@ -22,7 +23,7 @@ export function NavLinks() {
       <AnimatePresence>
         {hoveredIndex === index && (
           <motion.span
-            className="inset-0 rounded-lg lg:absolute bg-white/20"
+            className="inset-0 rounded-lg lg:absolute bg-copper/20"
             layoutId="hoverBackground"
             initial={{ opacity: 0 }}
             animate={{ opacity: 1, transition: { duration: 0.15 } }}

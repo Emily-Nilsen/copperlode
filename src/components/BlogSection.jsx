@@ -72,9 +72,10 @@ export function BlogSection() {
               key={post.id}
               className="relative flex flex-col justify-end px-8 pb-8 overflow-hidden isolate rounded-2xl bg-gray-950 pt-80 sm:pt-48 lg:pt-80"
             >
-              <img
+              <Image
                 src={post.imageUrl}
                 alt=""
+                fill
                 className="absolute inset-0 object-cover w-full h-full -z-10"
               />
               <div className="absolute inset-0 -z-10 bg-gradient-to-t from-gray-950 via-gray-950/40" />

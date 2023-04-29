@@ -56,8 +56,8 @@ export function ToursSection() {
             </h1>
             <p className="mt-6 text-lg leading-8 text-gray-300">
               Explore the inner workings of Copperlode Brewery Co. with our
-              guided tours. Led by our expert brewers, you'll learn about our
-              unique brewing process, our brewery's history, and our passion for
+              guided tours. Led by our expert brewers, you’ll learn about our
+              unique brewing process, our brewery’s history, and our passion for
               crafting beer.
             </p>
           </div>

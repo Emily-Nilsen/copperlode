@@ -53,7 +53,7 @@ export function VisitUsSection() {
                   Visit us
                 </h1>
                 <p className="mt-6 text-lg leading-8 text-gray-300">
-                  Copperlode Brewery Co.'s tavern and bar offer a welcoming and
+                  Copperlode Brewery Co.’s tavern and bar offer a welcoming and
                   relaxed atmosphere for customers to enjoy their craft beer and
                   tasty meals. Come and join us in the heart of the rainforest!
                 </p>

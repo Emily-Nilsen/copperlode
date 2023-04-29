@@ -3,7 +3,7 @@
   font-display: block;
   font-style: normal;
   font-named-instance: 'Display';
-  src: url('/fonts/Douglas-Burlington-Regular.otf') format('otf');
+  src: url('/fonts/douglas-burlington-regular-webfont.woff') format('wobb');
 }
 
 @font-face {

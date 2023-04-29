@@ -3,28 +3,32 @@
   font-display: block;
   font-style: normal;
   font-named-instance: 'Display';
-  src: url('/fonts/douglas-burlington-regular-webfont.woff') format('wobb');
+  src: url('/fonts/douglas-burlington-regular-webfont.woff') format('woff'),
+    url('/fonts/douglas-burlington-regular-webfont.woff2') format('woff2');
 }
 
 @font-face {
   font-family: 'Audrey-Normal';
   font-display: block;
   font-style: normal;
-  src: url('/fonts/Audrey-Normal.otf') format('otf');
+  src: url('/fonts/audrey-normal-webfont.woff') format('woff'),
+    url('/fonts/audrey-normal-webfont.woff2') format('woff2');
 }
 
 @font-face {
   font-family: 'Audrey-Medium';
   font-display: block;
   font-style: medium;
-  src: url('/fonts/Audrey-Medium.otf') format('otf');
+  src: url('/fonts/audrey-medium-webfont.woff') format('woff'),
+    url('/fonts/audrey-medium-webfont.woff2') format('woff2');
 }
 
 @font-face {
   font-family: 'Audrey-Bold';
   font-display: block;
   font-style: bold;
-  src: url('/fonts/Audrey-Bold.otf') format('otf');
+  src: url('/fonts/audrey-bold-webfont.woff') format('woff'),
+    url('/fonts/audrey-bold-webfont.woff2') format('woff2');
 }
 
 @layer base {

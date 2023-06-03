@@ -87,7 +87,7 @@ export default function ContactUs() {
           />
           <input
             type="hidden"
-            name="tema"
+            name="subject"
             value="Contact Copperlode Brewing Co."
           />
           <div className="max-w-xl mx-auto lg:mr-0 lg:max-w-lg">

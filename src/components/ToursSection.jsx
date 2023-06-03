@@ -1,14 +1,7 @@
 import Image from 'next/image';
 import Link from 'next/link';
 
-import {
-  ArrowPathIcon,
-  CloudArrowUpIcon,
-  Cog6ToothIcon,
-  FingerPrintIcon,
-  LockClosedIcon,
-  ServerIcon,
-} from '@heroicons/react/20/solid';
+import { Button } from './Button';
 
 import { WheatIcon } from './Logos';
 import { BuildingWheatIcon } from './Logos';
@@ -18,7 +11,7 @@ const features = [
   {
     name: 'Learn.',
     description:
-      'Learn about the unique brewing process, the history of the brewery, and our passion for crafting beers',
+      'Learn about the unique brewing process, the history of our brewery, and our passion for crafting beers',
     icon: <WheatIcon className="absolute w-5 fill-copper left-1 top-1" />,
   },
   {
@@ -56,9 +49,10 @@ export function ToursSection() {
             </h1>
             <p className="mt-6 text-lg leading-8 text-gray-300">
               Explore the inner workings of Copperlode Brewery Co. with our
-              guided tours. Led by our expert brewers, you’ll learn about our
-              unique brewing process, our brewery’s history, and our passion for
-              crafting beer.
+              guided tours, booked through and conducted by Cairns Brewery
+              Tours. Discover our unique brewing process, delve into the history
+              of our brewery, and experience our unwavering passion for crafting
+              exceptional beer.
             </p>
           </div>
         </div>
@@ -87,6 +81,15 @@ export function ToursSection() {
               </div>
             ))}
           </dl>
+          <div className="flex justify-center mt-10">
+            <Button
+              target="_blank"
+              rel="noopener noreferrer"
+              href="https://brewerytourscairns.com.au/"
+            >
+              Book with Cairns Brewery Tours
+            </Button>
+          </div>
         </div>
       </div>
     </section>

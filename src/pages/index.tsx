@@ -1,9 +1,5 @@
 import Image from 'next/image';
-import { Inter } from 'next/font/google';
 
-const inter = Inter({ subsets: ['latin'] });
-
-import { Header } from '@/components/Header';
 import { Hero } from '@/components/Hero';
 import { OurBeersSection } from '@/components/OurBeersSection';
 import { FoodMenuSection } from '@/components/FoodMenuSection';
@@ -14,7 +10,7 @@ import { SpacerWater } from '@/components/SpacerWater';
 import { SpacerHop } from '@/components/SpacerHop';
 import { VisitUsSection } from '@/components/VisitUsSection';
 import { BlogSection } from '@/components/BlogSection';
-import { Footer } from '@/components/Footer';
+import { AgeVerification } from '@/components/AgeVerification';
 
 function classNames(...classes: string[]) {
   return classes.filter(Boolean).join(' ');
@@ -22,9 +18,7 @@ function classNames(...classes: string[]) {
 
 export default function Home() {
   return (
-    <div className="bg-white">
-      <Header />
-
+    <div className="bg-copper">
       <main>
         <Hero />
         <OurBeersSection />
@@ -38,8 +32,8 @@ export default function Home() {
         <VisitUsSection />
         <SpacerWater />
         <BlogSection />
+        <AgeVerification />
       </main>
-      <Footer />
     </div>
   );
 }

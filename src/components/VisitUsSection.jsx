@@ -10,18 +10,23 @@ import { BusIcon } from './Logos';
 
 const openingHours = [
   {
-    name: 'Monday to Thursday:',
-    description: '11am to 9pm',
+    name: 'Thursday:',
+    description: '4pm - late',
     icon: <ClockNineIcon className="absolute w-4 fill-copper left-1 top-1" />,
   },
   {
-    name: 'Friday and Saturday:',
-    description: '11am to 10pm',
+    name: 'Friday:',
+    description: '12pm - late',
+    icon: <ClockTenIcon className="absolute w-4 fill-copper left-1 top-1" />,
+  },
+  {
+    name: 'Saturday:',
+    description: '12pm - late',
     icon: <ClockTenIcon className="absolute w-4 fill-copper left-1 top-1" />,
   },
   {
     name: 'Sunday:',
-    description: '11am to 8pm',
+    description: '12pm - 10pm',
     icon: <ClockEightIcon className="absolute w-4 fill-copper left-1 top-1" />,
   },
 ];
@@ -55,13 +60,11 @@ export function VisitUsSection() {
                 <p className="mt-6 text-lg leading-8 text-gray-300">
                   Copperlode Brewery Co.’s tavern and bar offer a welcoming and
                   relaxed atmosphere for customers to enjoy their craft beer and
-                  tasty meals. Come and join us in the heart of the rainforest!
+                  tasty meals. Come and join us!
                 </p>
               </div>
               <div className="relative min-w-full max-w-xl rounded-xl shadow-xl ring-1 ring-copper/20 lg:row-span-4 lg:w-[64rem] lg:max-w-none sm:h-full object-cover h-60">
                 <Map />
-                {/* <div className="absolute min-w-full max-w-xl rounded-xl shadow-xl ring-1 ring-copper/20 lg:row-span-4 lg:w-[64rem] lg:max-w-none sm:h-full object-cover h-60 bg-copper/40 mix-blend-multiply opacity-60" />
-                <div className="absolute min-w-full max-w-xl rounded-xl shadow-xl ring-1 ring-copper/20 lg:row-span-4 lg:w-[64rem] lg:max-w-none sm:h-full object-cover h-60 bg-copper mix-blend-color-burn opacity-100" /> */}
               </div>
 
               <div className="max-w-xl lg:row-start-3 lg:mt-10 lg:max-w-md lg:border-t lg:border-white/10 lg:pt-10">

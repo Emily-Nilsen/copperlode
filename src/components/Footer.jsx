@@ -56,14 +56,16 @@ export function Footer() {
         </nav>
         <div className="flex justify-center mt-10 space-x-10 sm:mt-16">
           {social.map((item) => (
-            <a
+            <Link
               key={item.name}
               href={item.href}
+              target="_blank"
+              rel="noopener noreferrer"
               className="text-gray-300 transition duration-300 ease-in-out hover:text-copper"
             >
               <span className="sr-only">{item.name}</span>
               <item.icon className="w-6 h-6" aria-hidden="true" />
-            </a>
+            </Link>
           ))}
         </div>
         <p className="mt-10 text-sm leading-5 text-center text-gray-300">

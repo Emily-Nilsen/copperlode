@@ -68,7 +68,10 @@ export function Header() {
               onClick={() => setMobileMenuOpen(false)}
             >
               <span className="sr-only">Close menu</span>
-              <XMarkIcon className="w-6 h-6" aria-hidden="true" />
+              <XMarkIcon
+                className="w-6 h-6 outline-none focus:outline-none"
+                aria-hidden="true"
+              />
             </button>
           </div>
           <div className="flow-root mt-6">

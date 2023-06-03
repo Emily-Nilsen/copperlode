@@ -76,7 +76,7 @@ export function AgeVerification() {
                 <div className="mt-5 sm:mt-4 sm:flex sm:flex-row-reverse">
                   <button
                     type="button"
-                    className="inline-flex justify-center w-full px-3 py-2 text-sm font-semibold text-white transition-all duration-150 ease-in-out rounded-md shadow-sm bg-copper hover:contrast-125 sm:ml-3 sm:w-auto"
+                    className="inline-flex justify-center w-full px-3 py-2 text-sm font-semibold text-white transition-all duration-150 ease-in-out rounded-md shadow-sm outline-none bg-copper hover:contrast-125 sm:ml-3 sm:w-auto focus:outline-none"
                     onClick={() => setOpen(false)}
                   >
                     Confirm Age

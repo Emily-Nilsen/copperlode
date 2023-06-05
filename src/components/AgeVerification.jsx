@@ -22,7 +22,7 @@ export function AgeVerification() {
           leaveFrom="opacity-100"
           leaveTo="opacity-0"
         >
-          <div className="fixed inset-0 transition-opacity bg-gray-800 bg-opacity-75 mix-blend-multiply" />
+          <div className="fixed inset-0 transition-opacity bg-gray-800 bg-opacity-75" />
         </Transition.Child>
 
         <div className="fixed inset-0 z-10 overflow-y-auto">

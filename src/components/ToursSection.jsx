@@ -37,7 +37,7 @@ const features = [
 
 export function ToursSection() {
   return (
-    <section>
+    <section id="tours">
       <div className="py-24 bg-gray-950 sm:py-32">
         <div className="px-6 mx-auto max-w-7xl lg:px-8">
           <div className="max-w-2xl mx-auto sm:text-center">
@@ -50,9 +50,9 @@ export function ToursSection() {
             <p className="mt-6 text-lg leading-8 text-gray-300">
               Explore the inner workings of Copperlode Brewery Co. with our
               guided tours, booked through and conducted by Cairns Brewery
-              Tours. Discover our unique brewing process, delve into the history
-              of our brewery, and experience our unwavering passion for crafting
-              exceptional beer.
+              Tours. Discover our unique brewing process, delve into the brewery
+              <span className="font-['blanket']">’</span>s history, and
+              experience our unwavering passion for crafting exceptional beer.
             </p>
           </div>
         </div>
@@ -87,7 +87,7 @@ export function ToursSection() {
               rel="noopener noreferrer"
               href="https://brewerytourscairns.com.au/"
             >
-              Book with Cairns Brewery Tours
+              Book a tour with Cairns Brewery Tours
             </Button>
           </div>
         </div>

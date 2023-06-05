@@ -58,9 +58,10 @@ export function VisitUsSection() {
                   Visit us
                 </h1>
                 <p className="mt-6 text-lg leading-8 text-gray-300">
-                  Copperlode Brewery Co.’s tavern and bar offer a welcoming and
-                  relaxed atmosphere for customers to enjoy their craft beer and
-                  tasty meals. Come and join us!
+                  Copperlode Brewery Co.
+                  <span className="font-['blanket']">’</span>s tavern and bar
+                  offer a welcoming and relaxed atmosphere for customers to
+                  enjoy their craft beer and tasty meals. Come and join us!
                 </p>
               </div>
               <div className="relative min-w-full max-w-xl rounded-xl shadow-xl ring-1 ring-copper/20 lg:row-span-4 lg:w-[64rem] lg:max-w-none sm:h-full object-cover h-60">

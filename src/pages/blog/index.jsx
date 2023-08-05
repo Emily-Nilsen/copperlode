@@ -56,10 +56,12 @@ export default function Blog(props) {
                   </div>
                   <div className="flex pt-6 mt-6 border-t border-gray-900/5">
                     <div className="relative flex items-center gap-x-4">
-                      <img
+                      <Image
                         src={post.author.imageUrl}
                         alt=""
-                        className="w-10 h-10 rounded-full bg-gray-50"
+                        className="w-10 h-10 border rounded-full bg-copper border-copper/80"
+                        width={300}
+                        height={300}
                       />
                       <div className="text-sm leading-6">
                         <p className="font-semibold text-white">

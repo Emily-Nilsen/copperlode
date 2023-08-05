@@ -38,7 +38,7 @@ export default function Blog(props) {
                     <time dateTime={post.datetime} className="text-gray-400">
                       {post.date}
                     </time>
-                    <div className="relative z-10 rounded-full bg-gray-50 px-3 py-1.5 font-medium text-gray-600 hover:bg-gray-100">
+                    <div className="relative z-10 rounded-full bg-copper px-3 py-1.5 font-medium text-gray-900">
                       {post.category.title}
                     </div>
                   </div>

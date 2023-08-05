@@ -15,7 +15,7 @@ export default function Blog(props) {
             Copperlode Chronicles
           </h2>
           <p className="mt-2 text-lg leading-8 text-gray-300">
-            Stay in the loop about Copperlode Brewery Co.'s latest happenings
+            Stay in the loop about Copperlode Brewery Co.’s latest happenings
             and exciting upcoming events.
           </p>
           <div className="mt-16 space-y-20 lg:mt-20 lg:space-y-20">

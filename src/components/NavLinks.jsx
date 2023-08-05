@@ -12,7 +12,7 @@ export function NavLinks() {
     ['About Us', '#'],
     ['Brewery Tours', '#tours'],
     ['Visit Us', '#visit-us'],
-    ['Blog', '#'],
+    ['Blog', '/blog'],
   ].map(([label, href], index) => (
     <Link
       key={label}

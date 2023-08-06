@@ -14,6 +14,7 @@ export function Morgan() {
                 alt="Morgan Hind"
                 width={3024}
                 height={4032}
+                unoptimized
               />
             </div>
           </div>

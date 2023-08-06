@@ -14,6 +14,7 @@ export function Daigo() {
                 alt="Daigo Kwik"
                 width={3024}
                 height={4032}
+                unoptimized
               />
             </div>
           </div>

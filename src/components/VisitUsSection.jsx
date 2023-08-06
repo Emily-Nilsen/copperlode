@@ -9,33 +9,33 @@ import { CarIcon } from './Logos';
 import { BusIcon } from './Logos';
 
 const openingHours = [
+  // {
+  //   name: 'Thursday:',
+  //   description: '4pm - late',
+  //   icon: <ClockNineIcon className="absolute w-4 fill-copper left-1 top-1" />,
+  // },
   {
-    name: 'Thursday:',
-    description: '4pm - late',
-    icon: <ClockNineIcon className="absolute w-4 fill-copper left-1 top-1" />,
-  },
-  {
-    name: 'Friday:',
+    name: 'Thursday to Sunday:',
     description: '12pm - late',
     icon: <ClockTenIcon className="absolute w-4 fill-copper left-1 top-1" />,
   },
-  {
-    name: 'Saturday:',
-    description: '12pm - late',
-    icon: <ClockTenIcon className="absolute w-4 fill-copper left-1 top-1" />,
-  },
-  {
-    name: 'Sunday:',
-    description: '12pm - 10pm',
-    icon: <ClockEightIcon className="absolute w-4 fill-copper left-1 top-1" />,
-  },
+  // {
+  //   name: 'Saturday:',
+  //   description: '12pm - late',
+  //   icon: <ClockTenIcon className="absolute w-4 fill-copper left-1 top-1" />,
+  // },
+  // {
+  //   name: 'Sunday:',
+  //   description: '12pm - 10pm',
+  //   icon: <ClockEightIcon className="absolute w-4 fill-copper left-1 top-1" />,
+  // },
 ];
 
 const directions = [
   {
     name: 'By car:',
     description:
-      'Located at 1B Hargreaves St, the tavern is a short drive from Cairns city centre.',
+      'Located at 1B Hargreaves St, Edmonton, the tavern is a short drive from Cairns city centre.',
     icon: <CarIcon className="absolute w-4 fill-copper left-1 top-1" />,
   },
   {

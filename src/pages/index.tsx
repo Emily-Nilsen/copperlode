@@ -11,6 +11,7 @@ import { SpacerHop } from '@/components/SpacerHop';
 import { VisitUsSection } from '@/components/VisitUsSection';
 import { BlogSection } from '@/components/BlogSection';
 import { AgeVerification } from '@/components/AgeVerification';
+import { UpcomingEvents } from '@/components/UpcomingEvents';
 
 function classNames(...classes: string[]) {
   return classes.filter(Boolean).join(' ');
@@ -23,6 +24,7 @@ export default function Home() {
         <Hero />
         <OurBeersSection />
         <SpacerBarley />
+        <UpcomingEvents />
         <FoodMenuSection />
         <SpacerWater />
         <AboutUsSection />

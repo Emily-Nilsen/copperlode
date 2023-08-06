@@ -48,9 +48,9 @@ export function ToursSection() {
               A guided journey through our brewery
             </h1>
             <p className="mt-6 text-lg leading-8 text-gray-300">
-              Explore the inner workings of Copperlode Brewery Co. with our
-              guided tours, booked through and conducted by Cairns Brewery
-              Tours. Discover our unique brewing process, delve into the brewery
+              Explore the inner workings of Copperlode Brewery Co. with guided
+              tours booked through Cairns Brewery Tours and conducted by Conrad.
+              Discover our unique brewing process, delve into the brewery
               <span className="font-['blanket']">’</span>s history, and
               experience our unwavering passion for crafting exceptional beer.
             </p>

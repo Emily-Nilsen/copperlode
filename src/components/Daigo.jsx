@@ -29,7 +29,8 @@ export function Daigo() {
                 <p className="mt-6">
                   Daigo, a valued team member, brings extensive knowledge and
                   skill to Copperlode Brewery Co. With a love for craft beer and
-                  a talent for sales, he contributes to the brewery's success.
+                  a talent for sales, he contributes to the brewery
+                  <span className="font-['blanket']">’</span>s success.
                 </p>
                 <p className="mt-8">
                   As Executive Director of Sales and Bar Manager, he strives to

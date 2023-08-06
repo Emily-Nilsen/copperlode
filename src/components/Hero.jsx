@@ -66,10 +66,10 @@ export function Hero() {
               <div className="flex items-center justify-center mt-10 gap-x-6">
                 <Button>Discover our beers</Button>
                 <Link
-                  href="#"
+                  href="#upcomingEvents"
                   className="text-sm font-semibold leading-6 text-white transition duration-300 ease-in-out hover:text-copper"
                 >
-                  Visit the shop <span aria-hidden="true">→</span>
+                  Upcoming events <span aria-hidden="true">→</span>
                 </Link>
               </div>
             </div>

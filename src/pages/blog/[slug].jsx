@@ -73,7 +73,7 @@ export default function BlogPost({ post }) {
               <p className="mb-2 text-xl leading-8 text-copper">
                 {post.subtitle}
               </p>
-              <h2 className="text-3xl font-bold tracking-tight text-white sm:text-4xl">
+              <h2 className="text-3xl font-bold text-white sm:text-4xl">
                 {post.title}
               </h2>
               <p className="mt-2 leading-8 text-copper">{post.date}</p>
@@ -166,7 +166,7 @@ export default function BlogPost({ post }) {
                 </div>
               </div>
               <div className="lg:col-start-1 lg:w-full lg:max-w-lg lg:pb-8">
-                <h2 className="text-3xl font-bold tracking-tight text-white sm:text-4xl">
+                <h2 className="text-3xl font-bold text-white sm:text-4xl">
                   {post.subheading}
                 </h2>
                 <p className="mt-6 text-xl leading-8 text-gray-300">

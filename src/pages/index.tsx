@@ -25,6 +25,7 @@ export default function Home() {
         <OurBeersSection />
         <SpacerBarley />
         <UpcomingEvents />
+        <SpacerHop />
         <FoodMenuSection />
         <SpacerWater />
         <AboutUsSection />

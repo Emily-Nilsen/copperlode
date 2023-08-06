@@ -74,7 +74,7 @@ const posts = [
     category: { title: 'Event Highlights' },
     author: {
       name: 'Daigo Kwik',
-      role: 'Co-Founder / CTO',
+      role: 'Co-Founder / Bar Manager',
       imageUrl:
         'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Daigo_thumbnail_zqnjfc.webp',
     },
@@ -143,8 +143,8 @@ const posts = [
     datetime: '2023-08-11',
     category: { title: 'Behind the Scenes' },
     author: {
-      name: 'Morgan',
-      role: 'Co-Founder / CTO',
+      name: 'Morgan Hind',
+      role: 'Co-Founder / Head Brewer / CEO',
       imageUrl:
         'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Morgan_thumbnail_o7i4mq.webp',
     },
@@ -210,7 +210,7 @@ const posts = [
     category: { title: 'Behind the Scenes' },
     author: {
       name: 'Daigo Kwik',
-      role: 'Co-Founder / CTO',
+      role: 'Co-Founder / Bar Manager',
 
       imageUrl:
         'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Daigo_thumbnail_zqnjfc.webp',

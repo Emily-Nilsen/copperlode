@@ -8,16 +8,20 @@ import { MusicIcon } from './Logos';
 
 export function UpcomingEvents() {
   return (
-    <div className="py-24 overflow-hidden bg-gray-950 sm:py-32">
+    <div
+      id="upcomingEvents"
+      className="py-24 overflow-hidden bg-gray-950 sm:py-32"
+    >
       <div className="px-6 mx-auto max-w-7xl lg:px-8">
         <div className="grid max-w-2xl grid-cols-1 mx-auto gap-x-8 gap-y-16 sm:gap-y-20 lg:mx-0 lg:max-w-none lg:grid-cols-2">
           <div className="lg:ml-auto lg:pl-4 lg:pt-4">
             <div className="lg:max-w-lg">
-              <h1 className="mt-2 text-3xl font-bold tracking-tight text-white sm:text-4xl">
+              <h1 className="mt-2 text-3xl font-bold text-white sm:text-4xl">
                 Upcoming Events
               </h1>
               <p className="mt-6 text-lg leading-8 text-gray-300">
-                Here are some upcoming events you don't want to miss:
+                Here are some upcoming events at Copperlode Brewing Co. you don
+                <span className="font-['blanket']">’</span>t want to miss:
               </p>
               <dl className="max-w-xl mt-10 space-y-8 text-base leading-7 text-gray-300 lg:max-w-none">
                 <div className="relative pl-9">

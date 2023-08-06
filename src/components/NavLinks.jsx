@@ -6,10 +6,10 @@ export function NavLinks() {
   let [hoveredIndex, setHoveredIndex] = useState(null);
 
   return [
-    ['Our Beers', '#'],
-    ['Shop', '#'],
+    ['Our Beers', '/beers'],
+    ['Shop Coming Soon!', '#'],
     ['Meals', '#meals'],
-    ['About Us', '#'],
+    ['About Us', '/about-us'],
     ['Brewery Tours', '#tours'],
     ['Visit Us', '#visit-us'],
     ['Blog', '/blog'],

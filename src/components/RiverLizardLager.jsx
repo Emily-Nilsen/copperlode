@@ -30,7 +30,7 @@ export function RiverLizardLager() {
               <p className="text-base font-semibold leading-7 text-copper">
                 Refreshing - Crisp - Tropical
               </p>
-              <h1 className="mt-2 text-3xl font-bold tracking-tight text-white sm:text-4xl">
+              <h1 className="mt-2 text-3xl font-bold text-white sm:text-4xl">
                 River Lizard Lager
               </h1>
               <div className="max-w-xl">
@@ -65,7 +65,7 @@ export function RiverLizardLager() {
             <div className="flex mt-10">
               <Link
                 href="/about-us"
-                className="text-base font-semibold leading-7 text-copper hover:text-copper/90 transition duration-300 ease-in-out"
+                className="text-base font-semibold leading-7 transition duration-300 ease-in-out text-copper hover:text-copper/90"
               >
                 Learn more about Copperlode Brewery Co.{' '}
                 <span aria-hidden="true">&rarr;</span>

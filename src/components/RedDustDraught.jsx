@@ -31,7 +31,7 @@ export function RedDustDraught() {
                 Full<span className="font-['blanket']">-</span>Strength - Rugged
                 - Robust
               </p>
-              <h1 className="mt-2 text-3xl font-bold tracking-tight text-white sm:text-4xl">
+              <h1 className="mt-2 text-3xl font-bold text-white sm:text-4xl">
                 Red Dust Draught
               </h1>
               <div className="max-w-xl">

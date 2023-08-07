@@ -14,7 +14,7 @@ export default function ContactUs() {
         <title>Contact Us | Reach Out Today</title>
         <meta
           name="description"
-          content="Get in touch with Copperlode Brewery Co. We'd love to hear from you. Cheers!"
+          content="Get in touch with Copperlode Brewery Co. We’d love to hear from you. Cheers!"
         />
         <link
           rel="canonical"

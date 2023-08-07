@@ -44,6 +44,7 @@ export default function Blog(props) {
                       alt=""
                       fill
                       className="absolute inset-0 object-cover w-full h-full rounded-2xl bg-gray-50 aspect-[16/9] sm:aspect-[2/1] lg:aspect-square"
+                      unoptimized
                     />
                     <div className="absolute inset-0 rounded-2xl ring-1 ring-inset ring-gray-900/10" />
                   </div>
@@ -76,6 +77,7 @@ export default function Blog(props) {
                           className="w-10 h-10 border rounded-full bg-copper border-copper/80"
                           width={300}
                           height={300}
+                          unoptimized
                         />
                         <div className="text-sm leading-6">
                           <p className="font-semibold text-white">

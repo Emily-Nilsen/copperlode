@@ -29,6 +29,7 @@ export function BlogSection(props) {
                 alt=""
                 fill
                 className="absolute inset-0 object-cover w-full h-full -z-10"
+                unoptimized
               />
               <div className="absolute inset-0 -z-10 bg-gradient-to-t from-gray-950 via-gray-950/40" />
               <div className="absolute inset-0 -z-10 rounded-2xl ring-1 ring-inset ring-gray-950/10" />

@@ -33,6 +33,7 @@ export function OurBeersSection() {
                 width={1500}
                 height={1000}
                 className="aspect-[7/5] w-[37rem] max-w-none rounded-2xl bg-gray-50 object-cover"
+                unoptimized
               />
             </div>
             <div className="contents lg:col-span-2 lg:col-end-2 lg:ml-auto lg:flex lg:w-[37rem] lg:items-start lg:justify-end lg:gap-x-8">
@@ -43,6 +44,7 @@ export function OurBeersSection() {
                   width={1500}
                   height={1134}
                   className="aspect-[4/3] w-[24rem] max-w-none flex-none rounded-2xl bg-gray-50 object-cover"
+                  unoptimized
                 />
               </div>
               <div className="flex justify-end flex-auto w-96 lg:w-auto lg:flex-none">
@@ -52,6 +54,7 @@ export function OurBeersSection() {
                   width={1500}
                   height={844}
                   className="aspect-[7/5] w-[37rem] max-w-none flex-none rounded-2xl bg-gray-50 object-cover"
+                  unoptimized
                 />
               </div>
               <div className="hidden sm:block sm:w-0 sm:flex-auto lg:w-auto lg:flex-none">
@@ -61,6 +64,7 @@ export function OurBeersSection() {
                   width={1500}
                   height={1000}
                   className="aspect-[4/3] w-[24rem] max-w-none rounded-2xl bg-gray-50 object-cover"
+                  unoptimized
                 />
               </div>
             </div>

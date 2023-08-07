@@ -14,6 +14,8 @@ export function Hero() {
             alt="Copperlod Brewery Co., Far North Queensland, Australia"
             fill
             className="absolute inset-0 object-cover w-full h-full -z-10"
+            unoptimized
+            priority
           />
         </div>
         {/* Desktop */}
@@ -23,6 +25,8 @@ export function Hero() {
             alt="Copperlod Brewery Co., Far North Queensland, Australia"
             fill
             className="absolute inset-0 object-cover w-full h-full -z-10"
+            unoptimized
+            priority
           />
         </div>
 

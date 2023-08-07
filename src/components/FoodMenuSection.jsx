@@ -12,6 +12,7 @@ export function FoodMenuSection() {
             alt=""
             fill
             className="absolute inset-0 object-cover w-full h-full -z-10"
+            unoptimized
           />
           <div className="absolute inset-0 bg-gray-950/70" />
           <div className="absolute top-0 w-full lg:h-40 h-28 bg-gradient-to-b from-gray-950" />

@@ -64,6 +64,7 @@ export function ToursSection() {
               className="mb-[-12%] rounded-xl shadow-2xl ring-1 ring-white/10"
               width={2500}
               height={1686}
+              unoptimized
             />
             <div className="relative" aria-hidden="true">
               <div className="absolute -inset-x-20 bottom-0 bg-gradient-to-t from-gray-950 pt-[7%]" />

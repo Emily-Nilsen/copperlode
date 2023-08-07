@@ -69,8 +69,8 @@ const posts = [
           'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/posts/IMG_5172_cwf04e.webp',
       },
     ],
-    date: 'Aug 12, 2023',
-    datetime: '2023-08-12',
+    date: 'Aug 7, 2023',
+    datetime: '2023-08-07',
     category: { title: 'Event Highlights' },
     author: {
       name: 'Daigo Kwik',
@@ -139,8 +139,8 @@ const posts = [
           'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/posts/bar_top_with_mug_djrcur.webp',
       },
     ],
-    date: 'Aug 11, 2023',
-    datetime: '2023-08-11',
+    date: 'Aug 5, 2023',
+    datetime: '2023-08-05',
     category: { title: 'Behind the Scenes' },
     author: {
       name: 'Morgan Hind',
@@ -205,8 +205,8 @@ const posts = [
           'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/posts/tradie_cmfwii.webp',
       },
     ],
-    date: 'Aug 10, 2023',
-    datetime: '2023-08-10',
+    date: 'Aug 2, 2023',
+    datetime: '2023-08-02',
     category: { title: 'Behind the Scenes' },
     author: {
       name: 'Daigo Kwik',

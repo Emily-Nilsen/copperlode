@@ -1,5 +1,5 @@
 import Image from 'next/image';
-
+import Head from 'next/head';
 import { Hero } from '@/components/Hero';
 import { OurBeersSection } from '@/components/OurBeersSection';
 import { FoodMenuSection } from '@/components/FoodMenuSection';
@@ -19,24 +19,38 @@ function classNames(...classes: string[]) {
 
 export default function Home() {
   return (
-    <div className="bg-copper">
-      <main>
-        <Hero />
-        <OurBeersSection />
-        <SpacerBarley />
-        <UpcomingEvents />
-        <SpacerHop />
-        <FoodMenuSection />
-        <SpacerWater />
-        <AboutUsSection />
-        <SpacerHop />
-        <ToursSection />
-        <SpacerBarley />
-        <VisitUsSection />
-        <SpacerWater />
-        <BlogSection />
-        <AgeVerification />
-      </main>
-    </div>
+    <>
+      <Head>
+        <title>Copperlode Brewery Co. | Craft Beer in the Tropics</title>
+        <meta
+          name="description"
+          content="Discover Copperlode Brewery Co., where craft beer and pure water meet. Explore our unique brews and experience beer bliss."
+        />
+        <link
+          rel="canonical"
+          href="https://www.copperlodebrewing.com.au/"
+          key="canonical"
+        />
+      </Head>
+      <div className="bg-copper">
+        <main>
+          <Hero />
+          <OurBeersSection />
+          <SpacerBarley />
+          <UpcomingEvents />
+          <SpacerHop />
+          <FoodMenuSection />
+          <SpacerWater />
+          <AboutUsSection />
+          <SpacerHop />
+          <ToursSection />
+          <SpacerBarley />
+          <VisitUsSection />
+          <SpacerWater />
+          <BlogSection />
+          <AgeVerification />
+        </main>
+      </div>
+    </>
   );
 }

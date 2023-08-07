@@ -17,7 +17,7 @@ export function RiverLizardLager() {
             <div className="relative px-6 pt-64 overflow-hidden bg-gray-900 shadow-2xl rounded-3xl pb-9 sm:px-12 lg:max-w-lg lg:px-8 lg:pb-8 xl:px-10 xl:pb-10 lg:aspect-[1/1]">
               <Image
                 className="absolute inset-0 object-cover w-full h-full lg:aspect-[1/1]"
-                src="https://res.cloudinary.com/dt3k2apqd/image/upload/v1691404249/Copperlode%20Brewery/Lizard_Lager_v1_upscayl_4x_kdodpf.webp"
+                src="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Lizard_Lager_v2_ja8j9s.webp"
                 alt="River Lizard Lager"
                 width={3000}
                 height={1681}

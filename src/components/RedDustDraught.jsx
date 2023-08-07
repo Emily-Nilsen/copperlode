@@ -17,7 +17,7 @@ export function RedDustDraught() {
             <div className="relative px-6 pt-64 overflow-hidden bg-gray-900 shadow-2xl rounded-3xl pb-9 sm:px-12 lg:max-w-lg lg:px-8 lg:pb-8 xl:px-10 xl:pb-10 lg:aspect-[1/1]">
               <Image
                 className="absolute inset-0 object-cover w-full h-full lg:aspect-[1/1]"
-                src="https://res.cloudinary.com/dt3k2apqd/image/upload/v1691404259/Copperlode%20Brewery/Red_Dust_beer_upscayl_4x_dpdjuj.webp"
+                src="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Red_Dust_beer_upscayl_4x_dpdjuj.webp"
                 alt="River Lizard Lager"
                 width={3000}
                 height={1681}

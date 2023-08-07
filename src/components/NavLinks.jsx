@@ -7,11 +7,11 @@ export function NavLinks() {
 
   return [
     ['Our Beers', '/our-beers'],
-    ['Shop Coming Soon!', '#'],
-    ['Meals', '#meals'],
+    ['Shop Coming Soon!', '/#'],
+    ['Meals', '/#meals'],
     ['About Us', '/about-us'],
-    ['Brewery Tours', '#tours'],
-    ['Visit Us', '#visit-us'],
+    ['Brewery Tours', '/#tours'],
+    ['Visit Us', '/#visit-us'],
     ['Blog', '/blog'],
   ].map(([label, href], index) => (
     <Link

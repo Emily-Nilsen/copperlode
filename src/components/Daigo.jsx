@@ -46,7 +46,7 @@ export function Daigo() {
             <dl className="grid grid-cols-2 gap-8 pt-10 mt-10 border-t border-white/10 sm:grid-cols-4"></dl>
             <div className="flex mt-10">
               <Link
-                href="/"
+                href="/our-beers"
                 className="text-base font-semibold leading-7 text-copper"
               >
                 Back to the beers <span aria-hidden="true">&rarr;</span>

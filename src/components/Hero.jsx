@@ -64,7 +64,7 @@ export function Hero() {
                 pristine water from Copperlode Dam.
               </p>
               <div className="flex items-center justify-center mt-10 gap-x-6">
-                <Button>Discover our beers</Button>
+                <Button href="/our-beers">Discover our beers</Button>
                 <Link
                   href="#upcomingEvents"
                   className="text-sm font-semibold leading-6 text-white transition duration-300 ease-in-out hover:text-copper"

@@ -56,7 +56,7 @@ export default function AboutUs() {
         />
         <link
           rel="canonical"
-          href="https://www.copperlodebrewing.com.au/about-us"
+          href="https://copperlodebrewing.com.au/about-us"
           key="canonical"
         />
       </Head>

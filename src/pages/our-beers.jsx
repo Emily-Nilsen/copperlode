@@ -19,7 +19,7 @@ export default function OurBeers() {
         />
         <link
           rel="canonical"
-          href="https://www.copperlodebrewing.com.au/our-beers"
+          href="https://copperlodebrewing.com.au/our-beers"
           key="canonical"
         />
       </Head>

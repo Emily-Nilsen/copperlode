@@ -28,7 +28,7 @@ export default function Home() {
         />
         <link
           rel="canonical"
-          href="https://www.copperlodebrewing.com.au/"
+          href="https://copperlodebrewing.com.au/"
           key="canonical"
         />
       </Head>

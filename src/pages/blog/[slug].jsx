@@ -72,7 +72,7 @@ export default function BlogPost({ post }) {
         <meta name="description" content={post.description} />
         <link
           rel="canonical"
-          href={`https://www.copperlodebrewing.com.au/blog/${currentSlug}`}
+          href={`https://copperlodebrewing.com.au/blog/${currentSlug}`}
           key="canonical"
         />
       </Head>

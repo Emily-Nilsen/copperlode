@@ -18,7 +18,7 @@ export default function Blog(props) {
         />
         <link
           rel="canonical"
-          href="https://www.copperlodebrewing.com.au/blog"
+          href="https://copperlodebrewing.com.au/blog"
           key="canonical"
         />
       </Head>

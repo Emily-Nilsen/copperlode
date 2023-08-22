@@ -77,7 +77,7 @@ export default function BlogPost({ post }) {
         />
       </Head>
 
-      <section className="py-32 sm:pt-52 bg-gray-950">
+      <section className="py-32 pt-36 sm:pt-52 bg-gray-950">
         {/* top section */}
         <div className="overflow-hidden ">
           <div className="px-6 mx-auto max-w-7xl lg:flex lg:px-8">

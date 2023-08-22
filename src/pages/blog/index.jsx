@@ -22,7 +22,7 @@ export default function Blog(props) {
           key="canonical"
         />
       </Head>
-      <div className="py-24 bg-gray-950 sm:py-32 md:py-48">
+      <div className="py-36 bg-gray-950 sm:py-32 md:py-48">
         <div className="px-6 mx-auto max-w-7xl lg:px-8">
           <div className="max-w-2xl mx-auto lg:max-w-4xl">
             <h2 className="text-3xl font-bold text-white sm:text-4xl">

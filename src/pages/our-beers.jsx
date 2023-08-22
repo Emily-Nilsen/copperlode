@@ -23,7 +23,7 @@ export default function OurBeers() {
           key="canonical"
         />
       </Head>
-      <div className="pt-24 bg-gray-950 sm:pt-52">
+      <div className="pt-36 bg-gray-950 sm:pt-52">
         <div className="px-6 mx-auto max-w-7xl lg:px-8">
           <div className="max-w-2xl mx-auto lg:mx-0">
             <p className="text-base font-semibold leading-7 text-copper">

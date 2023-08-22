@@ -1,7 +1,7 @@
 import Link from 'next/link';
-
+import { Fragment, forwardRef } from 'react';
 import { useState } from 'react';
-import { Dialog, Disclosure } from '@headlessui/react';
+import { Dialog, Disclosure, Popover, Transition } from '@headlessui/react';
 import {
   Bars3Icon,
   MinusSmallIcon,
@@ -11,9 +11,13 @@ import {
 
 import { NavLinks } from '@/components/NavLinks';
 import { LogoMark } from '@/components/Logos';
+import MyLink from '@/components/MyLink';
 
 export function Header() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
+  const closeMobileMenu = () => {
+    setMobileMenuOpen(false);
+  };
 
   return (
     <header className="absolute inset-x-0 top-0 z-50">
@@ -74,18 +78,20 @@ export function Header() {
               />
             </button>
           </div>
+
           <div className="flow-root mt-6">
             <div className="-my-6 divide-y divide-gray-500/25">
               <div className="py-6 space-y-2">
-                <NavLinks />
+                <NavLinks closeMobileMenu={closeMobileMenu} />
               </div>
-              <div className="py-6">
-                <Link
+              <div className="flow-root py-6">
+                <MyLink
                   href="/contact-us"
                   className="-mx-3 block rounded-lg px-3 py-2.5 text-base font-semibold leading-7 text-white hover:bg-gray-800"
+                  onClick={closeMobileMenu}
                 >
                   Contact Us
-                </Link>
+                </MyLink>
               </div>
             </div>
           </div>

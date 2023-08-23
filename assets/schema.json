@@ -1,0 +1,60 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Brewery",
+  "name": "Copperlode Brewing Co.",
+  "description": "Craft beer from the heart of the rainforest, brewed with pristine water from Copperlode Dam.",
+  "url": "https://www.copperlodebrewing.com.au",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1B Hargreaves St",
+    "addressLocality": "Edmonton",
+    "addressRegion": "QLD",
+    "postalCode": "4869",
+    "addressCountry": "Australia"
+  },
+  "telephone": "0459493433",
+  "email": "brewery@copperlodebrewing.com.au",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "-17.020489",
+    "longitude": "145.726318"
+  },
+  "openingHours": "Th-Su 12:00-late",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Craft Beers",
+      "description": [
+        "A variety of handcrafted beers",
+        "River Lizard Lager",
+        "Red Dust Draught"
+      ],
+      "url": "https://www.copperlodebrewing.com.au/our-beers"
+    }
+  ],
+  "event": [
+    "live music",
+    "trivia",
+    "food trucks",
+    "music bingo",
+    "cane toad races"
+  ],
+  "keywords": "craft beer, brewery, beer tasting, local beers, Cairns, FNQ, Edmonton, Australia, Queensland, Far North Queensland, Copperlode Dam, Red Dust Draught, River Lizard Lager, Copperlode Brewing Co.",
+  "slogan": "It’s all about the water.",
+  "founder": [
+    {
+      "@type": "Person",
+      "name": "Morgan Hind"
+    },
+    {
+      "@type": "Person",
+      "name": "Daigo Kwik"
+    }
+  ],
+  "foundingDate": "2023",
+  "logo": "https://res.cloudinary.com/dt3k2apqd/image/upload/v1692778921/Copperlode%20Brewery/RGB_Copperlode_Brewing_co_-_Logo_Black_2x_zfszj1.png",
+  "image": [
+    "https://res.cloudinary.com/dt3k2apqd/image/upload/v1691415118/Copperlode%20Brewery/red_beer_ud8mew.webp",
+    "https://res.cloudinary.com/dt3k2apqd/image/upload/v1691414221/Copperlode%20Brewery/Lizard_Lager_v2_ja8j9s.webp"
+  ]
+}

@@ -75,9 +75,45 @@ export default function ContactUs() {
                   <dd>
                     <a
                       className="hover:text-white"
-                      href="mailto:brewery@copperlodebrewing.com.au"
+                      href="mailto:shaun@copperlodebrewing.com.au"
                     >
-                      brewery
+                      shaun
+                      <span className="font-['blanket']">@</span>
+                      copperlodebrewing.com.au
+                    </a>
+                  </dd>
+                </div>
+                <div className="flex gap-x-4">
+                  <dt className="flex-none">
+                    <span className="sr-only">or</span>
+                    <EnvelopeIcon
+                      className="w-6 text-transparent h-7"
+                      aria-hidden="true"
+                    />
+                  </dt>
+                  <dd>
+                    <div
+                      className="hover:text-white"
+                      href="mailto:accounts@copperlodebrewing.com.au"
+                    >
+                      or
+                    </div>
+                  </dd>
+                </div>
+                <div className="flex gap-x-4">
+                  <dt className="flex-none">
+                    <span className="sr-only">Email</span>
+                    <EnvelopeIcon
+                      className="w-6 text-copper h-7"
+                      aria-hidden="true"
+                    />
+                  </dt>
+                  <dd>
+                    <a
+                      className="hover:text-white"
+                      href="mailto:accounts@copperlodebrewing.com.au"
+                    >
+                      accounts
                       <span className="font-['blanket']">@</span>
                       copperlodebrewing.com.au
                     </a>

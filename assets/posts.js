@@ -136,7 +136,7 @@ const posts = [
       },
       {
         image:
-          'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/posts/bar_top_eittod.webp',
+          'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/posts/bar_top_guajdi.webp',
       },
     ],
     date: 'Aug 5, 2023',

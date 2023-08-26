@@ -84,13 +84,13 @@ const posts = [
     subtitle: 'A Bar Top with a Story: ',
     title: 'Craftsmanship and Nature Meet at Copperlode Brewery Co.',
     description:
-      'Our bar top at Copperlode Brewery Co. is a beautiful representation of our rainforest home, made from timber discs and stones from the stunning Crystal Cascades.',
+      'Our bar top at Copperlode Brewery Co. is a beautiful representation of our rainforest home, made from timber discs and stones.',
     subheading: 'Railway Spike Taps',
     content: [
-      {
-        paragraph:
-          'The water that flows over these stones is incorporated into our brewing process, infusing a unique natural essence to the brew.',
-      },
+      // {
+      //   paragraph:
+      //     'The water that flows over these stones is incorporated into our brewing process, infusing a unique natural essence to the brew.',
+      // },
       {
         paragraph:
           'In addition to these raw elements, our bar top includes Army and Navy badges generously donated by the 51st Battalion and trinkets from our investors. ',

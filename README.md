@@ -1,6 +1,6 @@
 # Copperlode Brewery Co.
 
-Copperlode Brewery Co. is a craft beer brewery located in Cairns, Far North Queensland, Australia. The app is built using [Tailwind CSS](https://tailwindcss.com) and [Next.js](https://nextjs.org). The app includes a landing page, About Us, Beers, Restaurant and Latest News pages.
+Copperlode Brewery Co. is a craft beer brewery located in Cairns, Far North Queensland, Australia. The app is built using [Tailwind CSS](https://tailwindcss.com) and [Next.js](https://nextjs.org). The app includes a landing page, About Us, Our Beers, Blog and Contact pages.
 
 Here is a link to the [Copperlode Brewery Co.](https://copperlodebrewery.com) website.
 

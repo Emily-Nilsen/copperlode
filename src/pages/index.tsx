@@ -21,10 +21,10 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Copperlode Brewery Co. | Craft Beer in the Tropics</title>
+        <title>Copperlode Brewery Co. | Craft Brewery in Cairns</title>
         <meta
           name="description"
-          content="Discover Copperlode Brewery Co., where craft beer and pure water meet. Explore our unique brews and experience beer bliss."
+          content="Discover Copperlode Brewery Co., the ultimate craft brewery in Cairns, where exceptional brews and pure water come together for an unmatched beer experience."
         />
         <link
           rel="canonical"

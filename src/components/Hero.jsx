@@ -11,7 +11,7 @@ export function Hero() {
         <div className="sm:hidden">
           <Image
             src="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/hero_mobile_dxlfbz.webp"
-            alt="Copperlod Brewery Co., Far North Queensland, Australia"
+            alt="Copperlode Brewery Co., Craft Brewery in Cairns, Australia"
             fill
             className="absolute inset-0 object-cover w-full h-full -z-10"
             unoptimized
@@ -22,7 +22,7 @@ export function Hero() {
         <div className="hidden sm:block">
           <Image
             src="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/hero_placeholder_piqua8.webp"
-            alt="Copperlod Brewery Co., Far North Queensland, Australia"
+            alt="Copperlode Brewery Co., Craft Brewery in Cairns, Australia"
             fill
             className="absolute inset-0 object-cover w-full h-full -z-10"
             unoptimized

@@ -15,15 +15,15 @@ const openingHours = [
   //   icon: <ClockNineIcon className="absolute w-4 fill-copper left-1 top-1" />,
   // },
   {
-    name: 'Thursday to Sunday:',
+    name: 'Thursdays and Fridays:',
+    description: '2pm - late',
+    icon: <ClockTenIcon className="absolute w-4 fill-copper left-1 top-1" />,
+  },
+  {
+    name: 'Saturdays and Sundays:',
     description: '12pm - late',
     icon: <ClockTenIcon className="absolute w-4 fill-copper left-1 top-1" />,
   },
-  // {
-  //   name: 'Saturday:',
-  //   description: '12pm - late',
-  //   icon: <ClockTenIcon className="absolute w-4 fill-copper left-1 top-1" />,
-  // },
   // {
   //   name: 'Sunday:',
   //   description: '12pm - 10pm',

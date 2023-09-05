@@ -35,18 +35,14 @@ export function RiverLizardLager() {
               </h1>
               <div className="max-w-xl">
                 <p className="mt-6">
-                  Dive into tropical refreshment with our River Lizard Lager, an
-                  NQ-inspired, easy-drinking masterpiece.
+                  The River Lizard Lager is an approachable
+                  <span className="font-['blanket']">,</span> mid-strength lager
+                  designed for the Far North.
                 </p>
+
                 <p className="mt-8">
-                  Crafted to perfection, this lager tantalizes the palate with
-                  its crisp, clean taste, reminiscent of the crystal-clear
-                  waters of Far North Queensland.
-                </p>
-                <p className="mt-8">
-                  The River Lizard Lager is a smashable choice, perfect for
-                  leisurely afternoons and relaxed evenings basking in the
-                  warmth of our tropical paradise.
+                  We brew it using Australian barley and wheat malt. This beer
+                  tastes like a beer.
                 </p>
               </div>
             </div>

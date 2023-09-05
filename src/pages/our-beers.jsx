@@ -35,9 +35,10 @@ export default function OurBeers() {
             <p className="mt-6 text-lg leading-8 text-gray-300">
               Immerse yourself in the flavours of Far North Queensland with our
               handcrafted beers. From the refreshing River Lizard Lager to the
-              robust Red Dust Draught, each brew is a masterpiece that
-              celebrates the natural wonders of our region. Sip and savour the
-              essence of FNQ in every glass.
+              robust Red Dust Draught, all our beers are preservative-free and
+              unpasteurised as part of our commitment to flavour and quality.
+              From the moment our beer is racked into kegs, we cold-store them
+              to ensure it stays fresh and tasty.
             </p>
           </div>
           <RiverLizardLager />

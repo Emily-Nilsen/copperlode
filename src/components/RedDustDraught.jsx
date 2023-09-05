@@ -36,11 +36,13 @@ export function RedDustDraught() {
               </h1>
               <div className="max-w-xl">
                 <p className="mt-6">
-                  Embark on a journey to the heart of the Cape with our Red Dust
-                  Draught, a full-strength lager that embodies the rugged spirit
-                  of the outback.
+                  Inspired by outback road trips and a parched throat
+                  <span className="font-['blanket']">,</span> the Red Dust
+                  Draught is a classic Australian-style beer
+                  <span className="font-['blanket']">,</span> balancing smooth
+                  lager characteristics with a roasted malt backbone.
                 </p>
-                <p className="mt-8">
+                {/* <p className="mt-8">
                   Rich like the terracotta hues of the vast desert landscape,
                   this brew boasts a robust, malt-forward profile with a touch
                   of caramel sweetness.
@@ -49,7 +51,7 @@ export function RedDustDraught() {
                   With a full body that leaves a pleasant, lingering aftertaste,
                   the Red Dust Draught is a crushable choice for adventurers
                   seeking a taste of the wild.
-                </p>
+                </p> */}
               </div>
             </div>
             <dl className="grid grid-cols-2 gap-8 pt-10 mt-10 border-t border-gray-100/10 sm:grid-cols-4">

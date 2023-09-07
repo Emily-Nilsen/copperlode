@@ -35,15 +35,16 @@ export function FiveKnotFever() {
               </h1>
               <div className="max-w-xl">
                 <p className="mt-6">
-                  When it's five knots out on the reef, no one can blame you for
-                  pulling a sickie
+                  When it<span className="font-['blanket']">’</span>s five knots
+                  out on the reef, no one can blame you for pulling a sickie
                   <span className="font-['blanket']">,</span> and nothing pairs
                   better with a cheeky fishing trip than our 4.5% pale ale.
                 </p>
 
                 <p className="mt-8">
                   We craft it with a bouquet of tropical hops and Australian
-                  malt, and this beer tastes better than a day in the office.
+                  malt<span className="font-['blanket']">,</span> and this beer
+                  tastes better than a day in the office.
                 </p>
               </div>
             </div>

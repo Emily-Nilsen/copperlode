@@ -19,6 +19,10 @@ export default function OurBeers() {
           name="description"
           content="Tantalize your taste buds with our handcrafted beers inspired by the wonders of Far North Queensland."
         />
+        <meta
+          name="keywords"
+          content="River Lizard Lager, Red Dust Draught, Five Knot Fever, Double Plugger XPA"
+        />
         <link
           rel="canonical"
           href="https://copperlodebrewing.com.au/our-beers"

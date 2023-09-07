@@ -7,6 +7,8 @@ import { SpacerWater } from '@/components/SpacerWater';
 import { SpacerHop } from '@/components/SpacerHop';
 import { RiverLizardLager } from '../components/RiverLizardLager';
 import { RedDustDraught } from '../components/RedDustDraught';
+import { FiveKnotFever } from '../components/FiveKnotFever';
+import { DoublePlugger } from '../components/DoublePlugger';
 
 export default function OurBeers() {
   return (
@@ -45,7 +47,15 @@ export default function OurBeers() {
           <div className="flex items-center justify-center w-full bg-gray-950">
             <HopLogo className="h-6 lg:h-10 fill-white" />
           </div>
+          <FiveKnotFever />
+          <div className="flex items-center justify-center w-full bg-gray-950">
+            <HopLogo className="h-6 lg:h-10 fill-white" />
+          </div>
           <RedDustDraught />
+          <div className="flex items-center justify-center w-full bg-gray-950">
+            <HopLogo className="h-6 lg:h-10 fill-white" />
+          </div>
+          <DoublePlugger />
         </div>
       </div>
     </>

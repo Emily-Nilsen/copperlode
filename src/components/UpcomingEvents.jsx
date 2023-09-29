@@ -63,7 +63,7 @@ export function UpcomingEvents() {
               className="w-[48rem] max-w-none rounded-xl shadow-xl ring-1 ring-gray-400/10 sm:w-[57rem]"
               width={2432}
               height={1442}
-              unoptimized
+              loading="lazy"
             />
           </div>
         </div>

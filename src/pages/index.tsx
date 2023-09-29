@@ -1,17 +1,34 @@
 import Image from 'next/image';
 import Head from 'next/head';
+import dynamic from 'next/dynamic'; // Import dynamic from next/dynamic
+
+// Import static components
 import { Hero } from '@/components/Hero';
-import { OurBeersSection } from '@/components/OurBeersSection';
-import { FoodMenuSection } from '@/components/FoodMenuSection';
-import { AboutUsSection } from '@/components/AboutUsSection';
 import { SpacerBarley } from '@/components/SpacerBarley';
-import { ToursSection } from '@/components/ToursSection';
-import { SpacerWater } from '@/components/SpacerWater';
-import { SpacerHop } from '@/components/SpacerHop';
-import { VisitUsSection } from '@/components/VisitUsSection';
-import { BlogSection } from '@/components/BlogSection';
-import { AgeVerification } from '@/components/AgeVerification';
 import { UpcomingEvents } from '@/components/UpcomingEvents';
+import { SpacerHop } from '@/components/SpacerHop';
+import { SpacerWater } from '@/components/SpacerWater';
+import { AgeVerification } from '@/components/AgeVerification';
+
+// Import other components dynamically
+const OurBeersSection = dynamic(() =>
+  import('@/components/OurBeersSection').then((mod) => mod.OurBeersSection)
+);
+const FoodMenuSection = dynamic(() =>
+  import('@/components/FoodMenuSection').then((mod) => mod.FoodMenuSection)
+);
+const AboutUsSection = dynamic(() =>
+  import('@/components/AboutUsSection').then((mod) => mod.AboutUsSection)
+);
+const ToursSection = dynamic(() =>
+  import('@/components/ToursSection').then((mod) => mod.ToursSection)
+);
+const VisitUsSection = dynamic(() =>
+  import('@/components/VisitUsSection').then((mod) => mod.VisitUsSection)
+);
+const BlogSection = dynamic(() =>
+  import('@/components/BlogSection').then((mod) => mod.BlogSection)
+);
 
 function classNames(...classes: string[]) {
   return classes.filter(Boolean).join(' ');

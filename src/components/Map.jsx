@@ -10,8 +10,6 @@ export function Map() {
         loading="lazy"
         className="absolute inset-0 h-64 overflow-hidden rounded-xl sm:h-full"
       />
-      {/* <div className="absolute min-w-[150%] max-w-xl rounded-xl shadow-xl ring-1 ring-copper/20 lg:row-span-4 lg:w-[64rem] lg:max-w-none sm:h-full object-cover h-64 bg-copper mix-blend-color-burn opacity-100" /> */}
-      {/* <div className="absolute min-w-[150%] max-w-xl rounded-xl shadow-xl ring-1 ring-copper/20 lg:row-span-4 lg:w-[64rem] lg:max-w-none sm:h-full object-cover h-64 bg-copper/40 mix-blend-multiply opacity-60" /> */}
     </div>
   );
 }

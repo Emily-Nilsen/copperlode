@@ -1,4 +1,4 @@
-import { Fragment, useState } from 'react';
+import { Fragment, useState, useEffect } from 'react';
 import { Dialog, Transition } from '@headlessui/react';
 import {
   ExclamationTriangleIcon,
@@ -8,11 +8,21 @@ import { BeerMugIcon } from './Logos';
 import { Button } from './Button';
 
 export function AgeVerification() {
-  const [open, setOpen] = useState(true);
+  const [open, setOpen] = useState(false); // Start with the modal closed
+
+  // Use useEffect to open the modal after 7 seconds
+  useEffect(() => {
+    const timer = setTimeout(() => {
+      setOpen(true); // Open the modal after 7 seconds
+    }, 7000); // 7000 milliseconds = 7 seconds
+
+    // Clear the timer if the component unmounts or if the modal is closed before 7 seconds
+    return () => clearTimeout(timer);
+  }, []); // Empty dependency array to run this effect only once
 
   return (
     <Transition.Root show={open} as={Fragment}>
-      <Dialog as="div" className="relative z-10" onClose={setOpen}>
+      <Dialog as="div" className="relative z-10" onClose={() => setOpen(false)}>
         <Transition.Child
           as={Fragment}
           enter="ease-out duration-300"

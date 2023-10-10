@@ -10,15 +10,24 @@ import { Button } from './Button';
 export function AgeVerification() {
   const [open, setOpen] = useState(false); // Start with the modal closed
 
-  // Use useEffect to open the modal after 7 seconds
   useEffect(() => {
-    const timer = setTimeout(() => {
-      setOpen(true); // Open the modal after 7 seconds
-    }, 7000); // 7000 milliseconds = 7 seconds
+    // Check sessionStorage to see if the modal has already been closed
+    const hasClosedModal = sessionStorage.getItem('hasClosedModal');
 
-    // Clear the timer if the component unmounts or if the modal is closed before 7 seconds
-    return () => clearTimeout(timer);
-  }, []); // Empty dependency array to run this effect only once
+    if (!hasClosedModal) {
+      const timer = setTimeout(() => {
+        setOpen(true); // Open the modal after 7 seconds
+      }, 7000); // 7000 milliseconds = 7 seconds
+
+      return () => clearTimeout(timer);
+    }
+  }, []);
+
+  const handleClose = () => {
+    // When closing the modal, set a flag in sessionStorage
+    sessionStorage.setItem('hasClosedModal', 'true');
+    setOpen(false);
+  };
 
   return (
     <Transition.Root show={open} as={Fragment}>
@@ -87,7 +96,7 @@ export function AgeVerification() {
                   <button
                     type="button"
                     className="inline-flex justify-center w-full px-3 py-2 text-sm font-semibold text-white transition-all duration-150 ease-in-out rounded-md shadow-sm outline-none bg-copper hover:contrast-125 sm:ml-3 sm:w-auto focus:outline-none"
-                    onClick={() => setOpen(false)}
+                    onClick={handleClose}
                   >
                     Confirm Age
                   </button>

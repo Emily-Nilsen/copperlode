@@ -1,5 +1,6 @@
 import Link from 'next/link';
 import { NavLinks } from '@/components/NavLinks';
+import { AnimatePresence, motion } from 'framer-motion';
 
 const social = [
   {
@@ -54,7 +55,7 @@ export function Footer() {
         >
           <NavLinks />
         </nav>
-        <div className="flex justify-center mt-10 space-x-10 sm:mt-16">
+        <div className="flex justify-center space-x-10 mt-14 sm:mt-16">
           {social.map((item) => (
             <Link
               key={item.name}

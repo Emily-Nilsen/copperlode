@@ -181,13 +181,6 @@ export default function AboutUs() {
                       passion for craft beer, enriching the lives of beer
                       enthusiasts near and far.
                     </p>
-                    {/* <p className="mt-10">
-                    Et vitae blandit facilisi magna lacus commodo. Vitae sapien
-                    duis odio id et. Id blandit molestie auctor fermentum
-                    dignissim. Lacus diam tincidunt ac cursus in vel. Mauris
-                    varius vulputate et ultrices hac adipiscing egestas. Iaculis
-                    convallis ac tempor et ut. Ac lorem vel integer orci.
-                  </p> */}
                   </div>
                 </div>
                 <div className="lg:flex lg:flex-auto lg:justify-center">

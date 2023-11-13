@@ -248,7 +248,8 @@ export default function ContactUs() {
           <Image
             src="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/hero_mobile_dxlfbz.webp"
             alt="Copperlod Brewery Co., Far North Queensland, Australia"
-            fill
+            width={1500}
+            height={945}
             className="absolute inset-0 object-cover w-full h-full -z-10"
           />
         </div>

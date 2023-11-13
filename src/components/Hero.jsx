@@ -12,7 +12,8 @@ export function Hero() {
           <Image
             src="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/hero_mobile_dxlfbz.webp"
             alt="Copperlode Brewery Co., Craft Brewery in Cairns, Australia"
-            fill
+            width={1500}
+            height={945}
             className="absolute inset-0 object-cover w-full h-full -z-10"
             unoptimized
             priority
@@ -23,7 +24,8 @@ export function Hero() {
           <Image
             src="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/hero_placeholder_piqua8.webp"
             alt="Copperlode Brewery Co., Craft Brewery in Cairns, Australia"
-            fill
+            width={2500}
+            height={1326}
             className="absolute inset-0 object-cover w-full h-full -z-10"
             unoptimized
             priority

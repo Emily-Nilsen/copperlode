@@ -60,7 +60,7 @@ export default function ContactUs() {
                   </dt>
                   <dd>
                     <a className="hover:text-white" href="tel:0459493433">
-                      0459493433
+                      0459 493 433
                     </a>
                   </dd>
                 </div>
@@ -75,9 +75,9 @@ export default function ContactUs() {
                   <dd>
                     <a
                       className="hover:text-white"
-                      href="mailto:shaun@copperlodebrewing.com.au"
+                      href="mailto:gm@copperlodebrewing.com.au"
                     >
-                      shaun
+                      gm
                       <span className="font-['blanket']">@</span>
                       copperlodebrewing.com.au
                     </a>
@@ -91,16 +91,16 @@ export default function ContactUs() {
                       aria-hidden="true"
                     />
                   </dt>
-                  <dd>
+                  {/* <dd>
                     <div
                       className="hover:text-white"
                       href="mailto:accounts@copperlodebrewing.com.au"
                     >
                       or
                     </div>
-                  </dd>
+                  </dd> */}
                 </div>
-                <div className="flex gap-x-4">
+                {/* <div className="flex gap-x-4">
                   <dt className="flex-none">
                     <span className="sr-only">Email</span>
                     <EnvelopeIcon
@@ -118,7 +118,7 @@ export default function ContactUs() {
                       copperlodebrewing.com.au
                     </a>
                   </dd>
-                </div>
+                </div> */}
               </dl>
             </div>
           </div>

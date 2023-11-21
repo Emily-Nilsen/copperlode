@@ -72,10 +72,10 @@ export function Hero() {
               <div className="flex items-center justify-center mt-10 gap-x-6">
                 <Button href="/our-beers">Discover our beers</Button>
                 <Link
-                  href="#upcomingEvents"
+                  href="/calendar"
                   className="text-sm font-semibold leading-6 text-white transition duration-300 ease-in-out hover:text-copper"
                 >
-                  Upcoming events <span aria-hidden="true">→</span>
+                  Copperlode calendar <span aria-hidden="true">→</span>
                 </Link>
               </div>
             </div>

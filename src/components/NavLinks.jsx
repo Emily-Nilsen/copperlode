@@ -7,7 +7,7 @@ export function NavLinks({ closeMobileMenu }) {
 
   return [
     ['Our Beers', '/our-beers'],
-    // ['Calendar', '/calendar'],
+    ['Calendar', '/calendar'],
     ['Shop Coming Soon!', '/#'],
     ['About Us', '/about-us'],
     ['Brewery Tours', '/#tours'],

@@ -30,7 +30,7 @@ const days = [
     date: '2023-12-02',
     isCurrentMonth: true,
     isSelected: true,
-    tooltip: 'Closed from 6pm for a private function',
+    tooltip: 'Savidas',
   },
   {
     date: '2023-12-03',
@@ -78,7 +78,7 @@ const days = [
     date: '2023-12-15',
     isCurrentMonth: true,
     isSelected: true,
-    tooltip: 'Closed from 6pm for a private function',
+    tooltip: 'Musician TBC',
   },
   {
     date: '2023-12-16',
@@ -117,7 +117,7 @@ const days = [
     date: '2023-12-24',
     isCurrentMonth: true,
     isSelected: true,
-    tooltip: 'Daigo Kwik & Nikki Nassa',
+    tooltip: 'Musician TBC',
   },
   { date: '2023-12-25', isCurrentMonth: true },
   { date: '2023-12-26', isCurrentMonth: true },

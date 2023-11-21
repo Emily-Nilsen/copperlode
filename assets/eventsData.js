@@ -24,10 +24,10 @@ export const events = [
     date: '2023-12-02',
     dateText: 'Saturday 2 Dec',
     time: '6:00 PM',
-    name: 'Closed from 6pm for a private function',
+    name: 'Savidas',
     imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/placeholder_jzdida.webp',
-    foodTruck: '',
+      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Savidas_nmmram.webp',
+    foodTruck: 'The Toasted Goat',
   },
   {
     id: 4,
@@ -37,7 +37,7 @@ export const events = [
     name: 'Dave Cooke',
     imageUrl:
       'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Dave_Cooke_nnn5yr.webp',
-    foodTruck: 'Hungry Nomad',
+    foodTruck: 'The Hungry Nomad',
   },
   {
     id: 5,
@@ -67,7 +67,7 @@ export const events = [
     name: 'Matt Gerdes',
     imageUrl:
       'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Matt_Gerdes_slv8gu.webp',
-    foodTruck: 'To be confirmed',
+    foodTruck: 'Whatever Food Truck',
   },
   {
     id: 8,
@@ -94,10 +94,10 @@ export const events = [
     date: '2023-12-15',
     dateText: 'Friday 15 Dec',
     time: '6:00 PM',
-    name: 'Closed from 6pm for a private function',
+    name: 'Musician TBC',
     imageUrl:
       'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/placeholder_jzdida.webp',
-    foodTruck: '',
+    foodTruck: 'The Hungry Nomad',
   },
   {
     id: 11,
@@ -107,7 +107,7 @@ export const events = [
     name: 'Joseph Lanskey',
     imageUrl:
       'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Joey_Lanskey_jufbnf.webp',
-    foodTruck: 'To be confirmed',
+    foodTruck: 'Whatever Food Truck',
   },
   {
     id: 12,
@@ -127,7 +127,7 @@ export const events = [
     name: 'Trivia with DJ Todd Skipper',
     imageUrl:
       'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Todd_Skipper_crzt65.webp',
-    foodTruck: 'To be confirmed',
+    foodTruck: 'Food truck TBC',
   },
   {
     id: 14,
@@ -137,7 +137,7 @@ export const events = [
     name: 'Jimmy James',
     imageUrl:
       'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Jimmy_James_efdiez.webp',
-    foodTruck: 'Hungry Nomad',
+    foodTruck: 'The Hungry Nomad',
   },
   {
     id: 15,
@@ -147,16 +147,16 @@ export const events = [
     name: 'Danny Bani',
     imageUrl:
       'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Danny_Bani_wzh5tt.webp',
-    foodTruck: 'To be confirmed',
+    foodTruck: 'Whatever Food Truck',
   },
   {
     id: 16,
     date: '2023-12-24',
     dateText: 'Sunday 24 Dec',
     time: '6:00 PM',
-    name: 'Daigo Kwik & Nikki Nassa',
+    name: 'Musician TBC',
     imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Daigo_thumbnail_zqnjfc.webp',
+      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/placeholder_jzdida.webp',
     foodTruck: 'Nicks Souvlaki',
   },
   // More events...

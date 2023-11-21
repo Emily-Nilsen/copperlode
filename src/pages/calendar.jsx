@@ -22,7 +22,6 @@ export default function Calendar() {
           href="https://www.copperlodebrewing.com.au/calendar"
           key="canonical"
         />
-        <meta name="robots" content="noindex, nofollow" />
       </Head>
       <div className="relative z-0 bg-gray-950 isolate">
         <div className="grid grid-cols-1 pt-20 mx-auto max-w-7xl lg:grid-cols-2">

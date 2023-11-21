@@ -22,7 +22,26 @@ export default function ContactUs() {
           key="canonical"
         />
       </Head>
-      <div className="relative bg-gray-950 isolate">
+      <div className="relative z-0 bg-gray-950 isolate">
+        <div className="sm:hidden">
+          <Image
+            src="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/hero_mobile_dxlfbz.webp"
+            alt="Copperlod Brewery Co., Far North Queensland, Australia"
+            width={1500}
+            height={945}
+            className="absolute inset-0 object-cover w-full h-full -z-10"
+          />
+        </div>
+        <div className="z-0 hidden sm:block">
+          <Image
+            src="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/hero_placeholder_piqua8.webp"
+            alt="Copperlod Brewery Co., Far North Queensland, Australia"
+            fill
+            className="absolute inset-0 object-cover w-full h-full -z-10"
+          />
+        </div>
+        <div className="absolute inset-0 z-0 bg-gray-950/80" />
+        <div className="absolute bottom-0 z-0 w-full lg:h-40 h-28 bg-gradient-to-t from-gray-950" />
         <div className="grid grid-cols-1 pt-20 mx-auto max-w-7xl lg:grid-cols-2">
           <div className="relative z-20 px-6 pt-24 pb-20 sm:pt-32 lg:static lg:px-8 lg:py-48">
             <div className="max-w-xl mx-auto lg:mx-0 lg:max-w-lg">
@@ -36,7 +55,7 @@ export default function ContactUs() {
                 you. Contact us for any inquiries or to share your thoughts.
               </p>
               <dl className="mt-10 space-y-4 text-base leading-7 text-gray-300">
-                <div className="z-30 flex gap-x-4">
+                <div className="flex gap-x-4">
                   <dt className="flex-none">
                     <span className="sr-only">Address</span>
                     <BuildingStorefrontIcon
@@ -50,7 +69,7 @@ export default function ContactUs() {
                     Edmonton, QLD 4869
                   </dd>
                 </div>
-                <div className="flex gap-x-4">
+                <div className="relative flex gap-x-4">
                   <dt className="flex-none">
                     <span className="sr-only">Telephone</span>
                     <PhoneIcon
@@ -59,12 +78,12 @@ export default function ContactUs() {
                     />
                   </dt>
                   <dd>
-                    <a className="hover:text-white" href="tel:0459493433">
-                      0459 493 433
+                    <a className="hover:text-white" href="tel:0405 906 963">
+                      0405 906 963
                     </a>
                   </dd>
                 </div>
-                <div className="flex gap-x-4">
+                <div className="relative flex gap-x-4">
                   <dt className="flex-none">
                     <span className="sr-only">Email</span>
                     <EnvelopeIcon
@@ -244,7 +263,7 @@ export default function ContactUs() {
             </div>
           </form>
         </div>
-        <div className="sm:hidden">
+        {/* <div className="sm:hidden">
           <Image
             src="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/hero_mobile_dxlfbz.webp"
             alt="Copperlod Brewery Co., Far North Queensland, Australia"
@@ -262,7 +281,7 @@ export default function ContactUs() {
           />
         </div>
         <div className="absolute inset-0 z-0 bg-gray-950/80" />
-        <div className="absolute bottom-0 z-0 w-full lg:h-40 h-28 bg-gradient-to-t from-gray-950" />
+        <div className="absolute bottom-0 z-0 w-full lg:h-40 h-28 bg-gradient-to-t from-gray-950" /> */}
       </div>
     </>
   );

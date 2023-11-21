@@ -106,7 +106,7 @@ const days = [
   {
     date: '2023-12-02',
     isSelected: true,
-    tooltip: 'Closed from 6pm for a private function',
+    tooltip: 'Savidas',
   },
   {
     date: '2023-12-03',

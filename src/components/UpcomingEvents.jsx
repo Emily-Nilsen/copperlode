@@ -48,8 +48,7 @@ export function UpcomingEvents() {
                   </dt>{' '}
                   <div className="flex flex-col">
                     <dd className="inline">
-                      Join us for exciting events like trivia, music bingo, and
-                      even cane toad races!
+                      Join us for exciting events like trivia and music bingo.
                     </dd>
                   </div>
                 </div>
@@ -58,8 +57,8 @@ export function UpcomingEvents() {
           </div>
           <div className="flex items-start justify-end lg:order-first">
             <img
-              src="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/sugarcane_toad_race_upscayl_4x_realesrgan-x4plus_copy_dj6d4o.webp"
-              alt="Product screenshot"
+              src="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/copperlode_beer_z79757.webp"
+              alt="Copperlode Brewing Co. beer"
               className="w-[48rem] max-w-none rounded-xl shadow-xl ring-1 ring-gray-400/10 sm:w-[57rem]"
               width={2432}
               height={1442}

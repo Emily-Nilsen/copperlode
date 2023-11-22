@@ -33,7 +33,7 @@ export const events = [
     id: 4,
     date: '2023-12-03',
     dateText: 'Sunday 3 Dec',
-    time: '6:00 PM',
+    time: '1:00 PM',
     name: 'Dave Cooke',
     imageUrl:
       'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Dave_Cooke_nnn5yr.webp',
@@ -73,7 +73,7 @@ export const events = [
     id: 8,
     date: '2023-12-10',
     dateText: 'Sunday 10 Dec',
-    time: '6:00 PM',
+    time: '1:00 PM',
     name: 'Dave Cooke',
     imageUrl:
       'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Dave_Cooke_nnn5yr.webp',
@@ -113,7 +113,7 @@ export const events = [
     id: 12,
     date: '2023-12-17',
     dateText: 'Sunday 17 Dec',
-    time: '6:00 PM',
+    time: '1:00 PM',
     name: 'Katie Richards',
     imageUrl:
       'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Katie_Richards_xbdpkb.webp',
@@ -153,7 +153,7 @@ export const events = [
     id: 16,
     date: '2023-12-24',
     dateText: 'Sunday 24 Dec',
-    time: '6:00 PM',
+    time: '1:00 PM',
     name: 'Musician TBC',
     imageUrl:
       'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/placeholder_jzdida.webp',

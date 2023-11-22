@@ -94,7 +94,7 @@ export const events = [
     date: '2023-12-15',
     dateText: 'Friday 15 Dec',
     time: '6:00 PM',
-    name: 'Musician TBC',
+    name: 'Tim Smith',
     imageUrl:
       'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/placeholder_jzdida.webp',
     foodTruck: 'The Hungry Nomad',
@@ -127,7 +127,7 @@ export const events = [
     name: 'Trivia with DJ Todd Skipper',
     imageUrl:
       'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Todd_Skipper_crzt65.webp',
-    foodTruck: 'Food truck TBC',
+    foodTruck: 'The Toasted Goat',
   },
   {
     id: 14,

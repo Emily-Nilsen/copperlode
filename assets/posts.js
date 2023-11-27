@@ -38,7 +38,7 @@ const posts = [
       'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/posts/bottles_of_secret_wine_vuo185.webp',
     figCaptionImage2: 'Wine connoisseur Wayne Tuni',
     figCaptionImage4: 'Copperlode Brewery Co. proudly sponsors Big Pups',
-    figCaptionImage6: 'Visiting our local radio station "Star 102.7"',
+    // figCaptionImage6: 'Visiting our local radio station "Star 102.7"',
     centralImages: [
       {
         image:
@@ -50,7 +50,7 @@ const posts = [
       },
       {
         image:
-          'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/posts/wine_tasting_p8sbpn.webp',
+          'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/posts/fb_5_vrof57.webp',
       },
       {
         image:
@@ -58,11 +58,11 @@ const posts = [
       },
       {
         image:
-          'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/posts/warm_welcomes_x89epi.webp',
+          'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/posts/fb_4_e6dfu1.webp',
       },
       {
         image:
-          'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/posts/star_radio_ytmt5y.webp',
+          'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/posts/fb_2_la8cp7.webp',
       },
       {
         image:
@@ -73,10 +73,10 @@ const posts = [
     datetime: '2023-08-07',
     category: { title: 'Event Highlights' },
     author: {
-      name: 'Daigo Kwik',
-      role: 'Co-Founder / Bar Manager',
+      name: 'Morgan Hind',
+      role: 'Co-Founder / Head Brewer / CEO',
       imageUrl:
-        'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Daigo_thumbnail_zqnjfc.webp',
+        'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Morgan_thumbnail_o7i4mq.webp',
     },
   },
   {
@@ -112,7 +112,7 @@ const posts = [
     centralImages: [
       {
         image:
-          'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/posts/working_on_bar_top_k3cf4z.webp',
+          'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/posts/bar_top_high_sh8lrb.webp',
       },
       {
         image:
@@ -172,7 +172,7 @@ const posts = [
     ],
     imageUrl:
       'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/posts/IMG_4949_zvxofo.webp',
-    figCaptionImage2: 'Trent and the crew from ACCU Cut',
+    figCaptionImage2: 'Gypsy and Ralph',
     figCaptionImage4: 'On right: Jake from Well-Brewd',
     figCaptionImage6: '1500-litre brew system',
     centralImages: [
@@ -182,7 +182,7 @@ const posts = [
       },
       {
         image:
-          'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/posts/Trent_and_crew_dknebm.webp',
+          'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/posts/gypsy_and_ralph_vcaf3o.webp',
       },
       {
         image:
@@ -209,11 +209,11 @@ const posts = [
     datetime: '2023-08-02',
     category: { title: 'Behind the Scenes' },
     author: {
-      name: 'Daigo Kwik',
-      role: 'Co-Founder / Bar Manager',
+      name: 'Morgan Hind',
+      role: 'Co-Founder / Head Brewer / CEO',
 
       imageUrl:
-        'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Daigo_thumbnail_zqnjfc.webp',
+        'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Morgan_thumbnail_o7i4mq.webp',
     },
   },
 ];

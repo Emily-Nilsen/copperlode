@@ -98,7 +98,7 @@ export default function AboutUs() {
                       <div className="relative">
                         <Image
                           unoptimized
-                          src="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/about_us_hero_1_vcktqn.webp"
+                          src="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/posts/fb_1_udg7un.webp"
                           alt=""
                           className="aspect-[2/3] w-full rounded-xl bg-gray-900/5 object-cover shadow-lg"
                           width={1500}
@@ -146,7 +146,7 @@ export default function AboutUs() {
                       <div className="relative">
                         <Image
                           unoptimized
-                          src="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/about_us_hero_3_p6hsfb.webp"
+                          src="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/posts/fb_2_la8cp7.webp"
                           alt=""
                           className="aspect-[2/3] w-full rounded-xl bg-gray-900/5 object-cover shadow-lg"
                           width={1500}
@@ -250,7 +250,7 @@ export default function AboutUs() {
             </div>
             <div className="flex flex-col gap-10">
               <Morgan />
-              <Daigo />
+              {/* <Daigo /> */}
             </div>
           </div>
         </main>

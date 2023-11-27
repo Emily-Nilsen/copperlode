@@ -129,6 +129,7 @@ export default function BlogPost({ post }) {
                         width={600}
                         height={450}
                       />
+                      {}
                       <figcaption className="flex justify-end mt-4 text-sm leading-6 text-gray-400 gap-x-2">
                         <InformationCircleIcon
                           className="mt-0.5 h-5 w-5 flex-none text-copper"
@@ -223,13 +224,15 @@ export default function BlogPost({ post }) {
                         width={600}
                         height={450}
                       />
-                      <figcaption className="flex justify-end mt-4 text-sm leading-6 text-gray-400 gap-x-2">
-                        <InformationCircleIcon
-                          className="mt-0.5 h-5 w-5 flex-none text-copper"
-                          aria-hidden="true"
-                        />
-                        {post.figCaptionImage6}
-                      </figcaption>
+                      {post.figCaptionsImage6 && (
+                        <figcaption className="flex justify-end mt-4 text-sm leading-6 text-gray-400 gap-x-2">
+                          <InformationCircleIcon
+                            className="mt-0.5 h-5 w-5 flex-none text-copper"
+                            aria-hidden="true"
+                          />
+                          {post.figCaptionImage6}
+                        </figcaption>
+                      )}
                     </div>
                   </div>
                   <div className="hidden sm:block sm:w-0 sm:flex-auto lg:w-auto lg:flex-none">

@@ -111,7 +111,7 @@ const days = [
   {
     date: '2023-12-03',
     isSelected: true,
-    tooltip: 'Dave Cooke',
+    tooltip: 'Dave Cooke / Art Exhibition',
   },
 ];
 

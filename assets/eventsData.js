@@ -17,7 +17,7 @@ export const events = [
     name: 'Joseph Lanskey',
     imageUrl:
       'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Joey_Lanskey_jufbnf.webp',
-    foodTruck: 'Outback Potato Van (official launch)',
+    foodTruck: 'East Coast Paella',
   },
   {
     id: 3,
@@ -33,8 +33,8 @@ export const events = [
     id: 4,
     date: '2023-12-03',
     dateText: 'Sunday 3 Dec',
-    time: '1:00 PM',
-    name: 'Dave Cooke',
+    time: '12:00 PM',
+    name: 'Dave Cooke / Art Exhibition',
     imageUrl:
       'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Dave_Cooke_nnn5yr.webp',
     foodTruck: 'The Hungry Nomad',

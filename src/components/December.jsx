@@ -36,7 +36,7 @@ const days = [
     date: '2023-12-03',
     isCurrentMonth: true,
     isSelected: true,
-    tooltip: 'Dave Cooke',
+    tooltip: 'Dave Cooke / Art Exhibition',
   },
   { date: '2023-12-04', isCurrentMonth: true },
   { date: '2023-12-05', isCurrentMonth: true },

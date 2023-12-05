@@ -154,10 +154,20 @@ export const events = [
     date: '2023-12-24',
     dateText: 'Sunday 24 Dec',
     time: '1:00 PM',
-    name: 'Musician TBC',
+    name: 'Rockin Sweet Duo',
     imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/placeholder_jzdida.webp',
-    foodTruck: 'Nicks Souvlaki',
+      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/rockin_copy_yk0xie.webp',
+    foodTruck: 'Food Truck TBC',
+  },
+  {
+    id: 17,
+    date: '2023-12-31',
+    dateText: 'Sunday 31 Dec',
+    time: '1:00 PM',
+    name: 'JSR DJ',
+    imageUrl:
+      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/JSR_DJ_q9kuji.webp',
+    foodTruck: 'Greek Street Food',
   },
   // More events...
 ];

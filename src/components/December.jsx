@@ -117,7 +117,7 @@ const days = [
     date: '2023-12-24',
     isCurrentMonth: true,
     isSelected: true,
-    tooltip: 'Musician TBC',
+    tooltip: 'Rockin Sweet Duo',
   },
   { date: '2023-12-25', isCurrentMonth: true },
   { date: '2023-12-26', isCurrentMonth: true },
@@ -125,7 +125,12 @@ const days = [
   { date: '2023-12-28', isCurrentMonth: true },
   { date: '2023-12-29', isCurrentMonth: true },
   { date: '2023-12-30', isCurrentMonth: true },
-  { date: '2023-12-31', isCurrentMonth: true },
+  {
+    date: '2023-12-31',
+    isCurrentMonth: true,
+    isSelected: true,
+    tooltip: 'JSR DJ',
+  },
 ];
 
 function classNames(...classes) {

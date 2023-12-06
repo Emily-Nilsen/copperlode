@@ -48,7 +48,8 @@ export function UpcomingEvents() {
                   </dt>{' '}
                   <div className="flex flex-col">
                     <dd className="inline">
-                      Join us for exciting events like trivia and music bingo.
+                      Join us for exciting events like trivia and music bingo
+                      from 7pm.
                     </dd>
                   </div>
                 </div>

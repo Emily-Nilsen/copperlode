@@ -2,24 +2,49 @@ import { useState } from 'react';
 import { ChevronLeftIcon, ChevronRightIcon } from '@heroicons/react/20/solid';
 import { November } from './November';
 import { December } from './December';
+import { January } from './January';
 
 export function CalendarView() {
-  const [currentMonth, setCurrentMonth] = useState(new Date(2023, 10)); // November 2023
+  // Set initial month to December 2023
+  const [currentMonth, setCurrentMonth] = useState(new Date(2023, 11));
 
   const handlePrevMonth = () => {
-    if (currentMonth.getMonth() > 10) {
+    // Check for January 2024 to go back to December 2023
+    if (currentMonth.getMonth() === 0 && currentMonth.getFullYear() === 2024) {
+      setCurrentMonth(new Date(2023, 11));
+    }
+    // Allow navigation back to November 2023 from December 2023
+    else if (
+      currentMonth.getMonth() === 11 &&
+      currentMonth.getFullYear() === 2023
+    ) {
       setCurrentMonth(new Date(2023, 10));
     }
   };
 
   const handleNextMonth = () => {
-    if (currentMonth.getMonth() < 11) {
-      setCurrentMonth(new Date(2023, 11));
+    if (
+      (currentMonth.getMonth() === 10 && currentMonth.getFullYear() === 2023) ||
+      (currentMonth.getMonth() === 11 && currentMonth.getFullYear() === 2023)
+    ) {
+      // Allow navigation to January 2024
+      setCurrentMonth(
+        new Date(currentMonth.getFullYear(), currentMonth.getMonth() + 1)
+      );
     }
   };
 
   const renderMonthComponent = () => {
-    return currentMonth.getMonth() === 10 ? <November /> : <December />;
+    switch (currentMonth.getMonth()) {
+      case 10: // November
+        return <November />;
+      case 11: // December
+        return <December />;
+      case 0: // January
+        return <January />;
+      default:
+        return null;
+    }
   };
 
   return (
@@ -29,11 +54,14 @@ export function CalendarView() {
           type="button"
           onClick={handlePrevMonth}
           className="-m-1.5 flex flex-none items-center justify-center p-1.5 text-gray-400 hover:text-gray-500"
-          disabled={currentMonth.getMonth() <= 10}
+          disabled={
+            currentMonth.getFullYear() === 2023 && currentMonth.getMonth() <= 10
+          }
         >
           <span className="sr-only">Previous month</span>
           <ChevronLeftIcon className="w-5 h-5" aria-hidden="true" />
         </button>
+
         <div className="flex-auto text-base font-semibold">
           {currentMonth.toLocaleString('default', { month: 'long' })}{' '}
           {currentMonth.getFullYear()}
@@ -42,7 +70,7 @@ export function CalendarView() {
           type="button"
           onClick={handleNextMonth}
           className="-m-1.5 flex flex-none items-center justify-center p-1.5 text-gray-400 hover:text-gray-500"
-          disabled={currentMonth.getMonth() >= 11}
+          disabled={currentMonth.getMonth() >= 12}
         >
           <span className="sr-only">Next month</span>
           <ChevronRightIcon className="w-5 h-5" aria-hidden="true" />

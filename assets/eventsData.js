@@ -1,49 +1,49 @@
 export const events = [
-  {
-    id: 1,
-    date: '2023-11-30',
-    dateText: 'Thursday 30 Nov',
-    time: '6:00 PM',
-    name: 'Trivia with DJ Todd Skipper',
-    imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Todd_Skipper_crzt65.webp',
-    foodTruck: 'Toasted Goat',
-  },
-  {
-    id: 2,
-    date: '2023-12-01',
-    dateText: 'Friday 1 Dec',
-    time: '6:00 PM',
-    name: 'Joseph Lanskey',
-    imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Joey_Lanskey_jufbnf.webp',
-    foodTruck: 'East Coast Paella',
-  },
-  {
-    id: 3,
-    date: '2023-12-02',
-    dateText: 'Saturday 2 Dec',
-    time: '6:00 PM',
-    name: 'Savidas',
-    imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Savidas_nmmram.webp',
-    foodTruck: 'The Toasted Goat',
-  },
-  {
-    id: 4,
-    date: '2023-12-03',
-    dateText: 'Sunday 3 Dec',
-    time: '12:00 PM',
-    name: 'Dave Cooke / Art Exhibition',
-    imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Dave_Cooke_nnn5yr.webp',
-    foodTruck: 'The Hungry Nomad',
-  },
+  // {
+  //   id: 1,
+  //   date: '2023-11-30',
+  //   dateText: 'Thursday 30 Nov',
+  //   time: '7:00 PM',
+  //   name: 'Trivia with DJ Todd Skipper',
+  //   imageUrl:
+  //     'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Todd_Skipper_crzt65.webp',
+  //   foodTruck: 'Toasted Goat',
+  // },
+  // {
+  //   id: 2,
+  //   date: '2023-12-01',
+  //   dateText: 'Friday 1 Dec',
+  //   time: '6:00 PM',
+  //   name: 'Joseph Lanskey',
+  //   imageUrl:
+  //     'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Joey_Lanskey_jufbnf.webp',
+  //   foodTruck: 'East Coast Paella',
+  // },
+  // {
+  //   id: 3,
+  //   date: '2023-12-02',
+  //   dateText: 'Saturday 2 Dec',
+  //   time: '6:00 PM',
+  //   name: 'Savidas',
+  //   imageUrl:
+  //     'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Savidas_nmmram.webp',
+  //   foodTruck: 'The Toasted Goat',
+  // },
+  // {
+  //   id: 4,
+  //   date: '2023-12-03',
+  //   dateText: 'Sunday 3 Dec',
+  //   time: '12:00 PM',
+  //   name: 'Dave Cooke / Art Exhibition',
+  //   imageUrl:
+  //     'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Dave_Cooke_nnn5yr.webp',
+  //   foodTruck: 'The Hungry Nomad',
+  // },
   {
     id: 5,
     date: '2023-12-07',
     dateText: 'Thursday 7 Dec',
-    time: '6:00 PM',
+    time: '7:00 PM',
     name: 'Trivia with DJ Todd Skipper',
     imageUrl:
       'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Todd_Skipper_crzt65.webp',
@@ -54,9 +54,9 @@ export const events = [
     date: '2023-12-08',
     dateText: 'Friday 8 Dec',
     time: '6:00 PM',
-    name: 'Danny Bani',
+    name: 'Musician TBC',
     imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Danny_Bani_wzh5tt.webp',
+      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/placeholder_jzdida.webp',
     foodTruck: 'Smoke N Steel',
   },
   {
@@ -83,7 +83,7 @@ export const events = [
     id: 9,
     date: '2023-12-14',
     dateText: 'Thursday 14 Dec',
-    time: '6:00 PM',
+    time: '7:00 PM',
     name: 'Trivia with DJ Todd Skipper',
     imageUrl:
       'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Todd_Skipper_crzt65.webp',
@@ -123,7 +123,7 @@ export const events = [
     id: 13,
     date: '2023-12-21',
     dateText: 'Thursday 21 Dec',
-    time: '6:00 PM',
+    time: '7:00 PM',
     name: 'Trivia with DJ Todd Skipper',
     imageUrl:
       'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Todd_Skipper_crzt65.webp',
@@ -163,7 +163,7 @@ export const events = [
     id: 17,
     date: '2023-12-31',
     dateText: 'Sunday 31 Dec',
-    time: '1:00 PM',
+    time: '8:00 PM - 1:00 AM',
     name: 'JSR DJ',
     imageUrl:
       'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/JSR_DJ_q9kuji.webp',

@@ -51,7 +51,7 @@ const days = [
     date: '2023-12-08',
     isCurrentMonth: true,
     isSelected: true,
-    tooltip: 'Danny Bani',
+    tooltip: 'Musician TBC',
   },
   {
     date: '2023-12-09',

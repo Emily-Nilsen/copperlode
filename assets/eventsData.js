@@ -54,9 +54,9 @@ export const events = [
     date: '2023-12-08',
     dateText: 'Friday 8 Dec',
     time: '6:00 PM',
-    name: 'Musician TBC',
+    name: 'JSR DJ',
     imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/placeholder_jzdida.webp',
+      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/JSR_DJ_q9kuji.webp',
     foodTruck: 'Smoke N Steel',
   },
   {

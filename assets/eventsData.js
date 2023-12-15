@@ -39,46 +39,46 @@ export const events = [
   //     'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Dave_Cooke_nnn5yr.webp',
   //   foodTruck: 'The Hungry Nomad',
   // },
-  {
-    id: 5,
-    date: '2023-12-07',
-    dateText: 'Thursday 7 Dec',
-    time: '7:00 PM',
-    name: 'Trivia with DJ Todd Skipper',
-    imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Todd_Skipper_crzt65.webp',
-    foodTruck: 'Frying Dutchies',
-  },
-  {
-    id: 6,
-    date: '2023-12-08',
-    dateText: 'Friday 8 Dec',
-    time: '6:00 PM',
-    name: 'JSR DJ',
-    imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/JSR_DJ_q9kuji.webp',
-    foodTruck: 'Smoke N Steel',
-  },
-  {
-    id: 7,
-    date: '2023-12-09',
-    dateText: 'Saturday 9 Dec',
-    time: '6:00 PM',
-    name: 'Matt Gerdes',
-    imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Matt_Gerdes_slv8gu.webp',
-    foodTruck: 'Whatever Food Truck',
-  },
-  {
-    id: 8,
-    date: '2023-12-10',
-    dateText: 'Sunday 10 Dec',
-    time: '1:00 PM',
-    name: 'Dave Cooke',
-    imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Dave_Cooke_nnn5yr.webp',
-    foodTruck: 'Toasted Goat',
-  },
+  // {
+  //   id: 5,
+  //   date: '2023-12-07',
+  //   dateText: 'Thursday 7 Dec',
+  //   time: '7:00 PM',
+  //   name: 'Trivia with DJ Todd Skipper',
+  //   imageUrl:
+  //     'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Todd_Skipper_crzt65.webp',
+  //   foodTruck: 'Frying Dutchies',
+  // },
+  // {
+  //   id: 6,
+  //   date: '2023-12-08',
+  //   dateText: 'Friday 8 Dec',
+  //   time: '6:00 PM',
+  //   name: 'JSR DJ',
+  //   imageUrl:
+  //     'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/JSR_DJ_q9kuji.webp',
+  //   foodTruck: 'Smoke N Steel',
+  // },
+  // {
+  //   id: 7,
+  //   date: '2023-12-09',
+  //   dateText: 'Saturday 9 Dec',
+  //   time: '6:00 PM',
+  //   name: 'Matt Gerdes',
+  //   imageUrl:
+  //     'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Matt_Gerdes_slv8gu.webp',
+  //   foodTruck: 'Whatever Food Truck',
+  // },
+  // {
+  //   id: 8,
+  //   date: '2023-12-10',
+  //   dateText: 'Sunday 10 Dec',
+  //   time: '1:00 PM',
+  //   name: 'Dave Cooke',
+  //   imageUrl:
+  //     'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Dave_Cooke_nnn5yr.webp',
+  //   foodTruck: 'Toasted Goat',
+  // },
   {
     id: 9,
     date: '2023-12-14',

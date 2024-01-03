@@ -206,8 +206,48 @@ export const events = [
     time: '1:00 PM',
     name: 'Spotify Tunes / Taproom Radio',
     imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/placeholder_jzdida.webp',
+      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/spotify_ayh0du.webp',
     foodTruck: 'Whatever Food Truck',
+  },
+  {
+    id: 22,
+    date: '2024-01-11',
+    dateText: 'Thursday 11 Jan',
+    time: '7:00 PM',
+    name: 'Trivia with DJ Todd Skipper',
+    imageUrl:
+      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Todd_Skipper_crzt65.webp',
+    foodTruck: 'Nicks Souvlaki',
+  },
+  {
+    id: 23,
+    date: '2024-01-12',
+    dateText: 'Friday 12 Jan',
+    time: '6:00 PM',
+    name: 'Copperlode Darts Tournament',
+    imageUrl:
+      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/placeholder_jzdida.webp',
+    foodTruck: 'Duck & Felicias',
+  },
+  {
+    id: 24,
+    date: '2024-01-13',
+    dateText: 'Saturday 13 Jan',
+    time: '6:00 PM',
+    name: 'Spotify Tunes / Taproom Radio',
+    imageUrl:
+      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/spotify_ayh0du.webp',
+    foodTruck: 'Mojo Street',
+  },
+  {
+    id: 25,
+    date: '2024-01-14',
+    dateText: 'Sunday 14 Jan',
+    time: '1:00 PM',
+    name: 'Lady Valiant',
+    imageUrl:
+      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Lady_Valiant_vrgeiz.webp',
+    foodTruck: 'Greek Street Food',
   },
   // More events...
 ];

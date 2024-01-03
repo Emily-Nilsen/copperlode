@@ -5,8 +5,8 @@ import { December } from './December';
 import { January } from './January';
 
 export function CalendarView() {
-  // Set initial month to January 2024
-  const [currentMonth, setCurrentMonth] = useState(new Date(2024, 0));
+  // Set initial month to December 2023
+  const [currentMonth, setCurrentMonth] = useState(new Date(2023, 11));
 
   const handlePrevMonth = () => {
     // Check for January 2024 to go back to December 2023

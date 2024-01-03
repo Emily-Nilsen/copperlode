@@ -87,7 +87,7 @@ export const events = [
   //   name: 'Trivia with DJ Todd Skipper',
   //   imageUrl:
   //     'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Todd_Skipper_crzt65.webp',
-  //   foodTruck: 'Duck & Felicas',
+  //   foodTruck: 'Duck & Felicias',
   // },
   // {
   //   id: 10,
@@ -149,25 +149,65 @@ export const events = [
   //     'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Danny_Bani_wzh5tt.webp',
   //   foodTruck: 'Whatever Food Truck',
   // },
+  // {
+  //   id: 16,
+  //   date: '2023-12-24',
+  //   dateText: 'Sunday 24 Dec',
+  //   time: '1:00 PM',
+  //   name: 'Rockin Sweet Duo',
+  //   imageUrl:
+  //     'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/rockin_copy_yk0xie.webp',
+  //   foodTruck: 'Food Truck TBC',
+  // },
+  // {
+  //   id: 17,
+  //   date: '2023-12-31',
+  //   dateText: 'Sunday 31 Dec',
+  //   time: '8:00 PM - 1:00 AM',
+  //   name: 'JSR DJ',
+  //   imageUrl:
+  //     'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/JSR_DJ_q9kuji.webp',
+  //   foodTruck: 'Greek Street Food',
+  // },
   {
-    id: 16,
-    date: '2023-12-24',
-    dateText: 'Sunday 24 Dec',
-    time: '1:00 PM',
-    name: 'Rockin Sweet Duo',
+    id: 18,
+    date: '2024-01-04',
+    dateText: 'Thursday 4 Jan',
+    time: '7:00 PM',
+    name: 'Trivia with DJ Todd Skipper',
     imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/rockin_copy_yk0xie.webp',
-    foodTruck: 'Food Truck TBC',
+      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Todd_Skipper_crzt65.webp',
+    foodTruck: 'Duck & Felicias',
   },
   {
-    id: 17,
-    date: '2023-12-31',
-    dateText: 'Sunday 31 Dec',
-    time: '8:00 PM - 1:00 AM',
-    name: 'JSR DJ',
+    id: 19,
+    date: '2024-01-05',
+    dateText: 'Friday 5 Jan',
+    time: '6:00 PM',
+    name: 'Copperlode Darts Tournament',
     imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/JSR_DJ_q9kuji.webp',
-    foodTruck: 'Greek Street Food',
+      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/placeholder_jzdida.webp',
+    foodTruck: 'Duck & Felicias',
+  },
+  {
+    id: 20,
+    date: '2024-01-06',
+    dateText: 'Saturday 6 Jan',
+    time: '6:00 PM',
+    name: 'Steve Roberts Live Music',
+    imageUrl:
+      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/placeholder_jzdida.webp',
+    foodTruck: 'Smoke N Steel',
+  },
+  {
+    id: 21,
+    date: '2024-01-07',
+    dateText: 'Sunday 7 Jan',
+    time: '1:00 PM',
+    name: 'Spotify Tunes / Taproom Radio',
+    imageUrl:
+      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/placeholder_jzdida.webp',
+    foodTruck: 'Whatever Food Truck',
   },
   // More events...
 ];

@@ -264,7 +264,7 @@ export const events = [
     date: '2024-01-19',
     dateText: 'Friday 19 Jan',
     time: '6:00 PM',
-    name: 'Joseph Lanskey',
+    name: 'Joseph Lanskey Live Music',
     imageUrl:
       'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Joey_Lanskey_jufbnf.webp',
     foodTruck: 'Smoke N Steel',
@@ -288,6 +288,46 @@ export const events = [
     imageUrl:
       'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/spotify_ayh0du.webp',
     foodTruck: 'The Hungry Nomad',
+  },
+  {
+    id: 30,
+    date: '2024-01-25',
+    dateText: 'Thursday 25 Jan',
+    time: '7:00 PM',
+    name: 'Trivia with DJ Todd Skipper',
+    imageUrl:
+      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Todd_Skipper_crzt65.webp',
+    foodTruck: 'Outback Potato Food Van',
+  },
+  {
+    id: 31,
+    date: '2024-01-26',
+    dateText: 'Friday 26 Jan',
+    time: '6:00 PM',
+    name: 'Adrian Thomas Live Music',
+    imageUrl:
+      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Adrian_Thomas_pfxfb1.webp',
+    foodTruck: 'Outback Potato Food Van',
+  },
+  {
+    id: 32,
+    date: '2024-01-27',
+    dateText: 'Saturday 27 Jan',
+    time: '6:00 PM',
+    name: 'Spotify Tunes / Taproom Radio',
+    imageUrl:
+      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/spotify_ayh0du.webp',
+    foodTruck: 'The Hungry Nomad',
+  },
+  {
+    id: 33,
+    date: '2024-01-28',
+    dateText: 'Sunday 28 Jan',
+    time: '1:00 PM',
+    name: 'Spotify Tunes / Taproom Radio',
+    imageUrl:
+      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/spotify_ayh0du.webp',
+    foodTruck: 'Duck & Felicias',
   },
   // More events...
 ];

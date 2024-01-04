@@ -193,7 +193,7 @@ export const events = [
     id: 20,
     date: '2024-01-06',
     dateText: 'Saturday 6 Jan',
-    time: '6:00 PM',
+    time: '3:00 - 6:00 PM',
     name: 'Stevie Roberts Live Music',
     imageUrl:
       'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Stevie_Roberts_za8zs9.jpg',
@@ -203,10 +203,10 @@ export const events = [
     id: 21,
     date: '2024-01-07',
     dateText: 'Sunday 7 Jan',
-    time: '1:00 PM',
-    name: 'Spotify Tunes / Taproom Radio',
+    time: '1:00 - 5:00 PM',
+    name: 'Bring your own Vinyl - Sunday Session',
     imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/spotify_ayh0du.webp',
+      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/vinyl_kcqkqj.jpg',
     foodTruck: 'Whatever Food Truck',
   },
   {
@@ -283,10 +283,10 @@ export const events = [
     id: 29,
     date: '2024-01-21',
     dateText: 'Sunday 21 Jan',
-    time: '1:00 PM',
-    name: 'Spotify Tunes / Taproom Radio',
+    time: '1:00 - 5:00 PM',
+    name: 'Bring your own Vinyl - Sunday Session',
     imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/spotify_ayh0du.webp',
+      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/vinyl_kcqkqj.jpg',
     foodTruck: 'The Hungry Nomad',
   },
   {
@@ -303,7 +303,7 @@ export const events = [
     id: 31,
     date: '2024-01-26',
     dateText: 'Friday 26 Jan',
-    time: '6:00 PM',
+    time: '4:00 - 7:00 PM',
     name: 'Adrian Thomas Live Music',
     imageUrl:
       'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Adrian_Thomas_pfxfb1.webp',
@@ -323,10 +323,10 @@ export const events = [
     id: 33,
     date: '2024-01-28',
     dateText: 'Sunday 28 Jan',
-    time: '1:00 PM',
-    name: 'Spotify Tunes / Taproom Radio',
+    time: '1:00 - 5:00 PM',
+    name: 'Bring your own Vinyl - Sunday Session',
     imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/spotify_ayh0du.webp',
+      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/vinyl_kcqkqj.jpg',
     foodTruck: 'Duck & Felicias',
   },
   // More events...

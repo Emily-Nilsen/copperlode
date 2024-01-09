@@ -169,46 +169,46 @@ export const events = [
   //     'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/JSR_DJ_q9kuji.webp',
   //   foodTruck: 'Greek Street Food',
   // },
-  {
-    id: 18,
-    date: '2024-01-04',
-    dateText: 'Thursday 4 Jan',
-    time: '7:00 PM',
-    name: 'Trivia with DJ Todd Skipper',
-    imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Todd_Skipper_crzt65.webp',
-    foodTruck: 'Duck & Felicias',
-  },
-  {
-    id: 19,
-    date: '2024-01-05',
-    dateText: 'Friday 5 Jan',
-    time: '6:00 PM',
-    name: 'Copperlode Darts Tournament',
-    imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/placeholder_jzdida.webp',
-    foodTruck: 'Duck & Felicias',
-  },
-  {
-    id: 20,
-    date: '2024-01-06',
-    dateText: 'Saturday 6 Jan',
-    time: '3:00 - 6:00 PM',
-    name: 'Stevie Roberts Live Music',
-    imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Stevie_Roberts_za8zs9.jpg',
-    foodTruck: 'Smoke N Steel',
-  },
-  {
-    id: 21,
-    date: '2024-01-07',
-    dateText: 'Sunday 7 Jan',
-    time: '1:00 - 5:00 PM',
-    name: 'Bring your own Vinyl - Sunday Session',
-    imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/vinyl_kcqkqj.jpg',
-    foodTruck: 'Whatever Food Truck',
-  },
+  // {
+  //   id: 18,
+  //   date: '2024-01-04',
+  //   dateText: 'Thursday 4 Jan',
+  //   time: '7:00 PM',
+  //   name: 'Trivia with DJ Todd Skipper',
+  //   imageUrl:
+  //     'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Todd_Skipper_crzt65.webp',
+  //   foodTruck: 'Duck & Felicias',
+  // },
+  // {
+  //   id: 19,
+  //   date: '2024-01-05',
+  //   dateText: 'Friday 5 Jan',
+  //   time: '6:00 PM',
+  //   name: 'Copperlode Darts Tournament',
+  //   imageUrl:
+  //     'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/placeholder_jzdida.webp',
+  //   foodTruck: 'Duck & Felicias',
+  // },
+  // {
+  //   id: 20,
+  //   date: '2024-01-06',
+  //   dateText: 'Saturday 6 Jan',
+  //   time: '3:00 - 6:00 PM',
+  //   name: 'Stevie Roberts Live Music',
+  //   imageUrl:
+  //     'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Stevie_Roberts_za8zs9.jpg',
+  //   foodTruck: 'Smoke N Steel',
+  // },
+  // {
+  //   id: 21,
+  //   date: '2024-01-07',
+  //   dateText: 'Sunday 7 Jan',
+  //   time: '1:00 - 5:00 PM',
+  //   name: 'Bring your own Vinyl - Sunday Session',
+  //   imageUrl:
+  //     'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/vinyl_kcqkqj.jpg',
+  //   foodTruck: 'Whatever Food Truck',
+  // },
   {
     id: 22,
     date: '2024-01-11',

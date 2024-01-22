@@ -249,46 +249,46 @@ export const events = [
   //     'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Lady_Valiant_vrgeiz.webp',
   //   foodTruck: 'Greek Street Food',
   // },
-  {
-    id: 26,
-    date: '2024-01-18',
-    dateText: 'Thursday 18 Jan',
-    time: '7:00 PM',
-    name: 'Trivia with DJ Todd Skipper',
-    imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Todd_Skipper_crzt65.webp',
-    foodTruck: 'Duck & Felicias',
-  },
-  {
-    id: 27,
-    date: '2024-01-19',
-    dateText: 'Friday 19 Jan',
-    time: '6:00 PM',
-    name: 'Joseph Lanskey Live Music',
-    imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Joey_Lanskey_jufbnf.webp',
-    foodTruck: 'Smoke N Steel',
-  },
-  {
-    id: 28,
-    date: '2024-01-20',
-    dateText: 'Saturday 20 Jan',
-    time: '6:00 PM',
-    name: 'Spotify Tunes / Taproom Radio',
-    imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/spotify_ayh0du.webp',
-    foodTruck: 'Nicks Souvlaki',
-  },
-  {
-    id: 29,
-    date: '2024-01-21',
-    dateText: 'Sunday 21 Jan',
-    time: '1:00 - 5:00 PM',
-    name: 'Bring your own Vinyl - Sunday Session',
-    imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/vinyl_kcqkqj.jpg',
-    foodTruck: 'The Hungry Nomad',
-  },
+  // {
+  //   id: 26,
+  //   date: '2024-01-18',
+  //   dateText: 'Thursday 18 Jan',
+  //   time: '7:00 PM',
+  //   name: 'Trivia with DJ Todd Skipper',
+  //   imageUrl:
+  //     'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Todd_Skipper_crzt65.webp',
+  //   foodTruck: 'Duck & Felicias',
+  // },
+  // {
+  //   id: 27,
+  //   date: '2024-01-19',
+  //   dateText: 'Friday 19 Jan',
+  //   time: '6:00 PM',
+  //   name: 'Joseph Lanskey Live Music',
+  //   imageUrl:
+  //     'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Joey_Lanskey_jufbnf.webp',
+  //   foodTruck: 'Smoke N Steel',
+  // },
+  // {
+  //   id: 28,
+  //   date: '2024-01-20',
+  //   dateText: 'Saturday 20 Jan',
+  //   time: '6:00 PM',
+  //   name: 'Spotify Tunes / Taproom Radio',
+  //   imageUrl:
+  //     'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/spotify_ayh0du.webp',
+  //   foodTruck: 'Nicks Souvlaki',
+  // },
+  // {
+  //   id: 29,
+  //   date: '2024-01-21',
+  //   dateText: 'Sunday 21 Jan',
+  //   time: '1:00 - 5:00 PM',
+  //   name: 'Bring your own Vinyl - Sunday Session',
+  //   imageUrl:
+  //     'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/vinyl_kcqkqj.jpg',
+  //   foodTruck: 'The Hungry Nomad',
+  // },
   {
     id: 30,
     date: '2024-01-25',

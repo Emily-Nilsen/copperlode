@@ -427,7 +427,7 @@ export const events = [
     name: 'Copperlode Darts & Draughts Competition',
     imageUrl:
       'https://res.cloudinary.com/dt3k2apqd/image/upload/v1706002470/Copperlode%20Brewery/darts_bitf5h.webp',
-    foodTruck: 'Outback Potato Food Van',
+    foodTruck: 'The Hungry Nomad',
   },
   {
     id: 44,

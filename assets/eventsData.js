@@ -96,7 +96,7 @@ export const events = [
   //   time: '6:00 PM',
   //   name: 'Tim Smith',
   //   imageUrl:
-  //     'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/placeholder_jzdida.webp',
+  //     'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Tim_Smith_zismuw.webp',
   //   foodTruck: 'The Hungry Nomad',
   // },
   // {
@@ -237,7 +237,7 @@ export const events = [
   //   name: 'Spotify Tunes / Taproom Radio',
   //   imageUrl:
   //     'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/spotify_ayh0du.webp',
-  //   foodTruck: 'Mojo Street',
+  //   foodTruck: 'Mojo Street Food',
   // },
   // {
   //   id: 25,
@@ -328,6 +328,206 @@ export const events = [
     imageUrl:
       'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/vinyl_kcqkqj.jpg',
     foodTruck: 'Duck & Felicias',
+  },
+  {
+    id: 34,
+    date: '2024-02-01',
+    dateText: 'Thursday 1 Feb',
+    time: '7:00 PM',
+    name: 'Trivia with DJ Todd Skipper',
+    imageUrl:
+      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Todd_Skipper_crzt65.webp',
+    foodTruck: 'Schnitz and Gigs',
+  },
+  {
+    id: 35,
+    date: '2024-02-02',
+    dateText: 'Friday 2 Feb',
+    time: '6:00 PM',
+    name: 'Copperlode Darts & Draughts Competition',
+    imageUrl:
+      'https://res.cloudinary.com/dt3k2apqd/image/upload/v1706002470/Copperlode%20Brewery/darts_bitf5h.webp',
+    foodTruck: 'Mojo Street Food',
+  },
+  {
+    id: 36,
+    date: '2024-02-03',
+    dateText: 'Saturday 3 Feb',
+    time: '5:00 - 8:00 PM',
+    name: 'Katie Richards Live Music',
+    imageUrl:
+      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Katie_Richards_xbdpkb.webp',
+    foodTruck: 'East Coast Paella',
+  },
+  {
+    id: 37,
+    date: '2024-02-04',
+    dateText: 'Sunday 4 Feb',
+    time: '1:00 - 5:00 PM',
+    name: 'TBC',
+    imageUrl:
+      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/placeholder_jzdida.webp',
+    foodTruck: 'Salt & Pepa Food Truck',
+  },
+  {
+    id: 38,
+    date: '2024-02-08',
+    dateText: 'Thursday 8 Feb',
+    time: '7:00 PM',
+    name: 'Trivia with DJ Todd Skipper',
+    imageUrl:
+      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Todd_Skipper_crzt65.webp',
+    foodTruck: 'Whatever Food Truck',
+  },
+  {
+    id: 39,
+    date: '2024-02-09',
+    dateText: 'Friday 9 Feb',
+    time: '6:00 PM',
+    name: 'Copperlode Darts & Draughts Competition',
+    imageUrl:
+      'https://res.cloudinary.com/dt3k2apqd/image/upload/v1706002470/Copperlode%20Brewery/darts_bitf5h.webp',
+    foodTruck: 'Outback Potato Food Van',
+  },
+  {
+    id: 40,
+    date: '2024-02-10',
+    dateText: 'Saturday 10 Feb',
+    time: '5:00 - 8:00 PM',
+    name: 'Tim Smith Live Music',
+    imageUrl:
+      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Tim_Smith_zismuw.webp',
+    foodTruck: 'Outback Potato Food Van',
+  },
+  {
+    id: 41,
+    date: '2024-02-11',
+    dateText: 'Sunday 11 Feb',
+    time: '1:00 - 5:00 PM',
+    name: 'TBC',
+    imageUrl:
+      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/placeholder_jzdida.webp',
+    foodTruck: 'The Hungry Nomad',
+  },
+  {
+    id: 42,
+    date: '2024-02-15',
+    dateText: 'Thursday 15 Feb',
+    time: '7:00 PM',
+    name: 'TBC',
+    imageUrl:
+      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/placeholder_jzdida.webp',
+    foodTruck: 'Nicks Souvlaki',
+  },
+  {
+    id: 43,
+    date: '2024-02-16',
+    dateText: 'Friday 16 Feb',
+    time: '6:00 PM',
+    name: 'Copperlode Darts & Draughts Competition',
+    imageUrl:
+      'https://res.cloudinary.com/dt3k2apqd/image/upload/v1706002470/Copperlode%20Brewery/darts_bitf5h.webp',
+    foodTruck: 'Outback Potato Food Van',
+  },
+  {
+    id: 44,
+    date: '2024-02-17',
+    dateText: 'Saturday 17 Feb',
+    time: '5:00 - 8:00 PM',
+    name: 'TBC',
+    imageUrl:
+      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/placeholder_jzdida.webp',
+    foodTruck: 'TBC',
+  },
+  {
+    id: 45,
+    date: '2024-02-18',
+    dateText: 'Sunday 18 Feb',
+    time: '1:00 - 5:00 PM',
+    name: 'TBC',
+    imageUrl:
+      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/placeholder_jzdida.webp',
+    foodTruck: 'Smoke N Steel',
+  },
+  {
+    id: 46,
+    date: '2024-02-22',
+    dateText: 'Thursday 22 Feb',
+    time: '7:00 PM',
+    name: 'TBC',
+    imageUrl:
+      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/placeholder_jzdida.webp',
+    foodTruck: 'Nick Souvlaki',
+  },
+  {
+    id: 47,
+    date: '2024-02-23',
+    dateText: 'Friday 23 Feb',
+    time: '6:00 PM',
+    name: 'Copperlode Darts & Draughts Competition',
+    imageUrl:
+      'https://res.cloudinary.com/dt3k2apqd/image/upload/v1706002470/Copperlode%20Brewery/darts_bitf5h.webp',
+    foodTruck: 'East Coast Paella',
+  },
+  {
+    id: 48,
+    date: '2024-02-24',
+    dateText: 'Saturday 24 Feb',
+    time: '5:00 - 8:00 PM',
+    name: 'TBC',
+    imageUrl:
+      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/placeholder_jzdida.webp',
+    foodTruck: 'TBC',
+  },
+  {
+    id: 49,
+    date: '2024-02-25',
+    dateText: 'Sunday 25 Feb',
+    time: '1:00 - 5:00 PM',
+    name: 'TBC',
+    imageUrl:
+      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/placeholder_jzdida.webp',
+    foodTruck: 'The Hungry Nomad',
+  },
+  {
+    id: 50,
+    date: '2024-02-29',
+    dateText: 'Thursday 29 Feb',
+    time: '7:00 PM',
+    name: 'TBC',
+    imageUrl:
+      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/placeholder_jzdida.webp',
+    foodTruck: 'Mojo Street Food',
+  },
+  {
+    id: 51,
+    date: '2024-03-01',
+    dateText: 'Friday 1 Mar',
+    time: '6:00 PM',
+    name: 'Copperlode Darts & Draughts Competition',
+    imageUrl:
+      'https://res.cloudinary.com/dt3k2apqd/image/upload/v1706002470/Copperlode%20Brewery/darts_bitf5h.webp',
+    foodTruck: 'The Hungry Nomad',
+  },
+  {
+    id: 52,
+    date: '2024-03-02',
+    dateText: 'Saturday 2 Mar',
+    time: '5:00 - 8:00 PM',
+    name: 'TBC',
+    imageUrl:
+      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/placeholder_jzdida.webp',
+    foodTruck: 'Outback Potato Food Van',
+  },
+  {
+    id: 53,
+    date: '2024-03-3',
+    dateText: 'Sunday 3 Mar',
+    time: '1:00 - 5:00 PM',
+    name: 'TBC',
+    imageUrl:
+      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/placeholder_jzdida.webp',
+    foodTruck: 'Outback Potato Food Van',
   },
   // More events...
 ];

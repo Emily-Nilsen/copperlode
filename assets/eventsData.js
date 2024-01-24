@@ -457,7 +457,7 @@ export const events = [
     name: 'TBC',
     imageUrl:
       'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/placeholder_jzdida.webp',
-    foodTruck: 'Nick Souvlaki',
+    foodTruck: 'Nicks Souvlaki',
   },
   {
     id: 47,

@@ -4,6 +4,7 @@ import { November } from './November';
 import { December } from './December';
 import { January } from './January';
 import { February } from './February';
+import { March } from './March';
 
 export function CalendarView() {
   // Set initial month to January 2024
@@ -43,14 +44,16 @@ export function CalendarView() {
         return <January />;
       case 1: // February
         return <February />;
+      case 2: // March
+        return <March />;
       default:
         return null;
     }
   };
 
-  // Disable right chevron in February 2024
-  const isFebruary2024 =
-    currentMonth.getMonth() === 1 && currentMonth.getFullYear() === 2024;
+  // Disable right chevron in March 2024
+  const isMarch2024 =
+    currentMonth.getMonth() === 2 && currentMonth.getFullYear() === 2024;
 
   return (
     <div className="mt-10 text-center lg:col-start-8 lg:col-end-13 lg:row-start-1 lg:mt-9">
@@ -75,7 +78,7 @@ export function CalendarView() {
           type="button"
           onClick={handleNextMonth}
           className="-m-1.5 flex flex-none items-center justify-center p-1.5 text-gray-400 hover:text-gray-500"
-          disabled={isFebruary2024}
+          disabled={isMarch2024}
         >
           <span className="sr-only">Next month</span>
           <ChevronRightIcon className="w-5 h-5" aria-hidden="true" />

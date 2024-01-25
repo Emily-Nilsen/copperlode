@@ -529,5 +529,165 @@ export const events = [
       'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/placeholder_jzdida.webp',
     foodTruck: 'Outback Potato Food Van',
   },
+  {
+    id: 54,
+    date: '2024-03-07',
+    dateText: 'Thursday 7 Mar',
+    time: '7:00 PM',
+    name: 'Trivia with DJ Todd Skipper',
+    imageUrl:
+      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Todd_Skipper_crzt65.webp',
+    foodTruck: 'Duck & Felicias',
+  },
+  {
+    id: 55,
+    date: '2024-03-08',
+    dateText: 'Friday 8 Mar',
+    time: '6:00 PM',
+    name: 'Copperlode Darts & Draughts Competition',
+    imageUrl:
+      'https://res.cloudinary.com/dt3k2apqd/image/upload/v1706002470/Copperlode%20Brewery/darts_bitf5h.webp',
+    foodTruck: 'TBC',
+  },
+  {
+    id: 56,
+    date: '2024-03-09',
+    dateText: 'Saturday 9 Mar',
+    time: '5:00 - 8:00 PM',
+    name: 'Tim Smith Live Music',
+    imageUrl:
+      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Tim_Smith_zismuw.webp',
+    foodTruck: 'TBC',
+  },
+  {
+    id: 57,
+    date: '2024-03-10',
+    dateText: 'Sunday 10 Mar',
+    time: '1:00 - 5:00 PM',
+    name: 'TBC',
+    imageUrl:
+      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/placeholder_jzdida.webp',
+    foodTruck: 'Whatever Food Truck',
+  },
+  {
+    id: 58,
+    date: '2024-03-14',
+    dateText: 'Thursday 14 Mar',
+    time: '7:00 PM',
+    name: 'Trivia with DJ Todd Skipper',
+    imageUrl:
+      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Todd_Skipper_crzt65.webp',
+    foodTruck: 'TBC',
+  },
+  {
+    id: 59,
+    date: '2024-03-15',
+    dateText: 'Friday 15 Mar',
+    time: '6:00 PM',
+    name: 'Copperlode Darts & Draughts Competition',
+    imageUrl:
+      'https://res.cloudinary.com/dt3k2apqd/image/upload/v1706002470/Copperlode%20Brewery/darts_bitf5h.webp',
+    foodTruck: 'Duck & Felicias',
+  },
+  {
+    id: 60,
+    date: '2024-03-16',
+    dateText: 'Saturday 16 Mar',
+    time: '4:00 - 7:00 PM',
+    name: 'Adrian Thomas Live Music',
+    imageUrl:
+      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Adrian_Thomas_pfxfb1.webp',
+    foodTruck: 'Whatever Food Truck',
+  },
+  {
+    id: 61,
+    date: '2024-03-17',
+    dateText: 'Sunday 17 Mar',
+    time: '1:00 - 5:00 PM',
+    name: 'TBC',
+    imageUrl:
+      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/placeholder_jzdida.webp',
+    foodTruck: 'The Hungry Nomad',
+  },
+  {
+    id: 62,
+    date: '2024-03-21',
+    dateText: 'Thursday 21 Mar',
+    time: '7:00 PM',
+    name: 'Trivia with DJ Todd Skipper',
+    imageUrl:
+      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Todd_Skipper_crzt65.webp',
+    foodTruck: 'East Coast Paella',
+  },
+  {
+    id: 63,
+    date: '2024-03-22',
+    dateText: 'Friday 22 Mar',
+    time: '6:00 PM',
+    name: 'Copperlode Darts & Draughts Competition',
+    imageUrl:
+      'https://res.cloudinary.com/dt3k2apqd/image/upload/v1706002470/Copperlode%20Brewery/darts_bitf5h.webp',
+    foodTruck: 'TBC',
+  },
+  {
+    id: 64,
+    date: '2024-03-23',
+    dateText: 'Saturday 23 Mar',
+    time: '5:00 - 8:00 PM',
+    name: 'Cinnamon Sun Live Music',
+    imageUrl:
+      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Cinnamon_Sun_q6vvbd.webp',
+    foodTruck: 'Duck & Felicias',
+  },
+  {
+    id: 65,
+    date: '2024-03-17',
+    dateText: 'Sunday 17 Mar',
+    time: '1:00 - 5:00 PM',
+    name: 'TBC',
+    imageUrl:
+      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/placeholder_jzdida.webp',
+    foodTruck: 'The Hungry Nomad',
+  },
+  {
+    id: 66,
+    date: '2024-03-28',
+    dateText: 'Thursday 28 Mar',
+    time: '7:00 PM',
+    name: 'TBC',
+    imageUrl:
+      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/placeholder_jzdida.webp',
+    foodTruck: 'Schnitz and Gigs',
+  },
+  {
+    id: 67,
+    date: '2024-03-22',
+    dateText: 'Friday 22 Mar (Good Friday)',
+    time: '6:00 PM',
+    name: 'Copperlode Darts & Draughts Competition',
+    imageUrl:
+      'https://res.cloudinary.com/dt3k2apqd/image/upload/v1706002470/Copperlode%20Brewery/darts_bitf5h.webp',
+    foodTruck: 'TBC',
+  },
+  {
+    id: 68,
+    date: '2024-03-23',
+    dateText: 'Saturday 23 Mar (Easter Saturday)',
+    time: '5:00 - 8:00 PM',
+    name: 'TBC',
+    imageUrl:
+      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/placeholder_jzdida.webp',
+    foodTruck: 'TBC',
+  },
+  {
+    id: 69,
+    date: '2024-03-17',
+    dateText: 'Sunday 17 Mar (Easter Sunday)',
+    time: '1:00 - 5:00 PM',
+    name: 'TBC',
+    imageUrl:
+      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/placeholder_jzdida.webp',
+    foodTruck: 'TBC',
+  },
   // More events...
 ];

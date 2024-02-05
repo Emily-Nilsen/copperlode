@@ -7,8 +7,8 @@ import { February } from './February';
 import { March } from './March';
 
 export function CalendarView() {
-  // Set initial month to January 2024
-  const [currentMonth, setCurrentMonth] = useState(new Date(2024, 0));
+  // Set initial month to February 2024
+  const [currentMonth, setCurrentMonth] = useState(new Date(2024, 1));
 
   const handlePrevMonth = () => {
     const year = currentMonth.getFullYear();

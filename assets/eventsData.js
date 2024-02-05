@@ -289,86 +289,86 @@ export const events = [
   //     'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/vinyl_kcqkqj.jpg',
   //   foodTruck: 'The Hungry Nomad',
   // },
-  {
-    id: 30,
-    date: '2024-01-25',
-    dateText: 'Thursday 25 Jan',
-    time: '7:00 PM',
-    name: 'Trivia with DJ Todd Skipper',
-    imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Todd_Skipper_crzt65.webp',
-    foodTruck: 'Outback Potato Food Van',
-  },
-  {
-    id: 31,
-    date: '2024-01-26',
-    dateText: 'Friday 26 Jan',
-    time: '4:00 - 7:00 PM',
-    name: 'Adrian Thomas Live Music',
-    imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Adrian_Thomas_pfxfb1.webp',
-    foodTruck: 'Outback Potato Food Van',
-  },
-  {
-    id: 32,
-    date: '2024-01-27',
-    dateText: 'Saturday 27 Jan',
-    time: '6:00 PM',
-    name: 'Spotify Tunes / Taproom Radio',
-    imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/spotify_ayh0du.webp',
-    foodTruck: 'The Hungry Nomad',
-  },
-  {
-    id: 33,
-    date: '2024-01-28',
-    dateText: 'Sunday 28 Jan',
-    time: '1:00 - 5:00 PM',
-    name: 'Bring your own Vinyl - Sunday Session',
-    imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/vinyl_kcqkqj.jpg',
-    foodTruck: 'Duck & Felicias',
-  },
-  {
-    id: 34,
-    date: '2024-02-01',
-    dateText: 'Thursday 1 Feb',
-    time: '7:00 PM',
-    name: 'Trivia with DJ Todd Skipper',
-    imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Todd_Skipper_crzt65.webp',
-    foodTruck: 'Schnitz and Gigs',
-  },
-  {
-    id: 35,
-    date: '2024-02-02',
-    dateText: 'Friday 2 Feb',
-    time: '6:00 PM',
-    name: 'Copperlode Darts & Draughts Competition',
-    imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/v1706002470/Copperlode%20Brewery/darts_bitf5h.webp',
-    foodTruck: 'Mojo Street Food',
-  },
-  {
-    id: 36,
-    date: '2024-02-03',
-    dateText: 'Saturday 3 Feb',
-    time: '5:00 - 8:00 PM',
-    name: 'Katie Richards Live Music',
-    imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Katie_Richards_xbdpkb.webp',
-    foodTruck: 'East Coast Paella',
-  },
-  {
-    id: 37,
-    date: '2024-02-04',
-    dateText: 'Sunday 4 Feb',
-    time: '1:00 - 5:00 PM',
-    name: 'TBC',
-    imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/placeholder_jzdida.webp',
-    foodTruck: 'Salt & Pepa Food Truck',
-  },
+  // {
+  //   id: 30,
+  //   date: '2024-01-25',
+  //   dateText: 'Thursday 25 Jan',
+  //   time: '7:00 PM',
+  //   name: 'Trivia with DJ Todd Skipper',
+  //   imageUrl:
+  //     'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Todd_Skipper_crzt65.webp',
+  //   foodTruck: 'Outback Potato Food Van',
+  // },
+  // {
+  //   id: 31,
+  //   date: '2024-01-26',
+  //   dateText: 'Friday 26 Jan',
+  //   time: '4:00 - 7:00 PM',
+  //   name: 'Adrian Thomas Live Music',
+  //   imageUrl:
+  //     'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Adrian_Thomas_pfxfb1.webp',
+  //   foodTruck: 'Outback Potato Food Van',
+  // },
+  // {
+  //   id: 32,
+  //   date: '2024-01-27',
+  //   dateText: 'Saturday 27 Jan',
+  //   time: '6:00 PM',
+  //   name: 'Spotify Tunes / Taproom Radio',
+  //   imageUrl:
+  //     'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/spotify_ayh0du.webp',
+  //   foodTruck: 'The Hungry Nomad',
+  // },
+  // {
+  //   id: 33,
+  //   date: '2024-01-28',
+  //   dateText: 'Sunday 28 Jan',
+  //   time: '1:00 - 5:00 PM',
+  //   name: 'Bring your own Vinyl - Sunday Session',
+  //   imageUrl:
+  //     'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/vinyl_kcqkqj.jpg',
+  //   foodTruck: 'Duck & Felicias',
+  // },
+  // {
+  //   id: 34,
+  //   date: '2024-02-01',
+  //   dateText: 'Thursday 1 Feb',
+  //   time: '7:00 PM',
+  //   name: 'Trivia with DJ Todd Skipper',
+  //   imageUrl:
+  //     'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Todd_Skipper_crzt65.webp',
+  //   foodTruck: 'Schnitz and Gigs',
+  // },
+  // {
+  //   id: 35,
+  //   date: '2024-02-02',
+  //   dateText: 'Friday 2 Feb',
+  //   time: '6:00 PM',
+  //   name: 'Copperlode Darts & Draughts Competition',
+  //   imageUrl:
+  //     'https://res.cloudinary.com/dt3k2apqd/image/upload/v1706002470/Copperlode%20Brewery/darts_bitf5h.webp',
+  //   foodTruck: 'Mojo Street Food',
+  // },
+  // {
+  //   id: 36,
+  //   date: '2024-02-03',
+  //   dateText: 'Saturday 3 Feb',
+  //   time: '5:00 - 8:00 PM',
+  //   name: 'Katie Richards Live Music',
+  //   imageUrl:
+  //     'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Katie_Richards_xbdpkb.webp',
+  //   foodTruck: 'East Coast Paella',
+  // },
+  // {
+  //   id: 37,
+  //   date: '2024-02-04',
+  //   dateText: 'Sunday 4 Feb',
+  //   time: '1:00 - 5:00 PM',
+  //   name: 'TBC',
+  //   imageUrl:
+  //     'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/placeholder_jzdida.webp',
+  //   foodTruck: 'Salt & Pepa Food Truck',
+  // },
   {
     id: 38,
     date: '2024-02-08',

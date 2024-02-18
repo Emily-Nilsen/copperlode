@@ -369,46 +369,46 @@ export const events = [
   //     'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/placeholder_jzdida.webp',
   //   foodTruck: 'Salt & Pepa Food Truck',
   // },
-  {
-    id: 38,
-    date: '2024-02-08',
-    dateText: 'Thursday 8 Feb',
-    time: '7:00 PM',
-    name: 'Trivia with DJ Todd Skipper',
-    imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Todd_Skipper_crzt65.webp',
-    foodTruck: 'Whatever Food Truck',
-  },
-  {
-    id: 39,
-    date: '2024-02-09',
-    dateText: 'Friday 9 Feb',
-    time: '6:00 PM',
-    name: 'Copperlode Darts & Draughts Competition',
-    imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/v1706002470/Copperlode%20Brewery/darts_bitf5h.webp',
-    foodTruck: 'Outback Potato Food Van',
-  },
-  {
-    id: 40,
-    date: '2024-02-10',
-    dateText: 'Saturday 10 Feb',
-    time: '5:00 - 8:00 PM',
-    name: 'Tim Smith Live Music',
-    imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Tim_Smith_zismuw.webp',
-    foodTruck: 'Outback Potato Food Van',
-  },
-  {
-    id: 41,
-    date: '2024-02-11',
-    dateText: 'Sunday 11 Feb',
-    time: '1:00 - 5:00 PM',
-    name: 'TBC',
-    imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/placeholder_jzdida.webp',
-    foodTruck: 'The Hungry Nomad',
-  },
+  // {
+  //   id: 38,
+  //   date: '2024-02-08',
+  //   dateText: 'Thursday 8 Feb',
+  //   time: '7:00 PM',
+  //   name: 'Trivia with DJ Todd Skipper',
+  //   imageUrl:
+  //     'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Todd_Skipper_crzt65.webp',
+  //   foodTruck: 'Whatever Food Truck',
+  // },
+  // {
+  //   id: 39,
+  //   date: '2024-02-09',
+  //   dateText: 'Friday 9 Feb',
+  //   time: '6:00 PM',
+  //   name: 'Copperlode Darts & Draughts Competition',
+  //   imageUrl:
+  //     'https://res.cloudinary.com/dt3k2apqd/image/upload/v1706002470/Copperlode%20Brewery/darts_bitf5h.webp',
+  //   foodTruck: 'Outback Potato Food Van',
+  // },
+  // {
+  //   id: 40,
+  //   date: '2024-02-10',
+  //   dateText: 'Saturday 10 Feb',
+  //   time: '5:00 - 8:00 PM',
+  //   name: 'Tim Smith Live Music',
+  //   imageUrl:
+  //     'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Tim_Smith_zismuw.webp',
+  //   foodTruck: 'Outback Potato Food Van',
+  // },
+  // {
+  //   id: 41,
+  //   date: '2024-02-11',
+  //   dateText: 'Sunday 11 Feb',
+  //   time: '1:00 - 5:00 PM',
+  //   name: 'TBC',
+  //   imageUrl:
+  //     'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/placeholder_jzdida.webp',
+  //   foodTruck: 'The Hungry Nomad',
+  // },
   {
     id: 42,
     date: '2024-02-15',

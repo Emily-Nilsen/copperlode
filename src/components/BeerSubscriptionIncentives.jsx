@@ -35,7 +35,7 @@ export function BeerSubscriptionIncentives() {
                 Exclusive Brews
               </h2>
               <p className="mt-4 text-gray-300">
-                Access to limited edition and exclusive beers that you won't
+                Access to limited edition and exclusive beers that you won’t
                 find anywhere else.
               </p>
             </div>

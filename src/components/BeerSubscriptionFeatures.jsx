@@ -37,7 +37,7 @@ export function BeerSubscriptionFeatures() {
     <div className="bg-transparent">
       <div className="max-w-2xl px-4 pt-24 mx-auto sm:px-6 sm:pt-32 lg:max-w-7xl lg:px-8">
         <div className="max-w-3xl">
-          <h1 className="text-4xl font-bold text-white">What you'll get</h1>
+          <h1 className="text-4xl font-bold text-white">What you’ll get</h1>
           <p className="mt-4 text-gray-300 max-w-prose">
             Enjoy exclusive brews, convenient delivery, educational content on
             beer, and unique artwork, enhancing your drinking experience beyond

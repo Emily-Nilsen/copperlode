@@ -125,7 +125,7 @@ const days = [
     date: '2024-03-28',
     isCurrentMonth: true,
     isSelected: true,
-    tooltip: 'TBC',
+    tooltip: 'Trivia with DJ Todd Skipper',
   },
   {
     date: '2024-03-29',

@@ -131,7 +131,7 @@ const days = [
     date: '2024-03-29',
     isCurrentMonth: true,
     isSelected: true,
-    tooltip: 'Copperlode Darts & Draughts Competition',
+    tooltip: 'Closed for Good Friday',
   },
   {
     date: '2024-03-30',

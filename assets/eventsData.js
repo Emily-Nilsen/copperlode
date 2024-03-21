@@ -654,21 +654,21 @@ export const events = [
     date: '2024-03-28',
     dateText: 'Thursday 28 Mar',
     time: '7pm',
-    name: 'TBC',
+    name: 'Trivia with DJ Todd Skipper',
     imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/placeholder_jzdida.webp',
+      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Todd_Skipper_crzt65.webp',
     foodTruck: 'Lil Cello ’ s at 2 - 9pm',
   },
-  {
-    id: 67,
-    date: '2024-03-29',
-    dateText: 'Friday 29 Mar (Good Friday)',
-    time: '6pm',
-    name: 'Copperlode Darts & Draughts Competition',
-    imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/v1706002470/Copperlode%20Brewery/darts_bitf5h.webp',
-    foodTruck: 'Lil Cello ’ s at 12 - 9pm',
-  },
+  // {
+  //   id: 67,
+  //   date: '2024-03-29',
+  //   dateText: 'Friday 29 Mar',
+  //   time: '6pm',
+  //   name: 'Closed for Good Friday',
+  //   imageUrl:
+  //     'https://res.cloudinary.com/dt3k2apqd/image/upload/v1706002470/Copperlode%20Brewery/darts_bitf5h.webp',
+  //   foodTruck: 'Lil Cello ’ s at 12 - 9pm',
+  // },
   {
     id: 68,
     date: '2024-03-30',

@@ -633,7 +633,7 @@ export const events = [
     id: 64,
     date: '2024-03-23',
     dateText: 'Saturday 23 Mar',
-    time: '5 - 8pm',
+    time: '7 - 9pm',
     name: 'Stand Up Comedy Night',
     imageUrl:
       'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/placeholder_jzdida.webp',

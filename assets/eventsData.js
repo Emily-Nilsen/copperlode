@@ -690,4 +690,167 @@ export const events = [
     foodTruck: 'Food Truck at 12 - 7pm',
   },
   // More events...
+  {
+    id: 70,
+    date: '2024-04-04',
+    dateText: 'Thursday 4 April',
+    time: '7pm',
+    name: 'Trivia with DJ Todd Skipper',
+    imageUrl:
+      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Todd_Skipper_crzt65.webp',
+    foodTruck: 'Lil Cello ’ s at 2 - 9pm',
+  },
+  {
+    id: 71,
+    date: '2024-04-05',
+    dateText: 'Friday 5 April',
+    time: '6pm',
+    name: 'Copperlode Darts & Draughts Competition',
+    imageUrl:
+      'https://res.cloudinary.com/dt3k2apqd/image/upload/v1706002470/Copperlode%20Brewery/darts_bitf5h.webp',
+    foodTruck: 'Lil Cello ’ s at 12 - 9pm',
+  },
+  {
+    id: 72,
+    date: '2024-04-06',
+    dateText: 'Saturday 6 April',
+    time: '4.30pm - late',
+    name: 'TBC',
+    imageUrl:
+      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/placeholder_jzdida.webp',
+    foodTruck: 'Whatever Food Truck at 12 - 7pm',
+  },
+  {
+    id: 73,
+    date: '2024-04-07',
+    dateText: 'Sunday 7 April',
+    time: '1 - 4pm',
+    name: 'Live Music Sunday Session',
+    imageUrl:
+      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Live_music_tbs7xy.webp',
+    foodTruck: 'The Hungry Nomad at 12 - 7pm',
+  },
+  // Week 2
+  {
+    id: 74,
+    date: '2024-04-11',
+    dateText: 'Thursday 11 April',
+    time: '7pm',
+    name: 'Trivia with DJ Todd Skipper',
+    imageUrl:
+      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Todd_Skipper_crzt65.webp',
+    foodTruck: 'Lil Cello ’ s at 2 - 9pm',
+  },
+  {
+    id: 75,
+    date: '2024-04-12',
+    dateText: 'Friday 12 April',
+    time: '6pm',
+    name: 'Copperlode Darts & Draughts Competition',
+    imageUrl:
+      'https://res.cloudinary.com/dt3k2apqd/image/upload/v1706002470/Copperlode%20Brewery/darts_bitf5h.webp',
+    foodTruck: 'Lil Cello ’ s at 12 - 9pm',
+  },
+  {
+    id: 76,
+    date: '2024-04-13',
+    dateText: 'Saturday 13 April',
+    time: '4.30pm - late',
+    name: 'TBC',
+    imageUrl:
+      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/placeholder_jzdida.webp',
+    foodTruck: 'Whatever Food Truck at 12 - 7pm',
+  },
+  {
+    id: 77,
+    date: '2024-04-14',
+    dateText: 'Sunday 14 April',
+    time: '1 - 4pm',
+    name: 'Live Music Sunday Session',
+    imageUrl:
+      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Live_music_tbs7xy.webp',
+    foodTruck: 'The Hungry Nomad at 12 - 7pm',
+  },
+  // Week 3
+  {
+    id: 78,
+    date: '2024-04-18',
+    dateText: 'Thursday 18 April',
+    time: '7pm',
+    name: 'Trivia with DJ Todd Skipper',
+    imageUrl:
+      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Todd_Skipper_crzt65.webp',
+    foodTruck: 'Lil Cello ’ s at 2 - 9pm',
+  },
+  {
+    id: 79,
+    date: '2024-04-19',
+    dateText: 'Friday 19 April',
+    time: '6pm',
+    name: 'Copperlode Darts & Draughts Competition',
+    imageUrl:
+      'https://res.cloudinary.com/dt3k2apqd/image/upload/v1706002470/Copperlode%20Brewery/darts_bitf5h.webp',
+    foodTruck: 'Lil Cello ’ s at 12 - 9pm',
+  },
+  {
+    id: 80,
+    date: '2024-04-20',
+    dateText: 'Saturday 20 April',
+    time: '4.30pm - late',
+    name: 'TBC',
+    imageUrl:
+      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/placeholder_jzdida.webp',
+    foodTruck: 'Whatever Food Truck at 12 - 7pm',
+  },
+  {
+    id: 81,
+    date: '2024-04-21',
+    dateText: 'Sunday 21 April',
+    time: '1 - 4pm',
+    name: 'Live Music Sunday Session',
+    imageUrl:
+      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Live_music_tbs7xy.webp',
+    foodTruck: 'The Hungry Nomad at 12 - 7pm',
+  },
+  // Week 4
+  {
+    id: 82,
+    date: '2024-04-25',
+    dateText: 'Thursday 25 April',
+    time: '7pm',
+    name: 'Trivia with DJ Todd Skipper',
+    imageUrl:
+      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Todd_Skipper_crzt65.webp',
+    foodTruck: 'Lil Cello ’ s at 2 - 9pm',
+  },
+  {
+    id: 83,
+    date: '2024-04-26',
+    dateText: 'Friday 26 April',
+    time: '6pm',
+    name: 'Copperlode Darts & Draughts Competition',
+    imageUrl:
+      'https://res.cloudinary.com/dt3k2apqd/image/upload/v1706002470/Copperlode%20Brewery/darts_bitf5h.webp',
+    foodTruck: 'Lil Cello ’ s at 12 - 9pm',
+  },
+  {
+    id: 84,
+    date: '2024-04-27',
+    dateText: 'Saturday 27 April',
+    time: '4.30pm - late',
+    name: 'TBC',
+    imageUrl:
+      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/placeholder_jzdida.webp',
+    foodTruck: 'Whatever Food Truck at 12 - 7pm',
+  },
+  {
+    id: 85,
+    date: '2024-04-28',
+    dateText: 'Sunday 28 April',
+    time: '1 - 4pm',
+    name: 'Live Music Sunday Session',
+    imageUrl:
+      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Live_music_tbs7xy.webp',
+    foodTruck: 'The Hungry Nomad at 12 - 7pm',
+  },
 ];

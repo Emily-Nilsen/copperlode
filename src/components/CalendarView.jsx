@@ -5,10 +5,11 @@ import { December } from './December';
 import { January } from './January';
 import { February } from './February';
 import { March } from './March';
+import { April } from './April';
 
 export function CalendarView() {
   // Set initial month to March 2024
-  const [currentMonth, setCurrentMonth] = useState(new Date(2024, 2));
+  const [currentMonth, setCurrentMonth] = useState(new Date(2024, 3));
 
   const handlePrevMonth = () => {
     const year = currentMonth.getFullYear();
@@ -46,14 +47,20 @@ export function CalendarView() {
         return <February />;
       case 2: // March
         return <March />;
+      case 3: // April
+        return <April />;
       default:
         return null;
     }
   };
 
   // Disable right chevron in March 2024
-  const isMarch2024 =
-    currentMonth.getMonth() === 2 && currentMonth.getFullYear() === 2024;
+  // const isMarch2024 =
+  //   currentMonth.getMonth() === 2 && currentMonth.getFullYear() === 2024;
+
+  // Disable right chevron in April 2024
+  const isApril2024 =
+    currentMonth.getMonth() === 3 && currentMonth.getFullYear() === 2024;
 
   return (
     <div className="mt-10 text-center lg:col-start-8 lg:col-end-13 lg:row-start-1 lg:mt-9">
@@ -78,7 +85,7 @@ export function CalendarView() {
           type="button"
           onClick={handleNextMonth}
           className="-m-1.5 flex flex-none items-center justify-center p-1.5 text-gray-400 hover:text-gray-500"
-          disabled={isMarch2024}
+          disabled={isApril2024}
         >
           <span className="sr-only">Next month</span>
           <ChevronRightIcon className="w-5 h-5" aria-hidden="true" />

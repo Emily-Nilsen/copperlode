@@ -817,10 +817,10 @@ export const events = [
     id: 82,
     date: '2024-04-25',
     dateText: 'Thursday 25 April',
-    time: '7pm',
-    name: 'Trivia with DJ Todd Skipper',
+    time: '2 - 9pm',
+    name: 'Anzac Day Two-Up & Big Pups Live Music from 5pm',
     imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Todd_Skipper_crzt65.webp',
+      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Big_Pups_khj9cc.webp',
     foodTruck: 'Lil Cello ’ s at 2 - 9pm',
   },
   {

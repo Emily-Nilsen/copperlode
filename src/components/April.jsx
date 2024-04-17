@@ -105,7 +105,7 @@ const days = [
     date: '2024-04-25',
     isCurrentMonth: true,
     isSelected: true,
-    tooltip: 'Trivia with DJ Todd Skipper',
+    tooltip: 'Anzac Day Two-Up & Big Pups Live Music',
   },
   {
     date: '2024-04-26',

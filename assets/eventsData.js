@@ -817,7 +817,7 @@ export const events = [
     id: 82,
     date: '2024-04-25',
     dateText: 'Thursday 25 April',
-    time: '2 - 9pm',
+    time: '1pm - late',
     name: 'Anzac Day Two-Up & Big Pups Live Music from 5pm',
     imageUrl:
       'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Big_Pups_khj9cc.webp',

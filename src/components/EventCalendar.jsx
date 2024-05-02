@@ -23,7 +23,7 @@ export function EventCalendar() {
         Upcoming events
       </h2>
       <div className="relative lg:grid lg:grid-cols-12 lg:gap-x-16">
-        <CalendarView />
+        {/* <CalendarView /> */}
 
         <ol className="mt-4 text-base leading-6 divide-y divide-white/10 lg:col-span-7">
           {events

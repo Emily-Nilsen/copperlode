@@ -4,7 +4,7 @@ export const events = [
   //   date: '2023-11-30',
   //   dateText: 'Thursday 30 Nov',
   //   time: '7:00 PM',
-  //   name: 'Trivia with DJ Todd Skipper',
+  //   name: 'Trivia with DJ Todd Skipper with DJ Todd Skipper',
   //   imageUrl:
   //     'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Todd_Skipper_crzt65.webp',
   //   foodTruck: 'Toasted Goat',
@@ -1058,5 +1058,169 @@ export const events = [
     imageUrl:
       'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Live_music_tbs7xy.webp',
     foodTruck: 'The Hungry Nomad at 12 - 7pm',
+  },
+  // Week 6
+  {
+    id: 106,
+    date: '2024-06-06',
+    dateText: 'Thursday 6 June',
+    time: '7pm',
+    name: 'Trivia with DJ Todd Skipper',
+    imageUrl:
+      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Todd_Skipper_crzt65.webp',
+    foodTruck: `Lil Cellos`,
+  },
+  {
+    id: 107,
+    date: '2024-06-07',
+    dateText: 'Friday 7 June',
+    time: '5.30pm - 9pm',
+    name: 'Bently Scouts Fundraiser Raffle',
+    imageUrl:
+      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/placeholder_jzdida.webp',
+    foodTruck: 'Lil Cellos',
+  },
+  {
+    id: 108,
+    date: '2024-06-08',
+    dateText: 'Saturday 8 June',
+    time: '4pm - 7pm',
+    name: 'Cairns Animal Rescue Fundraiser Raffle',
+    imageUrl:
+      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/placeholder_jzdida.webp',
+    foodTruck: 'Mama Kazs Kitchen',
+  },
+  {
+    id: 109,
+    date: '2024-06-09',
+    dateText: 'Sunday 9 June',
+    time: '2pm - 5pm',
+    name: 'Sunday Sesh Music - Andrea and Louie',
+    imageUrl:
+      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Live_music_tbs7xy.webp',
+    foodTruck: 'Nicks Souvlaki',
+  },
+  // Week 7
+  {
+    id: 110,
+    date: '2024-06-13',
+    dateText: 'Thursday 13 June',
+    time: '7pm',
+    name: 'Trivia with DJ Todd Skipper',
+    imageUrl:
+      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Todd_Skipper_crzt65.webp',
+    foodTruck: 'Lil Cellos',
+  },
+  {
+    id: 111,
+    date: '2024-06-14',
+    dateText: 'Friday 14 June',
+    time: '4pm',
+    name: 'Friday Meat Tray Raffles',
+    imageUrl:
+      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/placeholder_jzdida.webp',
+    foodTruck: 'Lil Cellos',
+  },
+  {
+    id: 112,
+    date: '2024-06-15',
+    dateText: 'Saturday 15 June',
+    time: '7.30pm - 8pm',
+    name: 'Music Bingo',
+    imageUrl:
+      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/placeholder_jzdida.webp',
+    foodTruck: 'Umaka',
+  },
+  {
+    id: 113,
+    date: '2024-06-16',
+    dateText: 'Sunday 16 June',
+    time: '2pm - 5pm',
+    name: 'Sunday Sesh - Vidur Sehgal',
+    imageUrl:
+      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Live_music_tbs7xy.webp',
+    foodTruck: 'Lil Cellos',
+  },
+  // Week 8
+  {
+    id: 114,
+    date: '2024-06-20',
+    dateText: 'Thursday 20 June',
+    time: '7pm',
+    name: 'Trivia with DJ Todd Skipper',
+    imageUrl:
+      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Todd_Skipper_crzt65.webp',
+    foodTruck: 'Lil Cellos',
+  },
+  {
+    id: 115,
+    date: '2024-06-21',
+    dateText: 'Friday 21 June',
+    time: '5.30pm',
+    name: 'Hekili Meat Tray Raffle Fundraiser',
+    imageUrl:
+      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/placeholder_jzdida.webp',
+    foodTruck: 'Lil Cellos',
+  },
+  {
+    id: 116,
+    date: '2024-06-22',
+    dateText: 'Saturday 22 June',
+    time: 'TBC',
+    name: 'Wear it Pink for Zonta Cairns Breast Cancer Fundraiser Event',
+    imageUrl:
+      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/placeholder_jzdida.webp',
+    foodTruck: 'Duck and Felicias',
+  },
+  {
+    id: 117,
+    date: '2024-06-23',
+    dateText: 'Sunday 23 June',
+    time: '2pm - 5pm',
+    name: 'Sunday Sesh Musician - Tim Smith',
+    imageUrl:
+      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Live_music_tbs7xy.webp',
+    foodTruck: 'Nicks Souvlaki',
+  },
+  // Week 9
+  {
+    id: 118,
+    date: '2024-06-27',
+    dateText: 'Thursday 27 June',
+    time: '7pm',
+    name: 'Trivia with DJ Todd Skipper',
+    imageUrl:
+      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Todd_Skipper_crzt65.webp',
+    foodTruck: 'Lil Cellos',
+  },
+  {
+    id: 119,
+    date: '2024-06-28',
+    dateText: 'Friday 28 June',
+    time: '4pm',
+    name: 'Meat Tray Raffles',
+    imageUrl:
+      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/placeholder_jzdida.webp',
+    foodTruck: 'Lil Cellos',
+  },
+  {
+    id: 120,
+    date: '2024-06-29',
+    dateText: 'Saturday 29 June',
+    time: '7pm onwards',
+    name: 'Cairns City Comedy',
+    imageUrl:
+      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/placeholder_jzdida.webp',
+    foodTruck: 'Ukama',
+  },
+  {
+    id: 121,
+    date: '2024-06-30',
+    dateText: 'Sunday 30 June',
+    time: '2pm - 5pm',
+    name: 'Sunday Sesh - Christina Ukelele',
+    imageUrl:
+      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Live_music_tbs7xy.webp',
+    foodTruck: 'Duck and Felicias',
   },
 ];

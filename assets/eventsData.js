@@ -1197,10 +1197,10 @@ export const events = [
     id: 119,
     date: '2024-06-28',
     dateText: 'Friday 28 June',
-    time: '4pm',
-    name: 'Meat Tray Raffles',
+    time: '6pm - 9pm',
+    name: 'Katie Richards Live Music',
     imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/placeholder_jzdida.webp',
+      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Katie_Richards_xbdpkb.webp',
     foodTruck: 'Lil Cellos',
   },
   {
@@ -1223,4 +1223,169 @@ export const events = [
       'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Live_music_tbs7xy.webp',
     foodTruck: 'Duck and Felicias',
   },
+    // Week 10
+    {
+      id: 122,
+      date: '2024-07-04',
+      dateText: 'Thursday 4 July',
+      time: '7pm',
+      name: 'Trivia with DJ Todd Skipper',
+      imageUrl:
+        'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Todd_Skipper_crzt65.webp',
+      foodTruck: 'Lil Cellos',
+    },
+    {
+      id: 123,
+      date: '2024-07-05',
+      dateText: 'Friday 5 July',
+      time: '6pm - 9pm',
+      name: 'Joey Lanskey Live Music / Meat Tray Raffles in the afternoon',
+      imageUrl:
+        'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Joey_Lanskey_jufbnf.webp',
+      foodTruck: 'Lil Cellos',
+    },
+    {
+      id: 124,
+      date: '2024-07-06',
+      dateText: 'Saturday 6 July',
+      time: '3pm onwards',
+      name: 'Stax o\’ Wax',
+      imageUrl:
+        'https://res.cloudinary.com/dt3k2apqd/image/upload/v1704354234/Copperlode%20Brewery/vinyl_kcqkqj.jpg',
+      foodTruck: 'Schnitz and Gigs',
+    },
+    {
+      id: 125,
+      date: '2024-07-07',
+      dateText: 'Sunday 7 July',
+      time: '2pm - 5pm',
+      name: 'Sunday Sesh - Jimmy James',
+      imageUrl:
+        'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Jimmy_James_efdiez.webp',
+      foodTruck: 'Feeding Frenzy',
+    },
+    // Week 11
+    {
+      id: 126,
+      date: '2024-07-11',
+      dateText: 'Thursday 11 July',
+      time: '7pm',
+      name: 'Trivia with DJ Todd Skipper',
+      imageUrl:
+        'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Todd_Skipper_crzt65.webp',
+      foodTruck: 'Lil Cellos',
+    },
+    {
+      id: 127,
+      date: '2024-07-12',
+      dateText: 'Friday 12 July',
+      time: '6pm - 9pm',
+      name: 'Solo West Live Music / Meat Tray Raffles in the afternoon',
+      imageUrl:
+        'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/placeholder_jzdida.webp',
+      foodTruck: 'Lil Cellos',
+    },
+    {
+      id: 128,
+      date: '2024-07-13',
+      dateText: 'Saturday 13 July',
+      time: '7.30pm registration, 8pm onwards',
+      name: 'Music Bingo',
+      imageUrl:
+        'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/placeholder_jzdida.webp',
+      foodTruck: 'Umaka',
+    },
+    {
+      id: 129,
+      date: '2024-07-14',
+      dateText: 'Sunday 14 July',
+      time: '2pm - 5pm',
+      name: 'Sunday Sesh - Julian James',
+      imageUrl:
+        'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Julian_James_copy_bxhkby.webp',
+      foodTruck: 'Duck and Felicias',
+    },
+    // Week 12
+    {
+      id: 130,
+      date: '2024-07-18',
+      dateText: 'Thursday 18 July',
+      time: '7pm',
+      name: 'Trivia with DJ Todd Skipper',
+      imageUrl:
+        'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Todd_Skipper_crzt65.webp',
+      foodTruck: 'Lil Cellos',
+    },
+    {
+      id: 131,
+      date: '2024-07-19',
+      dateText: 'Friday 19 July',
+      time: '6pm onwards',
+      name: 'Meat Tray Raffles',
+      imageUrl:
+        'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/placeholder_jzdida.webp',
+      foodTruck: 'Lil Cellos',
+    },
+    {
+      id: 132,
+      date: '2024-07-20',
+      dateText: 'Saturday 20 July',
+      time: '7pm onwards',
+      name: 'Comedy Night',
+      imageUrl:
+        'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/placeholder_jzdida.webp',
+      foodTruck: 'TBC',
+    },
+    {
+      id: 133,
+      date: '2024-07-21',
+      dateText: 'Sunday 21 July',
+      time: '2pm - 5pm',
+      name: 'Sunday Sesh - Katie Richards',
+      imageUrl:
+        'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Katie_Richards_xbdpkb.webp',
+      foodTruck: 'Umaka',
+    },
+    // Week 13
+    {
+      id: 134,
+      date: '2024-07-25',
+      dateText: 'Thursday 25 July',
+      time: '7pm',
+      name: 'Trivia with DJ Todd Skipper',
+      imageUrl:
+        'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Todd_Skipper_crzt65.webp',
+      foodTruck: 'Lil Cellos',
+    },
+    {
+      id: 135,
+      date: '2024-07-26',
+      dateText: 'Friday 26 July',
+      time: '6pm onwards',
+      name: 'TBC',
+      imageUrl:
+        'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/placeholder_jzdida.webp',
+      foodTruck: 'TBC',
+    },
+    {
+      id: 136,
+      date: '2024-07-27',
+      dateText: 'Saturday 27 July',
+      time: '7pm onwards',
+      name: 'Lady Valiant Duo',
+      imageUrl:
+        'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Lady_Valiant_vrgeiz.webp',
+      foodTruck: 'TBC',
+    },
+    {
+      id: 137,
+      date: '2024-07-28',
+      dateText: 'Sunday 28 July',
+      time: '2pm - 5pm',
+      name: 'Sunday Sesh',
+      imageUrl:
+        'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/placeholder_jzdida.webp',
+      foodTruck: 'Umaka',
+    }
+  
 ];

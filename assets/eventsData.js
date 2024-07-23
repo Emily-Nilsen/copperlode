@@ -1270,7 +1270,7 @@ export const events = [
     date: '2024-07-26',
     dateText: 'Friday 26 July',
     time: '6pm onwards',
-    name: 'Live Music with Phoebe Jabobs & Meat Trays with SSSD',
+    name: 'Live Music with Phoebe Jacobs & Meat Trays with SSSD',
     imageUrl: '/images/events/Phoebe_Jacobs.webp',
     foodTruck: 'Lil Cellos',
   },

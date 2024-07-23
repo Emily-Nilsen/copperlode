@@ -6,7 +6,7 @@ export const events = [
   //   time: '7:00 PM',
   //   name: 'Trivia with DJ Todd Skipper with DJ Todd Skipper',
   //   imageUrl:
-  //     'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Todd_Skipper_crzt65.webp',
+  //     '/images/events/Todd_Skipper.webp',
   //   foodTruck: 'Toasted Goat',
   // },
   // {
@@ -16,7 +16,7 @@ export const events = [
   //   time: '6:00 PM',
   //   name: 'Joseph Lanskey',
   //   imageUrl:
-  //     'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Joey_Lanskey_jufbnf.webp',
+  //     '/images/events/Joe_Lanskey.webp',
   //   foodTruck: 'East Coast Paella',
   // },
   // {
@@ -26,7 +26,7 @@ export const events = [
   //   time: '6:00 PM',
   //   name: 'Savidas',
   //   imageUrl:
-  //     'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Savidas_nmmram.webp',
+  //     '/images/events/Savidas.webp',
   //   foodTruck: 'The Toasted Goat',
   // },
   // {
@@ -36,7 +36,7 @@ export const events = [
   //   time: '12:00 PM',
   //   name: 'Dave Cooke / Art Exhibition',
   //   imageUrl:
-  //     'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Dave_Cooke_nnn5yr.webp',
+  //     '/images/events/Dave_Cooke.webp',
   //   foodTruck: 'The Hungry Nomad',
   // },
   // {
@@ -46,7 +46,7 @@ export const events = [
   //   time: '7:00 PM',
   //   name: 'Trivia with DJ Todd Skipper',
   //   imageUrl:
-  //     'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Todd_Skipper_crzt65.webp',
+  //     '/images/events/Todd_Skipper.webp',
   //   foodTruck: 'Frying Dutchies',
   // },
   // {
@@ -56,7 +56,7 @@ export const events = [
   //   time: '6:00 PM',
   //   name: 'JSR DJ',
   //   imageUrl:
-  //     'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/JSR_DJ_q9kuji.webp',
+  //     '/images/events/JSR_DJ.webp',
   //   foodTruck: 'Smoke N Steel',
   // },
   // {
@@ -66,7 +66,7 @@ export const events = [
   //   time: '6:00 PM',
   //   name: 'Matt Gerdes',
   //   imageUrl:
-  //     'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Matt_Gerdes_slv8gu.webp',
+  //     '/images/events/Matt_Gerdes.webp',
   //   foodTruck: 'Whatever Food Truck',
   // },
   // {
@@ -76,7 +76,7 @@ export const events = [
   //   time: '1:00 PM',
   //   name: 'Dave Cooke',
   //   imageUrl:
-  //     'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Dave_Cooke_nnn5yr.webp',
+  //     '/images/events/Dave_Cooke.webp',
   //   foodTruck: 'Toasted Goat',
   // },
   // {
@@ -86,7 +86,7 @@ export const events = [
   //   time: '7:00 PM',
   //   name: 'Trivia with DJ Todd Skipper',
   //   imageUrl:
-  //     'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Todd_Skipper_crzt65.webp',
+  //     '/images/events/Todd_Skipper.webp',
   //   foodTruck: 'Duck & Felicias',
   // },
   // {
@@ -96,7 +96,7 @@ export const events = [
   //   time: '6:00 PM',
   //   name: 'Tim Smith',
   //   imageUrl:
-  //     'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Tim_Smith_zismuw.webp',
+  //     '/images/events/Tim_Smith.webp',
   //   foodTruck: 'The Hungry Nomad',
   // },
   // {
@@ -106,7 +106,7 @@ export const events = [
   //   time: '6:00 PM',
   //   name: 'Joseph Lanskey',
   //   imageUrl:
-  //     'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Joey_Lanskey_jufbnf.webp',
+  //     '/images/events/Joe_Lanskey.webp',
   //   foodTruck: 'Whatever Food Truck',
   // },
   // {
@@ -116,7 +116,7 @@ export const events = [
   //   time: '1:00 PM',
   //   name: 'Katie Richards',
   //   imageUrl:
-  //     'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Katie_Richards_xbdpkb.webp',
+  //     '/images/events/Katie_Richards.webp',
   //   foodTruck: 'Duck & Felicas',
   // },
   // {
@@ -126,7 +126,7 @@ export const events = [
   //   time: '7:00 PM',
   //   name: 'Trivia with DJ Todd Skipper',
   //   imageUrl:
-  //     'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Todd_Skipper_crzt65.webp',
+  //     '/images/events/Todd_Skipper.webp',
   //   foodTruck: 'The Toasted Goat',
   // },
   // {
@@ -136,7 +136,7 @@ export const events = [
   //   time: '6:00 PM',
   //   name: 'Jimmy James',
   //   imageUrl:
-  //     'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Jimmy_James_efdiez.webp',
+  //     '/images/events/Jimmy_James.webp',
   //   foodTruck: 'The Hungry Nomad',
   // },
   // {
@@ -146,7 +146,7 @@ export const events = [
   //   time: '6:00 PM',
   //   name: 'Danny Bani',
   //   imageUrl:
-  //     'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Danny_Bani_wzh5tt.webp',
+  //     '/images/events/Danny_Bani.webp',
   //   foodTruck: 'Whatever Food Truck',
   // },
   // {
@@ -156,7 +156,7 @@ export const events = [
   //   time: '1:00 PM',
   //   name: 'Rockin Sweet Duo',
   //   imageUrl:
-  //     'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/rockin_copy_yk0xie.webp',
+  //     '/images/events/Rockin.webp',
   //   foodTruck: 'Food Truck TBC',
   // },
   // {
@@ -166,7 +166,7 @@ export const events = [
   //   time: '8:00 PM - 1:00 AM',
   //   name: 'JSR DJ',
   //   imageUrl:
-  //     'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/JSR_DJ_q9kuji.webp',
+  //     '/images/events/JSR_DJ.webp',
   //   foodTruck: 'Greek Street Food',
   // },
   // {
@@ -176,7 +176,7 @@ export const events = [
   //   time: '7:00 PM',
   //   name: 'Trivia with DJ Todd Skipper',
   //   imageUrl:
-  //     'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Todd_Skipper_crzt65.webp',
+  //     '/images/events/Todd_Skipper.webp',
   //   foodTruck: 'Duck & Felicias',
   // },
   // {
@@ -186,7 +186,7 @@ export const events = [
   //   time: '6:00 PM',
   //   name: 'Copperlode Darts Tournament',
   //   imageUrl:
-  //     'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/placeholder_jzdida.webp',
+  //     '/images/events/placeholder.webp',
   //   foodTruck: 'Duck & Felicias',
   // },
   // {
@@ -196,7 +196,7 @@ export const events = [
   //   time: '3:00 - 6:00 PM',
   //   name: 'Stevie Roberts Live Music',
   //   imageUrl:
-  //     'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Stevie_Roberts_za8zs9.jpg',
+  //     '/images/events/Stevie_Roberts.webp',
   //   foodTruck: 'Smoke N Steel',
   // },
   // {
@@ -206,7 +206,7 @@ export const events = [
   //   time: '1:00 - 5:00 PM',
   //   name: 'Bring your own Vinyl - Sunday Session',
   //   imageUrl:
-  //     'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/vinyl_kcqkqj.jpg',
+  //     '/images/events/vinyl.webp',
   //   foodTruck: 'Whatever Food Truck',
   // },
   // {
@@ -216,7 +216,7 @@ export const events = [
   //   time: '7:00 PM',
   //   name: 'Trivia with DJ Todd Skipper',
   //   imageUrl:
-  //     'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Todd_Skipper_crzt65.webp',
+  //     '/images/events/Todd_Skipper.webp',
   //   foodTruck: 'Nicks Souvlaki',
   // },
   // {
@@ -226,7 +226,7 @@ export const events = [
   //   time: '6:00 PM',
   //   name: 'Copperlode Darts Tournament',
   //   imageUrl:
-  //     'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/placeholder_jzdida.webp',
+  //     '/images/events/placeholder.webp',
   //   foodTruck: 'Duck & Felicias',
   // },
   // {
@@ -236,7 +236,7 @@ export const events = [
   //   time: '6:00 PM',
   //   name: 'Spotify Tunes / Taproom Radio',
   //   imageUrl:
-  //     'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/spotify_ayh0du.webp',
+  //     '/images/events/spotify.webp',
   //   foodTruck: 'Mojo Street Food',
   // },
   // {
@@ -246,7 +246,7 @@ export const events = [
   //   time: '1:00 PM',
   //   name: 'Lady Valiant Live Music',
   //   imageUrl:
-  //     'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Lady_Valiant_vrgeiz.webp',
+  //     '/images/events/Lady_Valiant.webp',
   //   foodTruck: 'Greek Street Food',
   // },
   // {
@@ -256,7 +256,7 @@ export const events = [
   //   time: '7:00 PM',
   //   name: 'Trivia with DJ Todd Skipper',
   //   imageUrl:
-  //     'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Todd_Skipper_crzt65.webp',
+  //     '/images/events/Todd_Skipper.webp',
   //   foodTruck: 'Duck & Felicias',
   // },
   // {
@@ -266,7 +266,7 @@ export const events = [
   //   time: '6:00 PM',
   //   name: 'Joseph Lanskey Live Music',
   //   imageUrl:
-  //     'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Joey_Lanskey_jufbnf.webp',
+  //     '/images/events/Joe_Lanskey.webp',
   //   foodTruck: 'Smoke N Steel',
   // },
   // {
@@ -276,7 +276,7 @@ export const events = [
   //   time: '6:00 PM',
   //   name: 'Spotify Tunes / Taproom Radio',
   //   imageUrl:
-  //     'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/spotify_ayh0du.webp',
+  //     '/images/events/spotify.webp',
   //   foodTruck: 'Nicks Souvlaki',
   // },
   // {
@@ -286,7 +286,7 @@ export const events = [
   //   time: '1:00 - 5:00 PM',
   //   name: 'Bring your own Vinyl - Sunday Session',
   //   imageUrl:
-  //     'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/vinyl_kcqkqj.jpg',
+  //     '/images/events/vinyl.webp',
   //   foodTruck: 'The Hungry Nomad',
   // },
   // {
@@ -296,7 +296,7 @@ export const events = [
   //   time: '7:00 PM',
   //   name: 'Trivia with DJ Todd Skipper',
   //   imageUrl:
-  //     'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Todd_Skipper_crzt65.webp',
+  //     '/images/events/Todd_Skipper.webp',
   //   foodTruck: 'Outback Potato Food Van',
   // },
   // {
@@ -306,7 +306,7 @@ export const events = [
   //   time: '4:00 - 7:00 PM',
   //   name: 'Adrian Thomas Live Music',
   //   imageUrl:
-  //     'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Adrian_Thomas_pfxfb1.webp',
+  //     '/images/events/Adrian_Thomas.webp',
   //   foodTruck: 'Outback Potato Food Van',
   // },
   // {
@@ -316,7 +316,7 @@ export const events = [
   //   time: '6:00 PM',
   //   name: 'Spotify Tunes / Taproom Radio',
   //   imageUrl:
-  //     'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/spotify_ayh0du.webp',
+  //     '/images/events/spotify.webp',
   //   foodTruck: 'The Hungry Nomad',
   // },
   // {
@@ -326,7 +326,7 @@ export const events = [
   //   time: '1:00 - 5:00 PM',
   //   name: 'Bring your own Vinyl - Sunday Session',
   //   imageUrl:
-  //     'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/vinyl_kcqkqj.jpg',
+  //     '/images/events/vinyl.webp',
   //   foodTruck: 'Duck & Felicias',
   // },
   // {
@@ -336,7 +336,7 @@ export const events = [
   //   time: '7:00 PM',
   //   name: 'Trivia with DJ Todd Skipper',
   //   imageUrl:
-  //     'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Todd_Skipper_crzt65.webp',
+  //     '/images/events/Todd_Skipper.webp',
   //   foodTruck: 'Schnitz and Gigs',
   // },
   // {
@@ -346,7 +346,7 @@ export const events = [
   //   time: '6:00 PM',
   //   name: 'Copperlode Darts & Draughts Competition',
   //   imageUrl:
-  //     'https://res.cloudinary.com/dt3k2apqd/image/upload/v1706002470/Copperlode%20Brewery/darts_bitf5h.webp',
+  //     '/images/events/darts.webp',
   //   foodTruck: 'Mojo Street Food',
   // },
   // {
@@ -356,7 +356,7 @@ export const events = [
   //   time: '5:00 - 8:00 PM',
   //   name: 'Katie Richards Live Music',
   //   imageUrl:
-  //     'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Katie_Richards_xbdpkb.webp',
+  //     '/images/events/Katie_Richards.webp',
   //   foodTruck: 'East Coast Paella',
   // },
   // {
@@ -366,7 +366,7 @@ export const events = [
   //   time: '1:00 - 5:00 PM',
   //   name: 'TBC',
   //   imageUrl:
-  //     'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/placeholder_jzdida.webp',
+  //     '/images/events/placeholder.webp',
   //   foodTruck: 'Salt & Pepa Food Truck',
   // },
   // {
@@ -376,7 +376,7 @@ export const events = [
   //   time: '7:00 PM',
   //   name: 'Trivia with DJ Todd Skipper',
   //   imageUrl:
-  //     'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Todd_Skipper_crzt65.webp',
+  //     '/images/events/Todd_Skipper.webp',
   //   foodTruck: 'Whatever Food Truck',
   // },
   // {
@@ -386,7 +386,7 @@ export const events = [
   //   time: '6:00 PM',
   //   name: 'Copperlode Darts & Draughts Competition',
   //   imageUrl:
-  //     'https://res.cloudinary.com/dt3k2apqd/image/upload/v1706002470/Copperlode%20Brewery/darts_bitf5h.webp',
+  //     '/images/events/darts.webp',
   //   foodTruck: 'Outback Potato Food Van',
   // },
   // {
@@ -396,7 +396,7 @@ export const events = [
   //   time: '5:00 - 8:00 PM',
   //   name: 'Tim Smith Live Music',
   //   imageUrl:
-  //     'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Tim_Smith_zismuw.webp',
+  //     '/images/events/Tim_Smith.webp',
   //   foodTruck: 'Outback Potato Food Van',
   // },
   // {
@@ -406,7 +406,7 @@ export const events = [
   //   time: '1:00 - 5:00 PM',
   //   name: 'TBC',
   //   imageUrl:
-  //     'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/placeholder_jzdida.webp',
+  //     '/images/events/placeholder.webp',
   //   foodTruck: 'The Hungry Nomad',
   // },
   {
@@ -415,8 +415,7 @@ export const events = [
     dateText: 'Thursday 15 Feb',
     time: '7:00 PM',
     name: 'TBC',
-    imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/placeholder_jzdida.webp',
+    imageUrl: '/images/events/placeholder.webp',
     foodTruck: 'Nicks Souvlaki',
   },
   {
@@ -425,8 +424,7 @@ export const events = [
     dateText: 'Friday 16 Feb',
     time: '6:00 PM',
     name: 'Copperlode Darts & Draughts Competition',
-    imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/v1706002470/Copperlode%20Brewery/darts_bitf5h.webp',
+    imageUrl: '/images/events/darts.webp',
     foodTruck: 'The Hungry Nomad',
   },
   {
@@ -435,8 +433,7 @@ export const events = [
     dateText: 'Saturday 17 Feb',
     time: '5:00 - 8:00 PM',
     name: 'TBC',
-    imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/placeholder_jzdida.webp',
+    imageUrl: '/images/events/placeholder.webp',
     foodTruck: 'TBC',
   },
   {
@@ -445,8 +442,7 @@ export const events = [
     dateText: 'Sunday 18 Feb',
     time: '1:00 - 5:00 PM',
     name: 'Live Music Sunday Session',
-    imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Live_music_tbs7xy.webp',
+    imageUrl: '/images/events/live_music.webp',
     foodTruck: 'Smoke N Steel',
   },
   {
@@ -455,8 +451,7 @@ export const events = [
     dateText: 'Thursday 22 Feb',
     time: '7:00 PM',
     name: 'TBC',
-    imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/placeholder_jzdida.webp',
+    imageUrl: '/images/events/placeholder.webp',
     foodTruck: 'Nicks Souvlaki',
   },
   {
@@ -465,8 +460,7 @@ export const events = [
     dateText: 'Friday 23 Feb',
     time: '6:00 PM',
     name: 'Copperlode Darts & Draughts Competition',
-    imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/v1706002470/Copperlode%20Brewery/darts_bitf5h.webp',
+    imageUrl: '/images/events/darts.webp',
     foodTruck: 'East Coast Paella',
   },
   {
@@ -475,8 +469,7 @@ export const events = [
     dateText: 'Saturday 24 Feb',
     time: '5:00 - 8:00 PM',
     name: 'TBC',
-    imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/placeholder_jzdida.webp',
+    imageUrl: '/images/events/placeholder.webp',
     foodTruck: 'TBC',
   },
   {
@@ -485,8 +478,7 @@ export const events = [
     dateText: 'Sunday 25 Feb',
     time: '1:00 - 5:00 PM',
     name: 'TBC',
-    imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/placeholder_jzdida.webp',
+    imageUrl: '/images/events/placeholder.webp',
     foodTruck: 'The Hungry Nomad',
   },
   {
@@ -495,8 +487,7 @@ export const events = [
     dateText: 'Thursday 29 Feb',
     time: '7:00 PM',
     name: 'TBC',
-    imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/placeholder_jzdida.webp',
+    imageUrl: '/images/events/placeholder.webp',
     foodTruck: 'Mojo Street Food',
   },
   {
@@ -505,8 +496,7 @@ export const events = [
     dateText: 'Friday 1 Mar',
     time: '6:00 PM',
     name: 'Copperlode Darts & Draughts Competition',
-    imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/v1706002470/Copperlode%20Brewery/darts_bitf5h.webp',
+    imageUrl: '/images/events/darts.webp',
     foodTruck: 'The Hungry Nomad',
   },
   {
@@ -515,8 +505,7 @@ export const events = [
     dateText: 'Saturday 2 Mar',
     time: '5:00 - 8:00 PM',
     name: 'TBC',
-    imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/placeholder_jzdida.webp',
+    imageUrl: '/images/events/placeholder.webp',
     foodTruck: 'Outback Potato Food Van',
   },
   {
@@ -525,8 +514,7 @@ export const events = [
     dateText: 'Sunday 3 Mar',
     time: '1:00 - 5:00 PM',
     name: 'TBC',
-    imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/placeholder_jzdida.webp',
+    imageUrl: '/images/events/placeholder.webp',
     foodTruck: 'Outback Potato Food Van',
   },
   {
@@ -535,8 +523,7 @@ export const events = [
     dateText: 'Thursday 7 Mar',
     time: '7:00 PM',
     name: 'Trivia with DJ Todd Skipper',
-    imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Todd_Skipper_crzt65.webp',
+    imageUrl: '/images/events/Todd_Skipper.webp',
     foodTruck: 'Duck & Felicias',
   },
   {
@@ -545,8 +532,7 @@ export const events = [
     dateText: 'Friday 8 Mar',
     time: '6:00 PM',
     name: 'Copperlode Darts & Draughts Competition',
-    imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/v1706002470/Copperlode%20Brewery/darts_bitf5h.webp',
+    imageUrl: '/images/events/darts.webp',
     foodTruck: 'TBC',
   },
   {
@@ -555,8 +541,7 @@ export const events = [
     dateText: 'Saturday 9 Mar',
     time: '5:00 - 8:00 PM',
     name: 'Tim Smith Live Music',
-    imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Tim_Smith_zismuw.webp',
+    imageUrl: '/images/events/Tim_Smith.webp',
     foodTruck: 'TBC',
   },
   {
@@ -565,8 +550,7 @@ export const events = [
     dateText: 'Sunday 10 Mar',
     time: '1:00 - 5:00 PM',
     name: 'TBC',
-    imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/placeholder_jzdida.webp',
+    imageUrl: '/images/events/placeholder.webp',
     foodTruck: 'Lil Cello’s',
   },
   {
@@ -575,8 +559,7 @@ export const events = [
     dateText: 'Thursday 14 Mar',
     time: '7pm',
     name: 'Trivia with DJ Todd Skipper',
-    imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Todd_Skipper_crzt65.webp',
+    imageUrl: '/images/events/Todd_Skipper.webp',
     foodTruck: 'Lil Cello ’ s at 2 - 9pm',
   },
   {
@@ -585,8 +568,7 @@ export const events = [
     dateText: 'Friday 15 Mar',
     time: '6pm',
     name: 'Copperlode Darts & Draughts Competition',
-    imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/v1706002470/Copperlode%20Brewery/darts_bitf5h.webp',
+    imageUrl: '/images/events/darts.webp',
     foodTruck: 'Lil Cello ’ s at 12 - 9pm',
   },
   {
@@ -595,8 +577,7 @@ export const events = [
     dateText: 'Saturday 16 Mar',
     time: '4.30pm - late',
     name: 'Stax o ’ Wax',
-    imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/v1704354234/Copperlode%20Brewery/vinyl_kcqkqj.jpg',
+    imageUrl: '/images/events/vinyl.webp',
     foodTruck: 'Whatever Food Truck at 12 - 7pm',
   },
   {
@@ -605,8 +586,7 @@ export const events = [
     dateText: 'Sunday 17 Mar',
     time: '1 - 4pm',
     name: 'Live Music Sunday Session',
-    imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Live_music_tbs7xy.webp',
+    imageUrl: '/images/events/live_music.webp',
     foodTruck: 'The Hungry Nomad at 12 - 7pm',
   },
   {
@@ -615,8 +595,7 @@ export const events = [
     dateText: 'Thursday 21 Mar',
     time: '7pm',
     name: 'Trivia with DJ Todd Skipper',
-    imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Todd_Skipper_crzt65.webp',
+    imageUrl: '/images/events/Todd_Skipper.webp',
     foodTruck: 'Lil Cello ’ s at 2 - 9pm',
   },
   {
@@ -625,8 +604,7 @@ export const events = [
     dateText: 'Friday 22 Mar',
     time: '6pm',
     name: 'Copperlode Darts & Draughts Competition',
-    imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/v1706002470/Copperlode%20Brewery/darts_bitf5h.webp',
+    imageUrl: '/images/events/darts.webp',
     foodTruck: 'Lil Cello ’ s at 12 - 9pm',
   },
   {
@@ -635,8 +613,7 @@ export const events = [
     dateText: 'Saturday 23 Mar',
     time: '7 - 9pm',
     name: 'Stand Up Comedy Night',
-    imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/placeholder_jzdida.webp',
+    imageUrl: '/images/events/placeholder.webp',
     foodTruck: 'Duck & Felicias at 12 - 7pm',
   },
   {
@@ -645,8 +622,7 @@ export const events = [
     dateText: 'Sunday 24 Mar',
     time: '1 - 4pm',
     name: 'Live Music Sunday Session',
-    imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Live_music_tbs7xy.webp',
+    imageUrl: '/images/events/live_music.webp',
     foodTruck: 'The Hungry Nomad at 12 - 7pm',
   },
   {
@@ -655,8 +631,7 @@ export const events = [
     dateText: 'Thursday 28 Mar',
     time: '7pm',
     name: 'Trivia with DJ Todd Skipper',
-    imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Todd_Skipper_crzt65.webp',
+    imageUrl: '/images/events/Todd_Skipper.webp',
     foodTruck: 'Lil Cello ’ s at 2 - 9pm',
   },
   // {
@@ -666,7 +641,7 @@ export const events = [
   //   time: '6pm',
   //   name: 'Closed for Good Friday',
   //   imageUrl:
-  //     'https://res.cloudinary.com/dt3k2apqd/image/upload/v1706002470/Copperlode%20Brewery/darts_bitf5h.webp',
+  //     '/images/events/darts.webp',
   //   foodTruck: 'Lil Cello ’ s at 12 - 9pm',
   // },
   {
@@ -675,8 +650,7 @@ export const events = [
     dateText: 'Saturday 30 Mar (Easter Saturday)',
     time: '5 - 8pm',
     name: 'TBC',
-    imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/placeholder_jzdida.webp',
+    imageUrl: '/images/events/placeholder.webp',
     foodTruck: 'Food Truck at 12 - 7pm',
   },
   {
@@ -685,8 +659,7 @@ export const events = [
     dateText: 'Sunday 31 Mar (Easter Sunday)',
     time: '1 - 4pm',
     name: 'Live Music Sunday Session',
-    imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Live_music_tbs7xy.webp',
+    imageUrl: '/images/events/live_music.webp',
     foodTruck: 'Food Truck at 12 - 7pm',
   },
   // More events...
@@ -696,8 +669,7 @@ export const events = [
     dateText: 'Thursday 4 April',
     time: '7pm',
     name: 'Trivia with DJ Todd Skipper',
-    imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Todd_Skipper_crzt65.webp',
+    imageUrl: '/images/events/Todd_Skipper.webp',
     foodTruck: 'Lil Cello ’ s at 2 - 9pm',
   },
   {
@@ -706,8 +678,7 @@ export const events = [
     dateText: 'Friday 5 April',
     time: '6pm',
     name: 'Copperlode Darts & Draughts Competition',
-    imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/v1706002470/Copperlode%20Brewery/darts_bitf5h.webp',
+    imageUrl: '/images/events/darts.webp',
     foodTruck: 'Lil Cello ’ s at 12 - 9pm',
   },
   {
@@ -716,8 +687,7 @@ export const events = [
     dateText: 'Saturday 6 April',
     time: '4.30pm - late',
     name: 'TBC',
-    imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/placeholder_jzdida.webp',
+    imageUrl: '/images/events/placeholder.webp',
     foodTruck: 'Whatever Food Truck at 12 - 7pm',
   },
   {
@@ -726,8 +696,7 @@ export const events = [
     dateText: 'Sunday 7 April',
     time: '1 - 4pm',
     name: 'Live Music Sunday Session',
-    imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Live_music_tbs7xy.webp',
+    imageUrl: '/images/events/live_music.webp',
     foodTruck: 'The Hungry Nomad at 12 - 7pm',
   },
   // Week 2
@@ -737,8 +706,7 @@ export const events = [
     dateText: 'Thursday 11 April',
     time: '7pm',
     name: 'Trivia with DJ Todd Skipper',
-    imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Todd_Skipper_crzt65.webp',
+    imageUrl: '/images/events/Todd_Skipper.webp',
     foodTruck: 'Lil Cello ’ s at 2 - 9pm',
   },
   {
@@ -747,8 +715,7 @@ export const events = [
     dateText: 'Friday 12 April',
     time: '6pm',
     name: 'Copperlode Darts & Draughts Competition',
-    imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/v1706002470/Copperlode%20Brewery/darts_bitf5h.webp',
+    imageUrl: '/images/events/darts.webp',
     foodTruck: 'Lil Cello ’ s at 12 - 9pm',
   },
   {
@@ -757,8 +724,7 @@ export const events = [
     dateText: 'Saturday 13 April',
     time: '4.30pm - late',
     name: 'TBC',
-    imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/placeholder_jzdida.webp',
+    imageUrl: '/images/events/placeholder.webp',
     foodTruck: 'Whatever Food Truck at 12 - 7pm',
   },
   {
@@ -767,8 +733,7 @@ export const events = [
     dateText: 'Sunday 14 April',
     time: '1 - 4pm',
     name: 'Live Music Sunday Session',
-    imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Live_music_tbs7xy.webp',
+    imageUrl: '/images/events/live_music.webp',
     foodTruck: 'The Hungry Nomad at 12 - 7pm',
   },
   // Week 3
@@ -778,8 +743,7 @@ export const events = [
     dateText: 'Thursday 18 April',
     time: '7pm',
     name: 'Trivia with DJ Todd Skipper',
-    imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Todd_Skipper_crzt65.webp',
+    imageUrl: '/images/events/Todd_Skipper.webp',
     foodTruck: 'Lil Cello ’ s at 2 - 9pm',
   },
   {
@@ -788,8 +752,7 @@ export const events = [
     dateText: 'Friday 19 April',
     time: '6pm',
     name: 'Copperlode Darts & Draughts Competition',
-    imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/v1706002470/Copperlode%20Brewery/darts_bitf5h.webp',
+    imageUrl: '/images/events/darts.webp',
     foodTruck: 'Lil Cello ’ s at 12 - 9pm',
   },
   {
@@ -798,8 +761,7 @@ export const events = [
     dateText: 'Saturday 20 April',
     time: '4.30pm - late',
     name: 'TBC',
-    imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/placeholder_jzdida.webp',
+    imageUrl: '/images/events/placeholder.webp',
     foodTruck: 'Whatever Food Truck at 12 - 7pm',
   },
   {
@@ -808,8 +770,7 @@ export const events = [
     dateText: 'Sunday 21 April',
     time: '1 - 4pm',
     name: 'Live Music Sunday Session',
-    imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Live_music_tbs7xy.webp',
+    imageUrl: '/images/events/live_music.webp',
     foodTruck: 'The Hungry Nomad at 12 - 7pm',
   },
   // Week 4
@@ -819,8 +780,7 @@ export const events = [
     dateText: 'Thursday 25 April',
     time: '1pm - late',
     name: 'Anzac Day Two-Up & Big Pups Live Music from 5pm',
-    imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Big_Pups_khj9cc.webp',
+    imageUrl: '/images/events/Big_Pups.webp',
     foodTruck: 'Lil Cello ’ s at 2 - 9pm',
   },
   {
@@ -829,8 +789,7 @@ export const events = [
     dateText: 'Friday 26 April',
     time: '6pm',
     name: 'Copperlode Darts & Draughts Competition',
-    imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/v1706002470/Copperlode%20Brewery/darts_bitf5h.webp',
+    imageUrl: '/images/events/darts.webp',
     foodTruck: 'Lil Cello ’ s at 12 - 9pm',
   },
   {
@@ -839,8 +798,7 @@ export const events = [
     dateText: 'Saturday 27 April',
     time: '4.30pm - late',
     name: 'TBC',
-    imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/placeholder_jzdida.webp',
+    imageUrl: '/images/events/placeholder.webp',
     foodTruck: 'Whatever Food Truck at 12 - 7pm',
   },
   {
@@ -849,8 +807,7 @@ export const events = [
     dateText: 'Sunday 28 April',
     time: '1 - 4pm',
     name: 'Live Music Sunday Session',
-    imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Live_music_tbs7xy.webp',
+    imageUrl: '/images/events/live_music.webp',
     foodTruck: 'The Hungry Nomad at 12 - 7pm',
   },
   // May 2024
@@ -861,8 +818,7 @@ export const events = [
     dateText: 'Thursday 2 May',
     time: '7pm',
     name: 'Trivia with DJ Todd Skipper',
-    imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Todd_Skipper_crzt65.webp',
+    imageUrl: '/images/events/Todd_Skipper.webp',
     foodTruck: 'Lil Cello ’ s at 2 - 9pm',
   },
   {
@@ -871,8 +827,7 @@ export const events = [
     dateText: 'Friday 3 May',
     time: '6pm',
     name: 'Copperlode Darts & Draughts Competition',
-    imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/v1706002470/Copperlode%20Brewery/darts_bitf5h.webp',
+    imageUrl: '/images/events/darts.webp',
     foodTruck: 'Lil Cello ’ s at 12 - 9pm',
   },
   {
@@ -881,8 +836,7 @@ export const events = [
     dateText: 'Saturday 4 May',
     time: '4.30pm - late',
     name: 'TBC',
-    imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/placeholder_jzdida.webp',
+    imageUrl: '/images/events/placeholder.webp',
     foodTruck: 'Whatever Food Truck at 12 - 7pm',
   },
   {
@@ -891,8 +845,7 @@ export const events = [
     dateText: 'Sunday 5 May',
     time: '1 - 4pm',
     name: 'Live Music Sunday Session',
-    imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Live_music_tbs7xy.webp',
+    imageUrl: '/images/events/live_music.webp',
     foodTruck: 'The Hungry Nomad at 12 - 7pm',
   },
   // Week 2
@@ -902,8 +855,7 @@ export const events = [
     dateText: 'Thursday 9 May',
     time: '7pm',
     name: 'Trivia with DJ Todd Skipper',
-    imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Todd_Skipper_crzt65.webp',
+    imageUrl: '/images/events/Todd_Skipper.webp',
     foodTruck: 'Lil Cello ’ s at 2 - 9pm',
   },
   {
@@ -912,8 +864,7 @@ export const events = [
     dateText: 'Friday 10 May',
     time: '6pm',
     name: 'Copperlode Darts & Draughts Competition',
-    imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/v1706002470/Copperlode%20Brewery/darts_bitf5h.webp',
+    imageUrl: '/images/events/darts.webp',
     foodTruck: 'Lil Cello ’ s at 12 - 9pm',
   },
   {
@@ -922,8 +873,7 @@ export const events = [
     dateText: 'Saturday 11 May',
     time: '4.30pm - late',
     name: 'TBC',
-    imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/placeholder_jzdida.webp',
+    imageUrl: '/images/events/placeholder.webp',
     foodTruck: 'Whatever Food Truck at 12 - 7pm',
   },
   {
@@ -932,8 +882,7 @@ export const events = [
     dateText: 'Sunday 12 May',
     time: '1 - 4pm',
     name: 'Live Music Sunday Session',
-    imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Live_music_tbs7xy.webp',
+    imageUrl: '/images/events/live_music.webp',
     foodTruck: 'The Hungry Nomad at 12 - 7pm',
   },
   // Week 3
@@ -943,8 +892,7 @@ export const events = [
     dateText: 'Thursday 16 May',
     time: '7pm',
     name: 'Trivia with DJ Todd Skipper',
-    imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Todd_Skipper_crzt65.webp',
+    imageUrl: '/images/events/Todd_Skipper.webp',
     foodTruck: 'Lil Cello ’ s at 2 - 9pm',
   },
   {
@@ -953,8 +901,7 @@ export const events = [
     dateText: 'Friday 17 May',
     time: '6pm',
     name: 'Copperlode Darts & Draughts Competition',
-    imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/v1706002470/Copperlode%20Brewery/darts_bitf5h.webp',
+    imageUrl: '/images/events/darts.webp',
     foodTruck: 'Lil Cello ’ s at 12 - 9pm',
   },
   {
@@ -963,8 +910,7 @@ export const events = [
     dateText: 'Saturday 18 May',
     time: '4.30pm - late',
     name: 'TBC',
-    imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/placeholder_jzdida.webp',
+    imageUrl: '/images/events/placeholder.webp',
     foodTruck: 'Whatever Food Truck at 12 - 7pm',
   },
   {
@@ -973,8 +919,7 @@ export const events = [
     dateText: 'Sunday 19 May',
     time: '1 - 4pm',
     name: 'Live Music Sunday Session',
-    imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Live_music_tbs7xy.webp',
+    imageUrl: '/images/events/live_music.webp',
     foodTruck: 'The Hungry Nomad at 12 - 7pm',
   },
   // Week 4
@@ -984,8 +929,7 @@ export const events = [
     dateText: 'Thursday 23 May',
     time: '7pm',
     name: 'Trivia with DJ Todd Skipper',
-    imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Todd_Skipper_crzt65.webp',
+    imageUrl: '/images/events/Todd_Skipper.webp',
     foodTruck: 'Lil Cello ’ s at 2 - 9pm',
   },
   {
@@ -994,8 +938,7 @@ export const events = [
     dateText: 'Friday 24 May',
     time: '6pm',
     name: 'Copperlode Darts & Draughts Competition',
-    imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/v1706002470/Copperlode%20Brewery/darts_bitf5h.webp',
+    imageUrl: '/images/events/darts.webp',
     foodTruck: 'Lil Cello ’ s at 12 - 9pm',
   },
   {
@@ -1004,8 +947,7 @@ export const events = [
     dateText: 'Saturday 25 May',
     time: '4.30pm - late',
     name: 'TBC',
-    imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/placeholder_jzdida.webp',
+    imageUrl: '/images/events/placeholder.webp',
     foodTruck: 'Whatever Food Truck at 12 - 7pm',
   },
   {
@@ -1014,8 +956,7 @@ export const events = [
     dateText: 'Sunday 26 May',
     time: '1 - 4pm',
     name: 'Live Music Sunday Session',
-    imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Live_music_tbs7xy.webp',
+    imageUrl: '/images/events/live_music.webp',
     foodTruck: 'The Hungry Nomad at 12 - 7pm',
   },
   // Week 5
@@ -1025,8 +966,7 @@ export const events = [
     dateText: 'Thursday 30 May',
     time: '7pm',
     name: 'Trivia with DJ Todd Skipper',
-    imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Todd_Skipper_crzt65.webp',
+    imageUrl: '/images/events/Todd_Skipper.webp',
     foodTruck: 'Lil Cello ’ s at 2 - 9pm',
   },
   {
@@ -1035,8 +975,7 @@ export const events = [
     dateText: 'Friday 31 May',
     time: '6pm',
     name: 'Copperlode Darts & Draughts Competition',
-    imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/v1706002470/Copperlode%20Brewery/darts_bitf5h.webp',
+    imageUrl: '/images/events/darts.webp',
     foodTruck: 'Lil Cello ’ s at 12 - 9pm',
   },
   {
@@ -1045,8 +984,7 @@ export const events = [
     dateText: 'Saturday 1 June',
     time: '4.30pm - late',
     name: 'TBC',
-    imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/placeholder_jzdida.webp',
+    imageUrl: '/images/events/placeholder.webp',
     foodTruck: 'Whatever Food Truck at 12 - 7pm',
   },
   {
@@ -1055,8 +993,7 @@ export const events = [
     dateText: 'Sunday 2 June',
     time: '1 - 4pm',
     name: 'Live Music Sunday Session',
-    imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Live_music_tbs7xy.webp',
+    imageUrl: '/images/events/live_music.webp',
     foodTruck: 'The Hungry Nomad at 12 - 7pm',
   },
   // Week 6
@@ -1066,8 +1003,7 @@ export const events = [
     dateText: 'Thursday 6 June',
     time: '7pm',
     name: 'Trivia with DJ Todd Skipper',
-    imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Todd_Skipper_crzt65.webp',
+    imageUrl: '/images/events/Todd_Skipper.webp',
     foodTruck: `Lil Cellos`,
   },
   {
@@ -1076,8 +1012,7 @@ export const events = [
     dateText: 'Friday 7 June',
     time: '5.30pm - 9pm',
     name: 'Bently Scouts Fundraiser Raffle',
-    imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/placeholder_jzdida.webp',
+    imageUrl: '/images/events/placeholder.webp',
     foodTruck: 'Lil Cellos',
   },
   {
@@ -1086,8 +1021,7 @@ export const events = [
     dateText: 'Saturday 8 June',
     time: '4pm - 7pm',
     name: 'Cairns Animal Rescue Fundraiser Raffle',
-    imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/placeholder_jzdida.webp',
+    imageUrl: '/images/events/placeholder.webp',
     foodTruck: 'Mama Kazs Kitchen',
   },
   {
@@ -1096,8 +1030,7 @@ export const events = [
     dateText: 'Sunday 9 June',
     time: '2pm - 5pm',
     name: 'Sunday Sesh Music - Andrea and Louie',
-    imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Live_music_tbs7xy.webp',
+    imageUrl: '/images/events/live_music.webp',
     foodTruck: 'Nicks Souvlaki',
   },
   // Week 7
@@ -1107,8 +1040,7 @@ export const events = [
     dateText: 'Thursday 13 June',
     time: '7pm',
     name: 'Trivia with DJ Todd Skipper',
-    imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Todd_Skipper_crzt65.webp',
+    imageUrl: '/images/events/Todd_Skipper.webp',
     foodTruck: 'Lil Cellos',
   },
   {
@@ -1117,8 +1049,7 @@ export const events = [
     dateText: 'Friday 14 June',
     time: '4pm',
     name: 'Friday Meat Tray Raffles',
-    imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/placeholder_jzdida.webp',
+    imageUrl: '/images/events/placeholder.webp',
     foodTruck: 'Lil Cellos',
   },
   {
@@ -1127,8 +1058,7 @@ export const events = [
     dateText: 'Saturday 15 June',
     time: '7.30pm - 8pm',
     name: 'Music Bingo',
-    imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/placeholder_jzdida.webp',
+    imageUrl: '/images/events/placeholder.webp',
     foodTruck: 'Umaka',
   },
   {
@@ -1137,8 +1067,7 @@ export const events = [
     dateText: 'Sunday 16 June',
     time: '2pm - 5pm',
     name: 'Sunday Sesh - Vidur Sehgal',
-    imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Live_music_tbs7xy.webp',
+    imageUrl: '/images/events/live_music.webp',
     foodTruck: 'Lil Cellos',
   },
   // Week 8
@@ -1148,8 +1077,7 @@ export const events = [
     dateText: 'Thursday 20 June',
     time: '7pm',
     name: 'Trivia with DJ Todd Skipper',
-    imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Todd_Skipper_crzt65.webp',
+    imageUrl: '/images/events/Todd_Skipper.webp',
     foodTruck: 'Lil Cellos',
   },
   {
@@ -1158,8 +1086,7 @@ export const events = [
     dateText: 'Friday 21 June',
     time: '5.30pm',
     name: 'Hekili Meat Tray Raffle Fundraiser',
-    imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/placeholder_jzdida.webp',
+    imageUrl: '/images/events/placeholder.webp',
     foodTruck: 'Lil Cellos',
   },
   {
@@ -1168,8 +1095,7 @@ export const events = [
     dateText: 'Saturday 22 June',
     time: 'TBC',
     name: 'Wear it Pink for Zonta Cairns Breast Cancer Fundraiser Event',
-    imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/placeholder_jzdida.webp',
+    imageUrl: '/images/events/placeholder.webp',
     foodTruck: 'Duck and Felicias',
   },
   {
@@ -1178,8 +1104,7 @@ export const events = [
     dateText: 'Sunday 23 June',
     time: '2pm - 5pm',
     name: 'Sunday Sesh Musician - Tim Smith',
-    imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Live_music_tbs7xy.webp',
+    imageUrl: '/images/events/live_music.webp',
     foodTruck: 'Nicks Souvlaki',
   },
   // Week 9
@@ -1189,8 +1114,7 @@ export const events = [
     dateText: 'Thursday 27 June',
     time: '7pm',
     name: 'Trivia with DJ Todd Skipper',
-    imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Todd_Skipper_crzt65.webp',
+    imageUrl: '/images/events/Todd_Skipper.webp',
     foodTruck: 'Lil Cellos',
   },
   {
@@ -1199,8 +1123,7 @@ export const events = [
     dateText: 'Friday 28 June',
     time: '6pm - 9pm',
     name: 'Katie Richards Live Music',
-    imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Katie_Richards_xbdpkb.webp',
+    imageUrl: '/images/events/Katie_Richards.webp',
     foodTruck: 'Lil Cellos',
   },
   {
@@ -1209,8 +1132,7 @@ export const events = [
     dateText: 'Saturday 29 June',
     time: '7pm onwards',
     name: 'Cairns City Comedy',
-    imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/placeholder_jzdida.webp',
+    imageUrl: '/images/events/placeholder.webp',
     foodTruck: 'Ukama',
   },
   {
@@ -1219,173 +1141,155 @@ export const events = [
     dateText: 'Sunday 30 June',
     time: '2pm - 5pm',
     name: 'Sunday Sesh - Christina Ukelele',
-    imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Live_music_tbs7xy.webp',
+    imageUrl: '/images/events/live_music.webp',
     foodTruck: 'Duck and Felicias',
   },
-    // Week 10
-    {
-      id: 122,
-      date: '2024-07-04',
-      dateText: 'Thursday 4 July',
-      time: '7pm',
-      name: 'Trivia with DJ Todd Skipper',
-      imageUrl:
-        'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Todd_Skipper_crzt65.webp',
-      foodTruck: 'Lil Cellos',
-    },
-    {
-      id: 123,
-      date: '2024-07-05',
-      dateText: 'Friday 5 July',
-      time: '6pm - 9pm',
-      name: 'Joey Lanskey Live Music / Meat Tray Raffles in the afternoon',
-      imageUrl:
-        'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Joey_Lanskey_jufbnf.webp',
-      foodTruck: 'Lil Cellos',
-    },
-    {
-      id: 124,
-      date: '2024-07-06',
-      dateText: 'Saturday 6 July',
-      time: '3pm onwards',
-      name: 'Stax o\’ Wax',
-      imageUrl:
-        'https://res.cloudinary.com/dt3k2apqd/image/upload/v1704354234/Copperlode%20Brewery/vinyl_kcqkqj.jpg',
-      foodTruck: 'Schnitz and Gigs',
-    },
-    {
-      id: 125,
-      date: '2024-07-07',
-      dateText: 'Sunday 7 July',
-      time: '2pm - 5pm',
-      name: 'Sunday Sesh - Jimmy James',
-      imageUrl:
-        'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Jimmy_James_efdiez.webp',
-      foodTruck: 'Feeding Frenzy',
-    },
-    // Week 11
-    {
-      id: 126,
-      date: '2024-07-11',
-      dateText: 'Thursday 11 July',
-      time: '7pm',
-      name: 'Trivia with DJ Todd Skipper',
-      imageUrl:
-        'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Todd_Skipper_crzt65.webp',
-      foodTruck: 'Lil Cellos',
-    },
-    {
-      id: 127,
-      date: '2024-07-12',
-      dateText: 'Friday 12 July',
-      time: '6pm - 9pm',
-      name: 'Solo West Live Music / Meat Tray Raffles in the afternoon',
-      imageUrl:
-        'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/placeholder_jzdida.webp',
-      foodTruck: 'Lil Cellos',
-    },
-    {
-      id: 128,
-      date: '2024-07-13',
-      dateText: 'Saturday 13 July',
-      time: '7.30pm registration, 8pm onwards',
-      name: 'Music Bingo',
-      imageUrl:
-        'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/placeholder_jzdida.webp',
-      foodTruck: 'Umaka',
-    },
-    {
-      id: 129,
-      date: '2024-07-14',
-      dateText: 'Sunday 14 July',
-      time: '2pm - 5pm',
-      name: 'Sunday Sesh - Julian James',
-      imageUrl:
-        'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Julian_James_copy_bxhkby.webp',
-      foodTruck: 'Duck and Felicias',
-    },
-    // Week 12
-    {
-      id: 130,
-      date: '2024-07-18',
-      dateText: 'Thursday 18 July',
-      time: '7pm',
-      name: 'Trivia with DJ Todd Skipper',
-      imageUrl:
-        'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Todd_Skipper_crzt65.webp',
-      foodTruck: 'Lil Cellos',
-    },
-    {
-      id: 131,
-      date: '2024-07-19',
-      dateText: 'Friday 19 July',
-      time: '6pm onwards',
-      name: 'Meat Tray Raffles',
-      imageUrl:
-        'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/placeholder_jzdida.webp',
-      foodTruck: 'Lil Cellos',
-    },
-    {
-      id: 132,
-      date: '2024-07-20',
-      dateText: 'Saturday 20 July',
-      time: '7pm onwards',
-      name: 'Comedy Night',
-      imageUrl:
-        'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/placeholder_jzdida.webp',
-      foodTruck: 'TBC',
-    },
-    {
-      id: 133,
-      date: '2024-07-21',
-      dateText: 'Sunday 21 July',
-      time: '2pm - 5pm',
-      name: 'Sunday Sesh - Katie Richards',
-      imageUrl:
-        'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Katie_Richards_xbdpkb.webp',
-      foodTruck: 'Umaka',
-    },
-    // Week 13
-    {
-      id: 134,
-      date: '2024-07-25',
-      dateText: 'Thursday 25 July',
-      time: '7pm',
-      name: 'Trivia with DJ Todd Skipper',
-      imageUrl:
-        'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Todd_Skipper_crzt65.webp',
-      foodTruck: 'Lil Cellos',
-    },
-    {
-      id: 135,
-      date: '2024-07-26',
-      dateText: 'Friday 26 July',
-      time: '6pm onwards',
-      name: 'TBC',
-      imageUrl:
-        'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/placeholder_jzdida.webp',
-      foodTruck: 'TBC',
-    },
-    {
-      id: 136,
-      date: '2024-07-27',
-      dateText: 'Saturday 27 July',
-      time: '7pm onwards',
-      name: 'Lady Valiant Duo',
-      imageUrl:
-        'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Lady_Valiant_vrgeiz.webp',
-      foodTruck: 'TBC',
-    },
-    {
-      id: 137,
-      date: '2024-07-28',
-      dateText: 'Sunday 28 July',
-      time: '2pm - 5pm',
-      name: 'Sunday Sesh',
-      imageUrl:
-        'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/placeholder_jzdida.webp',
-      foodTruck: 'Umaka',
-    }
-  
+  // Week 10
+  {
+    id: 122,
+    date: '2024-07-04',
+    dateText: 'Thursday 4 July',
+    time: '7pm',
+    name: 'Trivia with DJ Todd Skipper',
+    imageUrl: '/images/events/Todd_Skipper.webp',
+    foodTruck: 'Lil Cellos',
+  },
+  {
+    id: 123,
+    date: '2024-07-05',
+    dateText: 'Friday 5 July',
+    time: '6pm - 9pm',
+    name: 'Joey Lanskey Live Music / Meat Tray Raffles in the afternoon',
+    imageUrl: '/images/events/Joe_Lanskey.webp',
+    foodTruck: 'Lil Cellos',
+  },
+  {
+    id: 124,
+    date: '2024-07-06',
+    dateText: 'Saturday 6 July',
+    time: '3pm onwards',
+    name: 'Stax o’ Wax',
+    imageUrl: '/images/events/vinyl.webp',
+    foodTruck: 'Schnitz and Gigs',
+  },
+  {
+    id: 125,
+    date: '2024-07-07',
+    dateText: 'Sunday 7 July',
+    time: '2pm - 5pm',
+    name: 'Sunday Sesh - Jimmy James',
+    imageUrl: '/images/events/Jimmy_James.webp',
+    foodTruck: 'Feeding Frenzy',
+  },
+  // Week 11
+  {
+    id: 126,
+    date: '2024-07-11',
+    dateText: 'Thursday 11 July',
+    time: '7pm',
+    name: 'Trivia with DJ Todd Skipper',
+    imageUrl: '/images/events/Todd_Skipper.webp',
+    foodTruck: 'Lil Cellos',
+  },
+  {
+    id: 127,
+    date: '2024-07-12',
+    dateText: 'Friday 12 July',
+    time: '6pm - 9pm',
+    name: 'Solo West Live Music / Meat Tray Raffles in the afternoon',
+    imageUrl: '/images/events/placeholder.webp',
+    foodTruck: 'Lil Cellos',
+  },
+  {
+    id: 128,
+    date: '2024-07-13',
+    dateText: 'Saturday 13 July',
+    time: '7.30pm registration, 8pm onwards',
+    name: 'Music Bingo',
+    imageUrl: '/images/events/placeholder.webp',
+    foodTruck: 'Umaka',
+  },
+  {
+    id: 129,
+    date: '2024-07-14',
+    dateText: 'Sunday 14 July',
+    time: '2pm - 5pm',
+    name: 'Sunday Sesh - Julian James',
+    imageUrl: '/images/events/Julian_James.webp',
+    foodTruck: 'Duck and Felicias',
+  },
+  // Week 12
+  {
+    id: 130,
+    date: '2024-07-18',
+    dateText: 'Thursday 18 July',
+    time: '7pm',
+    name: 'Trivia with DJ Todd Skipper',
+    imageUrl: '/images/events/Todd_Skipper.webp',
+    foodTruck: 'Lil Cellos',
+  },
+  {
+    id: 131,
+    date: '2024-07-19',
+    dateText: 'Friday 19 July',
+    time: '6pm onwards',
+    name: 'Meat Tray Raffles',
+    imageUrl: '/images/events/placeholder.webp',
+    foodTruck: 'Lil Cellos',
+  },
+  {
+    id: 132,
+    date: '2024-07-20',
+    dateText: 'Saturday 20 July',
+    time: '7pm onwards',
+    name: 'Comedy Night',
+    imageUrl: '/images/events/placeholder.webp',
+    foodTruck: 'TBC',
+  },
+  {
+    id: 133,
+    date: '2024-07-21',
+    dateText: 'Sunday 21 July',
+    time: '2pm - 5pm',
+    name: 'Sunday Sesh - Katie Richards',
+    imageUrl: '/images/events/Katie_Richards.webp',
+    foodTruck: 'Umaka',
+  },
+  // Week 13
+  {
+    id: 134,
+    date: '2024-07-25',
+    dateText: 'Thursday 25 July',
+    time: '7pm',
+    name: 'Trivia with DJ Todd Skipper',
+    imageUrl: '/images/events/Todd_Skipper.webp',
+    foodTruck: 'Lil Cellos',
+  },
+  {
+    id: 135,
+    date: '2024-07-26',
+    dateText: 'Friday 26 July',
+    time: '6pm onwards',
+    name: 'Live Music with Phoebe Jabobs & Meat Trays with SSSD',
+    imageUrl: '/images/events/Phoebe_Jacobs.webp',
+    foodTruck: 'Lil Cellos',
+  },
+  {
+    id: 136,
+    date: '2024-07-27',
+    dateText: 'Saturday 27 July',
+    time: '8pm - 10pm',
+    name: 'Comedy Night',
+    imageUrl: '/images/events/placeholder.webp',
+    foodTruck: 'Nicks Souvlaki',
+  },
+  {
+    id: 137,
+    date: '2024-07-28',
+    dateText: 'Sunday 28 July',
+    time: '2pm - 5pm',
+    name: 'Live Music with Chris Matthews',
+    imageUrl: '/images/events/Chris_Matthews.webp',
+    foodTruck: 'Umaka',
+  },
 ];

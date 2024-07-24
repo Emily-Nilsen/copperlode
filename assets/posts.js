@@ -34,39 +34,31 @@ const posts = [
           'Currently on tour, their tunes will soon resonate through the walls of Copperlode Brewery Co. We can’t wait to share our craft beers with all of you.',
       },
     ],
-    imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/posts/bottles_of_secret_wine_vuo185.webp',
+    imageUrl: '/images/posts/img_01.webp',
     figCaptionImage2: 'Wine connoisseur Wayne Tuni',
     figCaptionImage4: 'Copperlode Brewery Co. proudly sponsors Big Pups',
     // figCaptionImage6: 'Visiting our local radio station "Star 102.7"',
     centralImages: [
       {
-        image:
-          'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/posts/Ralph_and_Helen_aktavt.webp',
+        image: '/images/posts/img_02.webp',
       },
       {
-        image:
-          'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/posts/pouring_wine_exgeag.webp',
+        image: '/images/posts/img_03.webp',
       },
       {
-        image:
-          'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/posts/fb_5_vrof57.webp',
+        image: '/images/posts/img_04.webp',
       },
       {
-        image:
-          'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/posts/logo_on_trailer_spthq0.webp',
+        image: '/images/posts/img_05.webp',
       },
       {
-        image:
-          'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/posts/fb_4_e6dfu1.webp',
+        image: '/images/posts/img_06.webp',
       },
       {
-        image:
-          'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/posts/fb_2_la8cp7.webp',
+        image: '/images/posts/img_07.webp',
       },
       {
-        image:
-          'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/posts/IMG_5172_cwf04e.webp',
+        image: '/images/posts/img_08.webp',
       },
     ],
     date: 'Aug 7, 2023',
@@ -75,8 +67,7 @@ const posts = [
     author: {
       name: 'Morgan Hind',
       role: 'Co-Founder / Head Brewer / CEO',
-      imageUrl:
-        'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Morgan_thumbnail_o7i4mq.webp',
+      imageUrl: '/images/posts/Morgan.webp',
     },
   },
   {
@@ -104,39 +95,31 @@ const posts = [
           'Beyond being a place to enjoy our craft beers, our bar symbolises our pride in our local connections and the heart of Copperlode Brewery Co.',
       },
     ],
-    imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/posts/bench_top_gozi0m.webp',
+    imageUrl: '/images/posts/img_09.webp',
     figCaptionImage2: 'Our bar top in the making',
     figCaptionImage4: 'Badges donated by the 51st Battalion',
     figCaptionImage6: 'Revitalizing railway history with expert craftsmanship',
     centralImages: [
       {
-        image:
-          'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/posts/bar_top_high_sh8lrb.webp',
+        image: '/images/posts/img_10.webp',
       },
       {
-        image:
-          'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/posts/bar_top_with_stones_and_resin_q1h5o9.webp',
+        image: '/images/posts/img_11.webp',
       },
       {
-        image:
-          'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/posts/screwing_corrugated_iron_klxtpv.webp',
+        image: '/images/posts/img_12.webp',
       },
       {
-        image:
-          'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/posts/badges_xnkzgx.webp',
+        image: '/images/posts/img_13.webp',
       },
       {
-        image:
-          'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/posts/panoramic_view_dn4vsm.webp',
+        image: '/images/posts/img_14.webp',
       },
       {
-        image:
-          'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/posts/railway_spikes_pcatz4.webp',
+        image: '/images/posts/img_15.webp',
       },
       {
-        image:
-          'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/posts/bar_top_guajdi.webp',
+        image: '/images/posts/img_16.webp',
       },
     ],
     date: 'Aug 5, 2023',
@@ -145,8 +128,7 @@ const posts = [
     author: {
       name: 'Morgan Hind',
       role: 'Co-Founder / Head Brewer / CEO',
-      imageUrl:
-        'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Morgan_thumbnail_o7i4mq.webp',
+      imageUrl: '/images/posts/Morgan.webp',
     },
   },
   {
@@ -170,39 +152,31 @@ const posts = [
           'We are genuinely excited about our grand opening and pleased with how far we have come. We cannot wait to welcome everyone to our tavern, where we will raise a glass to our top-notch community and the craftsmanship that made Copperlode Brewery Co. a reality.',
       },
     ],
-    imageUrl:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/posts/IMG_4949_zvxofo.webp',
+    imageUrl: '/images/posts/img_17.webp',
     figCaptionImage2: 'Gypsy and Ralph',
     figCaptionImage4: 'On right: Jake from Well-Brewd',
     figCaptionImage6: '1500-litre brew system',
     centralImages: [
       {
-        image:
-          'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/posts/IMG_4920_e9bo19.webp',
+        image: '/images/posts/img_18.webp',
       },
       {
-        image:
-          'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/posts/gypsy_and_ralph_vcaf3o.webp',
+        image: '/images/posts/img_19.webp',
       },
       {
-        image:
-          'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/posts/smoothing_concrete_ghzfju.webp',
+        image: '/images/posts/img_20.webp',
       },
       {
-        image:
-          'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/posts/Jake_from_well-brewd_gogyfm.webp',
+        image: '/images/posts/img_21.webp',
       },
       {
-        image:
-          'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/posts/tightening_bolts_zivuv6.webp',
+        image: '/images/posts/img_22.webp',
       },
       {
-        image:
-          'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/posts/brew_system_on_truck_wwcjws.webp',
+        image: '/images/posts/img_23.webp',
       },
       {
-        image:
-          'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/posts/tradie_cmfwii.webp',
+        image: '/images/posts/img_24.webp',
       },
     ],
     date: 'Aug 2, 2023',
@@ -212,8 +186,7 @@ const posts = [
       name: 'Morgan Hind',
       role: 'Co-Founder / Head Brewer / CEO',
 
-      imageUrl:
-        'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Morgan_thumbnail_o7i4mq.webp',
+      imageUrl: '/images/posts/Morgan.webp',
     },
   },
 ];

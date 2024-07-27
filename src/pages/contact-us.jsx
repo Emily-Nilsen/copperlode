@@ -29,16 +29,16 @@ export default function ContactUs() {
             alt="Copperlod Brewery Co., Far North Queensland, Australia"
             width={1500}
             height={945}
-            placeholder="/images/general/hero_placeholder_blur.webp"
-            // blurDataURL="data:image/jpeg..."
+            placeholder="blur"
+            blurDataURL="/images/ImageBlurData/heroMobile_blurDataURL"
             className="absolute inset-0 object-cover w-full h-full -z-10"
           />
         </div>
         <div className="z-0 hidden sm:block">
           <Image
             src="/images/general/hero_placeholder.webp"
-            placeholder="/images/general/hero_placeholder_blur.webp"
-            // blurDataURL="/images/ImageBlurData/heroDesktopBlurDataURL"
+            placeholder="blur"
+            blurDataURL="/images/ImageBlurData/heroDesktop_blurDataURL"
             alt="Copperlod Brewery Co., Far North Queensland, Australia"
             fill
             className="absolute inset-0 object-cover w-full h-full -z-10"

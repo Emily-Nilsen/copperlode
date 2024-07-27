@@ -25,16 +25,20 @@ export default function ContactUs() {
       <div className="relative z-0 bg-gray-950 isolate">
         <div className="sm:hidden">
           <Image
-            src="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/hero_mobile_dxlfbz.webp"
+            src="/images/general/hero_mobile.webp"
             alt="Copperlod Brewery Co., Far North Queensland, Australia"
             width={1500}
             height={945}
+            placeholder="/images/general/hero_placeholder_blur.webp"
+            // blurDataURL="data:image/jpeg..."
             className="absolute inset-0 object-cover w-full h-full -z-10"
           />
         </div>
         <div className="z-0 hidden sm:block">
           <Image
-            src="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/hero_placeholder_piqua8.webp"
+            src="/images/general/hero_placeholder.webp"
+            placeholder="/images/general/hero_placeholder_blur.webp"
+            // blurDataURL="/images/ImageBlurData/heroDesktopBlurDataURL"
             alt="Copperlod Brewery Co., Far North Queensland, Australia"
             fill
             className="absolute inset-0 object-cover w-full h-full -z-10"
@@ -263,25 +267,6 @@ export default function ContactUs() {
             </div>
           </form>
         </div>
-        {/* <div className="sm:hidden">
-          <Image
-            src="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/hero_mobile_dxlfbz.webp"
-            alt="Copperlod Brewery Co., Far North Queensland, Australia"
-            width={1500}
-            height={945}
-            className="absolute inset-0 object-cover w-full h-full -z-10"
-          />
-        </div>
-        <div className="z-0 hidden sm:block">
-          <Image
-            src="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/hero_placeholder_piqua8.webp"
-            alt="Copperlod Brewery Co., Far North Queensland, Australia"
-            fill
-            className="absolute inset-0 object-cover w-full h-full -z-10"
-          />
-        </div>
-        <div className="absolute inset-0 z-0 bg-gray-950/80" />
-        <div className="absolute bottom-0 z-0 w-full lg:h-40 h-28 bg-gradient-to-t from-gray-950" /> */}
       </div>
     </>
   );

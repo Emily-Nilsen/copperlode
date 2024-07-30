@@ -28,7 +28,7 @@ export function OurBeersSection() {
           <div className="flex flex-wrap items-start justify-end gap-6 sm:gap-8 lg:contents">
             <div className="flex-auto w-0 lg:ml-auto lg:w-auto lg:flex-none lg:self-end">
               <Image
-                src="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/red_beer_v1_so8nyw.webp"
+                src="/images/general/our-beers-img-1.webp"
                 alt=""
                 width={1500}
                 height={1000}
@@ -39,7 +39,7 @@ export function OurBeersSection() {
             <div className="contents lg:col-span-2 lg:col-end-2 lg:ml-auto lg:flex lg:w-[37rem] lg:items-start lg:justify-end lg:gap-x-8">
               <div className="flex self-end justify-end flex-none order-first w-64 lg:w-auto">
                 <Image
-                  src="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/red_beer_ud8mew.webp"
+                  src="/images/general/our-beers-img-2.webp"
                   alt=""
                   width={1500}
                   height={1134}
@@ -49,7 +49,7 @@ export function OurBeersSection() {
               </div>
               <div className="flex justify-end flex-auto w-96 lg:w-auto lg:flex-none">
                 <Image
-                  src="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/golden_beer_v1_kz7kmi.webp"
+                  src="/images/general/our-beers-img-3.webp"
                   alt=""
                   width={1500}
                   height={844}
@@ -59,7 +59,7 @@ export function OurBeersSection() {
               </div>
               <div className="hidden sm:block sm:w-0 sm:flex-auto lg:w-auto lg:flex-none">
                 <Image
-                  src="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Our_Beers_Section_03_yeswgt.webp"
+                  src="/images/general/our-beers-img-4.webp"
                   alt=""
                   width={1500}
                   height={1000}

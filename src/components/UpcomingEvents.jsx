@@ -59,7 +59,7 @@ export function UpcomingEvents() {
           </div>
           <div className="flex items-start justify-end lg:order-first">
             <Image
-              src="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/copperlode_beer_z79757.webp"
+              src="/images/general/upcoming-events.webp"
               alt="Copperlode Brewing Co. beer"
               className="w-[48rem] max-w-none rounded-xl shadow-xl ring-1 ring-gray-400/10 sm:w-[57rem]"
               width={2432}

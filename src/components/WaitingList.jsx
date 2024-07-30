@@ -8,7 +8,7 @@ export function WaitingList() {
         <div className="lg:hidden">
           <Image
             className="object-cover w-full h-64 bg-gray-800 rounded-lg sm:h-80 lg:absolute lg:h-full"
-            src="https://res.cloudinary.com/dt3k2apqd/image/upload/v1709917390/Copperlode%20Brewery/barley_desktop_ncewzn.webp"
+            src="/images/general/waiting-list-desktop.webp"
             alt=""
             width={2000}
             height={1357}
@@ -18,7 +18,7 @@ export function WaitingList() {
         <div className="hidden lg:block">
           <Image
             className="object-cover w-full h-64 bg-gray-800 rounded-lg sm:h-80 lg:absolute lg:h-full"
-            src="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/barley_mobile_csdsby.webp"
+            src="/images/general/waiting-list-mobile.webp"
             alt=""
             width={2000}
             height={1357}

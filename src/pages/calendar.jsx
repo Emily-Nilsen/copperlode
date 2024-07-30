@@ -43,16 +43,22 @@ export default function Calendar() {
         </div>
         <div className="sm:hidden">
           <Image
-            src="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/hero_mobile_dxlfbz.webp"
+            src="/images/general/hero_mobile.webp"
             alt="Copperlod Brewery Co., Far North Queensland, Australia"
             width={1500}
             height={945}
+            priority
+            placeholder="blur"
+            blurDataURL="/images/ImageBlurData/heroMobile_blurDataURL"
             className="absolute inset-0 object-cover w-full h-full -z-10"
           />
         </div>
         <div className="z-0 hidden sm:block">
           <Image
-            src="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/hero_placeholder_piqua8.webp"
+            src="/images/general/hero_placeholder.webp"
+            priority
+            placeholder="blur"
+            blurDataURL="/images/ImageBlurData/heroDesktop_blurDataURL"
             alt="Copperlod Brewery Co., Far North Queensland, Australia"
             width={2500}
             height={1326}

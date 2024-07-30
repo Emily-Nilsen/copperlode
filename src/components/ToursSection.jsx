@@ -59,7 +59,7 @@ export function ToursSection() {
         <div className="relative pt-16 overflow-hidden">
           <div className="px-6 mx-auto max-w-7xl lg:px-8">
             <Image
-              src="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/posts/IMG_4978_je279h.webp"
+              src="/images/general/tours-section.webp"
               alt="Copperlode Brewery"
               className="mb-[-12%] rounded-xl shadow-2xl ring-1 ring-white/10"
               width={2500}

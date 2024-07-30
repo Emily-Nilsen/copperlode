@@ -1,5 +1,5 @@
 import { Morgan } from '../components/Morgan';
-import { Daigo } from '../components/Daigo';
+
 import Image from 'next/image';
 import Link from 'next/link';
 import Head from 'next/head';
@@ -98,7 +98,7 @@ export default function AboutUs() {
                       <div className="relative">
                         <Image
                           unoptimized
-                          src="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/posts/fb_1_udg7un.webp"
+                          src="/images/general/about-us-img-1.webp"
                           alt=""
                           className="aspect-[2/3] w-full rounded-xl bg-gray-900/5 object-cover shadow-lg"
                           width={1500}
@@ -111,7 +111,7 @@ export default function AboutUs() {
                       <div className="relative">
                         <Image
                           unoptimized
-                          src="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/about_us_hero_5_hfo2vd.webp"
+                          src="/images/general/about-us-img-2.webp"
                           alt=""
                           className="aspect-[2/3] w-full rounded-xl bg-gray-900/5 object-cover shadow-lg"
                           width={1500}
@@ -122,7 +122,7 @@ export default function AboutUs() {
                       <div className="relative">
                         <Image
                           unoptimized
-                          src="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/inspecting_beer_mcayhx.webp"
+                          src="/images/general/about-us-img-3.webp"
                           alt=""
                           className="aspect-[2/3] w-full rounded-xl bg-gray-900/5 object-cover shadow-lg"
                           width={1500}
@@ -135,7 +135,7 @@ export default function AboutUs() {
                       <div className="relative">
                         <Image
                           unoptimized
-                          src="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/about_us_hero_4_dgcf8i.webp"
+                          src="/images/general/about-us-img-4.webp"
                           alt=""
                           className="aspect-[2/3] w-full rounded-xl bg-gray-900/5 object-cover shadow-lg"
                           width={1500}
@@ -146,7 +146,7 @@ export default function AboutUs() {
                       <div className="relative">
                         <Image
                           unoptimized
-                          src="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/posts/fb_2_la8cp7.webp"
+                          src="/images/posts/img_07.webp"
                           alt=""
                           className="aspect-[2/3] w-full rounded-xl bg-gray-900/5 object-cover shadow-lg"
                           width={1500}
@@ -207,7 +207,7 @@ export default function AboutUs() {
           {/* Image section */}
           <div className="mt-32 sm:mt-40 xl:mx-auto xl:max-w-7xl xl:px-8">
             <Image
-              src="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/posts/panoramic_view_dn4vsm.webp"
+              src="/images/posts/img_14.webp"
               alt=""
               className="aspect-[5/2] w-full object-cover xl:rounded-3xl"
               unoptimized
@@ -250,7 +250,6 @@ export default function AboutUs() {
             </div>
             <div className="flex flex-col gap-10">
               <Morgan />
-              {/* <Daigo /> */}
             </div>
           </div>
         </main>

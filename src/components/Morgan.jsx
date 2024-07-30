@@ -10,7 +10,7 @@ export function Morgan() {
             <div className="relative px-6 pt-64 overflow-hidden bg-white shadow-2xl rounded-3xl pb-9 sm:px-12 lg:max-w-lg lg:px-8 lg:pb-8 xl:px-10 xl:pb-10">
               <Image
                 className="absolute inset-0 object-cover w-full h-full"
-                src="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Morgan_t4xoks.webp"
+                src="/images/general/Morgan.webp"
                 alt="Morgan Hind"
                 width={3024}
                 height={4032}

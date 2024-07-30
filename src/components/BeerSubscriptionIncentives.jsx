@@ -3,21 +3,18 @@ import Image from 'next/image';
 const incentives = [
   {
     name: 'Sign Up',
-    imageSrc:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/online_form_sfqtad.svg',
+    imageSrc: '/images/svg/online-form.svg',
     description: 'Choose your subscription plan and sign up online.',
   },
   {
     name: 'Receive',
-    imageSrc:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/truck_lwwp60.svg',
+    imageSrc: '/images/svg/truck.svg',
     description:
       'Your curated selection of beers will be delivered to your doorstep.',
   },
   {
     name: 'Enjoy',
-    imageSrc:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Asset_2_bcosxc.svg',
+    imageSrc: '/images/svg/beer-mug.svg',
     description:
       'Sit back, relax, and enjoy exploring the world of craft beer from the comfort of your home.',
   },
@@ -41,7 +38,7 @@ export function BeerSubscriptionIncentives() {
             </div>
             <div className="overflow-hidden bg-gray-900 rounded-lg aspect-h-2 aspect-w-3">
               <Image
-                src="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Our_Beers_Section_01_x8hras.webp"
+                src="/images/general/beer-subscription-img-1.webp"
                 alt=""
                 width={2000}
                 height={1357}
@@ -60,7 +57,7 @@ export function BeerSubscriptionIncentives() {
             </div>
             <div className="overflow-hidden bg-gray-900 rounded-lg aspect-h-2 aspect-w-3">
               <Image
-                src="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/home_delivery_atho57.webp"
+                src="/images/general/beer-subscription-img-2.webp"
                 alt=""
                 width={2000}
                 height={1357}
@@ -79,7 +76,7 @@ export function BeerSubscriptionIncentives() {
             </div>
             <div className="overflow-hidden bg-gray-900 rounded-lg aspect-h-2 aspect-w-3">
               <Image
-                src="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/brewing_techniques_hely2w.webp"
+                src="/images/general/beer-subscription-img-3.webp"
                 alt=""
                 width={2000}
                 height={1357}
@@ -98,7 +95,7 @@ export function BeerSubscriptionIncentives() {
             </div>
             <div className="overflow-hidden bg-gray-900 rounded-lg aspect-h-2 aspect-w-3">
               <Image
-                src="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/placeholder_jzdida.webp"
+                src="/images/general/beer-subscription-img-4.webp"
                 alt=""
                 width={2000}
                 height={1357}
@@ -119,7 +116,7 @@ export function BeerSubscriptionIncentives() {
             </div>
             <div className="overflow-hidden bg-gray-900 rounded-lg aspect-h-2 aspect-w-3">
               <Image
-                src="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/craft_beer_yfmusz.webp"
+                src="/images/general/beer-subscription-img-5.webp"
                 alt=""
                 width={2000}
                 height={1357}

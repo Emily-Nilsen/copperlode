@@ -10,7 +10,7 @@ export function Hero() {
         {/* Mobile */}
         <div className="sm:hidden">
           <Image
-            src="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/hero_mobile_dxlfbz.webp"
+            src="/images/general/hero_mobile.webp"
             alt="Copperlode Brewery Co., Craft Brewery in Cairns, Australia"
             width={1500}
             height={945}
@@ -22,7 +22,7 @@ export function Hero() {
         {/* Desktop */}
         <div className="hidden sm:block">
           <Image
-            src="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/hero_placeholder_piqua8.webp"
+            src="/images/general/hero_placeholder.webp"
             alt="Copperlode Brewery Co., Craft Brewery in Cairns, Australia"
             width={2500}
             height={1326}

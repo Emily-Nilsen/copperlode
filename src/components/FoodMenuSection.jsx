@@ -8,7 +8,7 @@ export function FoodMenuSection() {
       <div className="relative z-0 py-24 overflow-hidden bg-gray-900 isolate sm:py-40 sm:pb-48">
         <div className="-z-10">
           <Image
-            src="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Food_Menu_Section_ziqnv3.webp"
+            src="/images/general/food-menu.webp"
             alt=""
             fill
             className="absolute inset-0 object-cover w-full h-full -z-10"

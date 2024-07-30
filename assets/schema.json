@@ -115,10 +115,10 @@
     }
   ],
   "foundingDate": "2023-04-01",
-  "logo": "https://res.cloudinary.com/dt3k2apqd/image/upload/v1692778921/Copperlode%20Brewery/RGB_Copperlode_Brewing_co_-_Logo_Black_2x_zfszj1.png",
+  "logo": "/images/general/logo-black.png",
   "image": [
-    "https://res.cloudinary.com/dt3k2apqd/image/upload/v1691415118/Copperlode%20Brewery/red_beer_ud8mew.webp",
-    "https://res.cloudinary.com/dt3k2apqd/image/upload/v1691414221/Copperlode%20Brewery/Lizard_Lager_v2_ja8j9s.webp"
+    "/images/general/beers-Red_Dust.webp",
+    "/images/general/beers-Lizard_Lager.webp"
   ],
   "location": {
     "@type": "Place",

@@ -4,29 +4,25 @@ const features = [
   {
     name: 'Exclusive Brews',
     description: `Access to limited edition and exclusive beers that you won't find anywhere else.`,
-    imageSrc:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Our_Beers_Section_01_x8hras.webp',
+    imageSrc: '/images/general/beer-subscription-img-1.webp',
     imageAlt: 'Three bottles of beer on a wooden table.',
   },
   {
     name: 'Convenience',
     description: `No more trips to the store - we deliver right to your door, saving you time and hassle.`,
-    imageSrc:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/home_delivery_atho57.webp',
+    imageSrc: '/images/general/beer-subscription-img-2.webp',
     imageAlt: 'Close up of person holding a beer bottle and a bottle opener.',
   },
   {
     name: 'Educational Experience',
     description: `Learn about different beer styles, brewing techniques, and more with our informative tasting notes.`,
-    imageSrc:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/brewing_techniques_hely2w.webp',
+    imageSrc: '/images/general/beer-subscription-img-3.webp',
     imageAlt: 'Close up of person holding a beer brochure.',
   },
   {
     name: 'Custom Artwork',
     description: `Each beer comes with its own custom artwork print, which you can enjoy even after the beer is long gone!`,
-    imageSrc:
-      'https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/placeholder_jzdida.webp',
+    imageSrc: '/images/general/beer-subscription-img-4.webp',
     imageAlt:
       'Close up of person holding a beer bottle and a bottle opener with a custom artwork print.',
   },

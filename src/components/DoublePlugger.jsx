@@ -17,7 +17,7 @@ export function DoublePlugger() {
             <div className="relative px-6 pt-64 overflow-hidden bg-gray-900 shadow-2xl rounded-3xl pb-9 sm:px-12 lg:max-w-lg lg:px-8 lg:pb-8 xl:px-10 xl:pb-10 lg:aspect-[1/1]">
               <Image
                 className="absolute inset-0 object-cover w-full h-full lg:aspect-[1/1]"
-                src="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/double_plugger_qu93aj.webp"
+                src="/images/general/beers-double-plugger.webp"
                 alt="Double Plugger XPA"
                 width={3000}
                 height={1681}

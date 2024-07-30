@@ -20,7 +20,7 @@ export function AboutUsSection() {
               width={640}
               height={640}
               className="flex-none object-cover w-full shadow-xl h-96 rounded-2xl lg:aspect-square lg:h-auto lg:max-w-sm"
-              src="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Copperlode%20Brewery/Copperlode_Dam_khnnra.jpg"
+              src="/images/general/Copperlode_Dam.webp"
               alt="Copperlode Dam, FNQ, Australia"
               loading="lazy"
             />

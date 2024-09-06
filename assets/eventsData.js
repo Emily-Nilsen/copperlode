@@ -1511,7 +1511,7 @@ export const events = [
     dateText: 'Sunday 8 September',
     time: '2pm - 5pm',
     name: 'Live Music with Jimmy James',
-    imageUrl: '/images/events/placeholder.webp',
+    imageUrl: '/images/events/jimmy_james_new.webp',
     foodTruck: 'Umaka 12pm - 7pm',
   },
   // Week 20

@@ -1494,7 +1494,7 @@ export const events = [
     time: '12pm onwards',
     name: 'Hi-Vis Fridays / Meat Trays',
     imageUrl: '/images/events/placeholder.webp',
-    foodTruck: 'Lil Cellos',
+    foodTruck: 'Lil Cellos 12pm - 9pm',
   },
   {
     id: 160,
@@ -1503,7 +1503,7 @@ export const events = [
     time: '2pm onwards',
     name: 'Puppy Adoption Day at 2pm / Charity Trivia Fundraiser Night from 7pm',
     imageUrl: '/images/events/Dog_Adoption_Day.webp',
-    foodTruck: 'Duck and Felicias',
+    foodTruck: 'Burgerlicious 12pm - 7pm',
   },
   {
     id: 161,
@@ -1511,8 +1511,8 @@ export const events = [
     dateText: 'Sunday 8 September',
     time: '2pm - 5pm',
     name: 'Live Music with Jimmy James',
-    imageUrl: '/images/events/Jimmy_James.webp',
-    foodTruck: 'Umaka',
+    imageUrl: '/images/events/placeholder.webp',
+    foodTruck: 'Umaka 12pm - 7pm',
   },
   // Week 20
   {

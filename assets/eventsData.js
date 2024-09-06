@@ -1491,9 +1491,9 @@ export const events = [
     id: 159,
     date: '2024-09-06',
     dateText: 'Friday 6 September',
-    time: '6pm - 9pm',
-    name: 'Live Music with Lady Valiant Duo / Meat Trays',
-    imageUrl: '/images/events/Lady_Valiant.webp',
+    time: '12pm onwards',
+    name: 'Hi-Vis Fridays / Meat Trays',
+    imageUrl: '/images/events/placeholder.webp',
     foodTruck: 'Lil Cellos',
   },
   {

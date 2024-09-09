@@ -1567,7 +1567,7 @@ export const events = [
     dateText: 'Friday 20 September',
     time: '6pm - 9pm',
     name: 'Friday Meat Tray Raffles / Sausage Sizzle',
-    imageUrl: '/images/events/Chris_Matthews.webp',
+    imageUrl: '/images/events/sausage_sizzle.webp',
     foodTruck: 'Lil Cellos',
   },
   {

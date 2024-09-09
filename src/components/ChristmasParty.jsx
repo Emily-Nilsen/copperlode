@@ -1,10 +1,14 @@
+import Image from 'next/image';
+
 export function ChristmasParty() {
   return (
-    <div className="relative bg-gray-900">
-      <div className="relative overflow-hidden bg-indigo-600 h-80 md:absolute md:left-0 md:h-full md:w-1/3 lg:w-1/2">
-        <img
-          alt=""
-          src="https://images.unsplash.com/photo-1525130413817-d45c1d127c42?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1920&q=60&blend=6366F1&sat=-100&blend-mode=multiply"
+    <div className="relative bg-[#181e1c]">
+      <div className="relative overflow-hidden bg-copper h-80 md:absolute md:left-0 md:h-full md:w-1/3 lg:w-1/2">
+        <Image
+          alt="Host your Christmas party at Copperlode Brewing"
+          width={1500}
+          height={841}
+          src="/images/general/Christmas_Party.webp"
           className="object-cover w-full h-full"
         />
         <svg
@@ -44,7 +48,12 @@ export function ChristmasParty() {
             Looking to book a Christmas party or community raffle? Contact our
             venue manager at{' '}
             <span className="inline">
-              <a href="#" className="text-white underline hover:text-white/80">
+              <a
+                href="mailto:venuemanager@copperlodebrewing.com.au"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-white underline hover:text-white/80"
+              >
                 venuemanager@copperlodebrewing.com.au
               </a>
             </span>{' '}
@@ -52,8 +61,10 @@ export function ChristmasParty() {
           </p>
           <div className="mt-8">
             <a
-              href="#"
-              className="inline-flex rounded-md bg-white/10 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-white/20 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-white"
+              href="mailto:venuemanager@copperlodebrewing.com.au"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex rounded-md bg-white/10 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-white/20 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-white transition-all"
             >
               Host your event at Copperlode Brewing
             </a>

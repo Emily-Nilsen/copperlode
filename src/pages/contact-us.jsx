@@ -101,6 +101,8 @@ export default function ContactUs() {
                     <a
                       className="hover:text-white"
                       href="mailto:gm@copperlodebrewing.com.au"
+                      target="_blank"
+                      rel="noopener noreferrer"
                     >
                       gm
                       <span className="font-['blanket']">@</span>

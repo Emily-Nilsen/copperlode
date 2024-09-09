@@ -1530,7 +1530,7 @@ export const events = [
     dateText: 'Friday 13 September',
     time: '6pm - 9pm',
     name: 'Friday Meat Tray Raffles / Sausage Sizzle / Friday 13th-Themed Dress Up Night',
-    imageUrl: '/images/events/Tim_Woodz.webp',
+    imageUrl: '/images/events/Friday-13th.webp',
     foodTruck: 'Lil Cellos',
   },
   {

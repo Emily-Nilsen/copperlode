@@ -1574,7 +1574,7 @@ export const events = [
     id: 168,
     date: '2024-09-21',
     dateText: 'Saturday 21 September',
-    time: '10am onwards',
+    time: '7.30pm',
     name: 'Music Bingo from 7.30pm - Registration 8pm start',
     imageUrl: '/images/events/music_bingo.webp',
     foodTruck: 'Mama Kazs Kitchen from 12pm',
@@ -1613,7 +1613,7 @@ export const events = [
     dateText: 'Saturday 28 September',
     time: '2pm onwards',
     name: 'AFL Football Grand Final',
-    imageUrl: '/images/events/Oktoberfest.webp',
+    imageUrl: '/images/events/AFL_night.webp',
     foodTruck: 'Burgerlicious from 12pm',
   },
   {
@@ -1623,6 +1623,6 @@ export const events = [
     time: '2pm - 5pm',
     name: 'Sunday Sesh with Zane & Phoebe',
     imageUrl: '/images/events/Phoebe_Jacobs.webp',
-    foodTruck: 'TBC',
+    foodTruck: 'Burgerlicious from 12pm',
   },
 ];

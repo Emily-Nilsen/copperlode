@@ -9,6 +9,7 @@ import { UpcomingEvents } from '@/components/UpcomingEvents';
 import { SpacerHop } from '@/components/SpacerHop';
 import { SpacerWater } from '@/components/SpacerWater';
 import { AgeVerification } from '@/components/AgeVerification';
+import {ChristmasParty } from '@/components/ChristmasParty';
 
 // Import other components dynamically
 const OurBeersSection = dynamic(() =>
@@ -54,7 +55,8 @@ export default function Home() {
           <Hero />
           <OurBeersSection />
           <SpacerBarley />
-          <UpcomingEvents />
+          <ChristmasParty />
+          {/* <UpcomingEvents /> */}
           <SpacerHop />
           <FoodMenuSection />
           <SpacerWater />

@@ -130,9 +130,9 @@ export function BobKatterBeerForm() {
                       <div className="mt-4 space-y-4 text-sm text-gray-300">
                         <div className="flex gap-x-2.5">
                           <input
-                            defaultValue="6-packs"
+                            value="6 packs"
                             id="units-6-packs"
-                            name="units"
+                            name="desired-units"
                             type="radio"
                             required
                             className="relative w-4 h-4 mt-1 border border-gray-300 rounded-full appearance-none checked:border-copper checked:bg-copper focus:outline focus:outline-2 focus:outline-offset-2 focus:outline-copper"
@@ -141,9 +141,9 @@ export function BobKatterBeerForm() {
                         </div>
                         <div className="flex gap-x-2.5">
                           <input
-                            defaultValue="4-packs"
+                            value="4 packs"
                             id="units-4-packs"
-                            name="units"
+                            name="desired-units"
                             type="radio"
                             required
                             className="relative w-4 h-4 mt-1 border border-gray-300 rounded-full appearance-none checked:border-copper checked:bg-copper focus:outline focus:outline-2 focus:outline-offset-2 focus:outline-copper"
@@ -152,9 +152,9 @@ export function BobKatterBeerForm() {
                         </div>
                         <div className="flex gap-x-2.5">
                           <input
-                            defaultValue="16-pack-cartons"
+                            value="16 pack cartons"
                             id="units-16-pack-cartons"
-                            name="units"
+                            name="desired-units"
                             type="radio"
                             required
                             className="relative w-4 h-4 mt-1 border border-gray-300 rounded-full appearance-none checked:border-copper checked:bg-copper focus:outline focus:outline-2 focus:outline-offset-2 focus:outline-copper"
@@ -165,9 +165,9 @@ export function BobKatterBeerForm() {
                         </div>
                         <div className="flex gap-x-2.5">
                           <input
-                            defaultValue="24-pack-cartons"
+                            value="24 pack cartons"
                             id="units-24-pack-cartons"
-                            name="units"
+                            name="desired-units"
                             type="radio"
                             required
                             className="relative w-4 h-4 mt-1 border border-gray-300 rounded-full appearance-none checked:border-copper checked:bg-copper focus:outline focus:outline-2 focus:outline-offset-2 focus:outline-copper"

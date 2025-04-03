@@ -6,10 +6,11 @@ import dynamic from 'next/dynamic'; // Import dynamic from next/dynamic
 import { Hero } from '@/components/Hero';
 import { SpacerBarley } from '@/components/SpacerBarley';
 import { UpcomingEvents } from '@/components/UpcomingEvents';
+import { BobKatterBeerForm } from '@/components/BobKatterBeerForm';
 import { SpacerHop } from '@/components/SpacerHop';
 import { SpacerWater } from '@/components/SpacerWater';
 import { AgeVerification } from '@/components/AgeVerification';
-import {ChristmasParty } from '@/components/ChristmasParty';
+import { ChristmasParty } from '@/components/ChristmasParty';
 
 // Import other components dynamically
 const OurBeersSection = dynamic(() =>
@@ -31,10 +32,6 @@ const BlogSection = dynamic(() =>
   import('@/components/BlogSection').then((mod) => mod.BlogSection)
 );
 
-function classNames(...classes: string[]) {
-  return classes.filter(Boolean).join(' ');
-}
-
 export default function Home() {
   return (
     <>
@@ -53,6 +50,7 @@ export default function Home() {
       <div className="bg-copper">
         <main>
           <Hero />
+          {/* <BobKatterBeerForm /> */}
           <OurBeersSection />
           <SpacerBarley />
           <ChristmasParty />

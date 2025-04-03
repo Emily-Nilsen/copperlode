@@ -25,7 +25,7 @@ export function BobKatterBeerForm() {
                 </p>
                 <form
                   action="#"
-                  name="the-patriot-waitlist"
+                  name="Copperlode Brewing Co. - The Patriot Waitlist"
                   subject="The Patriot Waitlist"
                   method="POST"
                   data-netlify="true"
@@ -35,7 +35,7 @@ export function BobKatterBeerForm() {
                   <input
                     type="hidden"
                     name="form-name"
-                    value="the-patriot-waitlist"
+                    value="Copperlode Brewing Co. - The Patriot Waitlist"
                   />
                   {/* Honeypot for spam prevention */}
                   <p className="hidden">

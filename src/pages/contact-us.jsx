@@ -84,8 +84,8 @@ export default function ContactUs() {
                     />
                   </dt>
                   <dd>
-                    <a className="hover:text-white" href="tel:0405 906 963">
-                      0405 906 963
+                    <a className="hover:text-white" href="tel:+61 7 4019 7861">
+                      +61 7 4019 7861
                     </a>
                   </dd>
                 </div>

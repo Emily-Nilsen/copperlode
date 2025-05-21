@@ -50,7 +50,7 @@ export default function Home() {
       <div className="bg-copper">
         <main>
           <Hero />
-          <BobKatterBeerForm />
+          {/* <BobKatterBeerForm /> */}
           <OurBeersSection />
           <SpacerBarley />
           <ChristmasParty />
